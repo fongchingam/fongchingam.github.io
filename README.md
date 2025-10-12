@@ -1,2 +1,4 @@
-# Chingam Fong 
-Hi there! I am a Ph.D. student of the Chinese University of Hong Kong, started in 2021. Currently my project is on cosmic ray interaction in the inner heliosphere and interaction with the Sun.
+# About
+Hi there! Since 2021, I have been a Physics Ph.D. student in the Chinese University of Hong Kong, studying under Professor Kenny C. Y. Ng. 
+
+Currently my project is on cosmic ray interaction in the inner heliosphere and interaction with the Sun.
