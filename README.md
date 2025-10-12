@@ -1,3 +1,8 @@
+
+---
+layout: default
+---
+
 # About
 Hi there! Since 2021, I have been a Physics Ph.D. student in the Chinese University of Hong Kong, studying under Professor Kenny C. Y. Ng. 
 
