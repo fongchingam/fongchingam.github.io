@@ -6,7 +6,7 @@ Hi there! My name is **Chingam Fong** *(both Chi-um and Chin-gum are acceptable 
 
 Currently my project is on cosmic ray interaction in the inner heliosphere and interaction with the Sun.
 <!--- --->
-![Hiking in Taishan, Sep. 2025](https://github.com/fongchingam/fongchingam.github.io/blob/main/images/20250918(1).jpg)
+![profile pic](https://wp.phy.cuhk.edu.hk/wp-content/uploads/21-phd-fong-chi-ngam.jpg))
 
 # Publications 
 
