@@ -28,7 +28,7 @@ For my most updated publications, please check [inspire hep page](https://inspir
    (*poster*) The 2nd LHAASO Collaboration Conference in 2024 | Oct 2024 | Chengdu, China 
    The International Symposium on Cosmology and Particle Astrophysics (CoSPA2023) | Nov 2023 | Hong Kong, China [link](https://indico.cern.ch/event/1340084/contributions/5642891/)
    XVIII International Conference on Topics in Astroparticle and Underground Physics (TAUP2023) | Aug 2023 | Vienna, Austria [link](https://indico.cern.ch/event/1199289/contributions/5446691/)
-   The 29th International Workshops on Weak Interactions (WIN2023) | Jul 2023 | Zhuhai, China [link](https://indico.ihep.ac.cn/event/18269/contributions/134960/)
+   * The 29th International Workshops on Weak Interactions (WIN2023) | Jul 2023 | Zhuhai, China [link](https://indico.ihep.ac.cn/event/18269/contributions/134960/)
    (*online*) American Physics Society April Meeting 2023 | Apr 2023 | [link](https://meetings.aps.org/Meeting/APR23/Session/CCC01.7) 
 
 
