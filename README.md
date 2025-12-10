@@ -20,11 +20,11 @@ For my most updated publications, please check [inspire hep page](https://inspir
 
 # Presentations
   <!---* Constraining Particle Dark Matter with eROSITA Early Data --->
-  * XIV International Conference on Topics in Astroparticle and Underground Physics (TAUP2025) | Aug 2025 | Xichang, China [link](https://indico-cdex.ep.tsinghua.edu.cn/event/175/contributions/2189/)
-    Institute of High Energy Physics seminar | April 2025 | Beijing, China [link](https://ihep.cas.cn/astro/xshd/xlxsbg/202506/t20250613_7869066.html)
+  * XIX International Conference on Topics in Astroparticle and Underground Physics (TAUP2025) | Aug 2025 | Xichang, China [link](https://indico-cdex.ep.tsinghua.edu.cn/event/175/contributions/2189/)
+    Institute of High Energy Physics Seminar | April 2025 | Beijing, China [link](https://ihep.cas.cn/astro/xshd/xlxsbg/202506/t20250613_7869066.html)
    (*poster*) The 2nd LHAASO Symposium | Mar 2025 | Hong Kong, China
    Center for Astrophysics High Energy division (CfA HEA) Seminar | Dec 2024 | Cambridge Massachusetts, USA [link](https://www.cfa.harvard.edu/calendar/event/10934/) [YouTube](https://www.youtube.com/watch?v=TILM7g6zYSc)
-   (*poster*) American Geophysical Union annual meeting 2024 | Dec 2024 | Washington D.C., USA
+   (*poster*) American Geophysical Union Annual Meeting 2024 | Dec 2024 | Washington D.C., USA
    Center for Cosmology and AstroParticle Physics (CCAPP) AstroParticle Lunch | Dec 2024 | Columbus Ohio, USA [link](https://sites.google.com/site/ccappastrolunch/ccapp-astroparticle-lunch/2024?authuser=0)
    (*poster*) The 2nd LHAASO Collaboration Conference in 2024 | Oct 2024 | Chengdu, China 
    The International Symposium on Cosmology and Particle Astrophysics (CoSPA2023) | Nov 2023 | Hong Kong, China [link](https://indico.cern.ch/event/1340084/contributions/5642891/)
