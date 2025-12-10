@@ -20,7 +20,7 @@ For my most updated publications, please check [inspire hep page](https://inspir
 
 # Presentations
   <!---* Constraining Particle Dark Matter with eROSITA Early Data --->
-  *XIV International Conference on Topics in Astroparticle and Underground Physics (TAUP2025) | Aug 2025 | Xichang, China [link](https://indico-cdex.ep.tsinghua.edu.cn/event/175/contributions/2189/)
+  * XIV International Conference on Topics in Astroparticle and Underground Physics (TAUP2025) | Aug 2025 | Xichang, China [link](https://indico-cdex.ep.tsinghua.edu.cn/event/175/contributions/2189/)
    (*poster*) The 2nd LHAASO Symposium | Mar 2025 | Hong Kong, China
    Center for Astrophysics High Energy division (CfA HEA) Seminar | Dec 2025 | Cambridge Massachusetts, USA [link](https://www.cfa.harvard.edu/calendar/event/10934/) [YouTube](https://www.youtube.com/watch?v=TILM7g6zYSc)
    (*poster*) American Geophysical Union annual meeting 2024 | Dec 2025 | Washington D.C., USA
