@@ -3,7 +3,6 @@ description: A page for my project and potentially interesting things about me
 theme: jekyll-theme-leap-day
 
 header_pages:
-  - index.md
-  - about.md
+  - readme.md
   - papers.md   # New tab
 
