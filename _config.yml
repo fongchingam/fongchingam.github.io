@@ -15,19 +15,3 @@ theme: jekyll-theme-leap-day
 
 
 
-collections:
-  tools:
-    output: true
-  languages:
-    output: true
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: page
-
-liquid:
-  error_mode: strict
-
-strict_front_matter: true
