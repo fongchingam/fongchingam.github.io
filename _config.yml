@@ -1,10 +1,35 @@
 
-header_pages:
-  - readme.md
-  - papers.md   # New tab
+### Site metadata
+
+# Don't make the title longer than this, otherwise it gets covered in mobile view.
 
 title: Chingam Fong's homepage
 description: A page for my project and potentially interesting things about me
+
+email: fongchingam@link.cuhk.edu.hk
+github_username: fongchingam
+rss: RSS
+
+### Build settings
 theme: jekyll-theme-leap-day
 
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
 
+collections:
+  tools:
+    output: true
+  languages:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+
+liquid:
+  error_mode: strict
+
+strict_front_matter: true
