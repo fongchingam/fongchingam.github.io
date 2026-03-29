@@ -1,8 +1,10 @@
-title: Chingam Fong's homepage
-description: A page for my project and potentially interesting things about me
-theme: jekyll-theme-leap-day
 
 header_pages:
   - readme.md
   - papers.md   # New tab
+
+title: Chingam Fong's homepage
+description: A page for my project and potentially interesting things about me
+theme: jekyll-theme-leap-day
+
 
