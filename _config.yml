@@ -13,9 +13,7 @@ rss: RSS
 ### Build settings
 theme: jekyll-theme-leap-day
 
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
+
 
 collections:
   tools:
