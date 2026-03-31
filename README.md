@@ -1,5 +1,5 @@
 
-![profile pic](https://wp.phy.cuhk.edu.hk/wp-content/uploads/21-phd-fong-chi-ngam.jpg)
+![profile pic](https://raw.githubusercontent.com/fongchingam/fongchingam.github.io/main/images/20250918(3).jpg)
 
 # About
 Hi there! My name is **Chingam Fong** 
