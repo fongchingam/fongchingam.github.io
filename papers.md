@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Papers
-permalink: /papers/
+title: arxiv picks
+permalink: /arxiv picks/
 ---
 
 <h1>My arxiv Paper Collection</h1>
