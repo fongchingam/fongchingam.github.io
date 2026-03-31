@@ -11,7 +11,7 @@ github_username: fongchingam
 rss: RSS
 
 ### Build settings
-theme: jekyll-theme-leap-day
+theme: minima
 
 
 
