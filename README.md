@@ -4,7 +4,7 @@
 # About
 Hi there! My name is **Chingam Fong** 
 
-<sup>*(both Chi-um and Chin-gum are acceptable pronounciation, or you can call me by my Chinese name 房智岩)*</sup>. 
+<sup>*(both Chi-um and Chin-gum are acceptable pronounciation, or you can call me by my Chinese name 房智岩)*</sup>
 
 Since 2021, I have been a Physics Ph.D. student in the Chinese University of Hong Kong, studying under Professor Kenny C. Y. Ng. 
 

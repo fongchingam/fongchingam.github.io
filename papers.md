@@ -10,7 +10,7 @@ permalink: /arxiv-picks/
 <script>
 async function addPaper(arxivId) {
   try {
-    const response = await fetch(`https://export.arxiv.org/api/query?id_list=${arxivId}`);
+    const response = await fetch("https://export.arxiv.org/api/query?id_list=" + arxivId);
     const text = await response.text();
 
     const parser = new DOMParser();
@@ -34,7 +34,7 @@ async function addPaper(arxivId) {
 }
 
 // Example papers
-addPaper("2401.12345");
+addPaper("2401.16747");
 addPaper("2309.67890");
 </script>
 
