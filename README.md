@@ -15,4 +15,12 @@ Currently my project is on cosmic ray interaction in the inner heliosphere and i
 <!---I led the development of particle interaction --->
 
 I also have interest in indirect Dark Matter search, using astrophysical signals.
+
+# Projects:
+
+ * [G4SOLAR:](https://github.com/fongchingam/G4SOLAR) (accessible upon request) Geant4 toolkit for simulating cosmic-ray propagation and interaction in the solar atmosphere.
+ 
+ * [PyCoFie:](https://fongchingam.github.io/PyCoFie/) A python package to solve Coronal magnetic field models. Aim to address the speed issue with the existing IDL code.
+
+
 <!--- --->
