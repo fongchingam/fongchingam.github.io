@@ -4,12 +4,12 @@ title: Papers
 permalink: /papers/
 ---
 
-<h1>My Paper Collection</h1>
+<h1>My arxiv Paper Collection</h1>
 <ul id="paper-list"></ul>
 
 <script>
 async function addPaper(arxivId) {
-  const response = await fetch(`https://export.arxiv.org/api/query?id_list=${arxivId}`);
+  const response = await fetch(`https://export.arxiv.org/api/query?id_list=${2401.16747}`);
   const text = await response.text();
   const parser = new DOMParser();
   const xml = parser.parseFromString(text, "application/xml");
