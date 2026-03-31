@@ -6,9 +6,6 @@ permalink: /arxiv-picks/
 
 <h1>My arXiv Paper Collection</h1>
 
-<input type="text" id="arxiv-input" placeholder="Enter arXiv ID (e.g. 2401.16747)">
-<button onclick="addPaper(document.getElementById('arxiv-input').value)">Add Paper</button>
-
 <ul id="paper-list"></ul>
 
 <script>
