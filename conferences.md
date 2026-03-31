@@ -1,25 +1,11 @@
-
+---
+layout: page
+title: Conferences
+permalink: /Conferences/
 ---
 
-![profile pic](https://wp.phy.cuhk.edu.hk/wp-content/uploads/21-phd-fong-chi-ngam.jpg)
-
-# About
-Hi there! My name is **Chingam Fong** 
-<sup>*(both Chi-um and Chin-gum are acceptable pronounciation, or you can call me by my Chinese name 房智岩)*</sup>. 
-
-Since 2021, I have been a Physics Ph.D. student in the Chinese University of Hong Kong, studying under Professor Kenny C. Y. Ng. 
-
-Currently my project is on cosmic ray interaction in the inner heliosphere and interaction with the Sun, with the focus in the influence of corona magnetic field.
-
-<!---I led the development of particle interaction --->
-
-I also have interest in indirect Dark Matter search, using astrophysical signals.
-<!--- --->
-
-
-# Publications 
-
-For my most updated publications, please check [inspire hep page](https://inspirehep.net/authors/2761058?ui-citation-summary=true)
+<h1>Conference and Seminar Presentations</h1>
+<ul id="Conferences"></ul>
 
 # Presentations
   <!---* Constraining Particle Dark Matter with eROSITA Early Data --->
@@ -34,5 +20,3 @@ For my most updated publications, please check [inspire hep page](https://inspir
    XVIII International Conference on Topics in Astroparticle and Underground Physics (TAUP2023) | Aug 2023 | Vienna, Austria [link](https://indico.cern.ch/event/1199289/contributions/5446691/)
    The 29th International Workshops on Weak Interactions (WIN2023) | Jul 2023 | Zhuhai, China [link](https://indico.ihep.ac.cn/event/18269/contributions/134960/)
    (*online*) American Physics Society April Meeting 2023 | Apr 2023 | [link](https://meetings.aps.org/Meeting/APR23/Session/CCC01.7) 
-
-
