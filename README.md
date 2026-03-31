@@ -1,10 +1,10 @@
 
 ![profile pic](https://raw.githubusercontent.com/fongchingam/fongchingam.github.io/main/images/20250918(3).jpg)
 
-# About
-Hi there! My name is **Chingam Fong** 
-
+# Chingam Fong
 <sup>*(both Chi-um and Chin-gum are acceptable pronounciation, or you can call me by my Chinese name 房智岩)*</sup>
+
+**Email:** fongchingam@link.cuhk.edu.hk [**ORCID:**](https://orcid.org/0009-0002-3492-9849) [INSPIRE HEP](https://inspirehep.net/authors/2761058?ui-citation-summary=true)
 
 Since 2021, I have been a Physics Ph.D. student in the Chinese University of Hong Kong, studying under Professor Kenny C. Y. Ng. 
 
@@ -14,9 +14,3 @@ Currently my project is on cosmic ray interaction in the inner heliosphere and i
 
 I also have interest in indirect Dark Matter search, using astrophysical signals.
 <!--- --->
-
-
-# Publications 
-
-For my most updated publications, please check [inspire hep page](https://inspirehep.net/authors/2761058?ui-citation-summary=true)
-
