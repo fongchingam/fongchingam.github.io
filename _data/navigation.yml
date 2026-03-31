@@ -5,4 +5,6 @@ main:
     url: /conferences/
   - title: "arxiv-picks"
     url: /papers/
+  - title: "Bio"
+    url: /bio/
 
