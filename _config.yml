@@ -13,5 +13,8 @@ rss: RSS
 ### Build settings
 theme: minima
 
+navigation: main
+
+
 
 
