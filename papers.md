@@ -38,6 +38,4 @@ addPaper("2401.12345");
 addPaper("2309.67890");
 </script>
 
-<input type="text" id="arxiv-input" placeholder="Enter arXiv ID">
-<button onclick="addPaper(document.getElementById('arxiv-input').value)">Add Paper</button>
 
