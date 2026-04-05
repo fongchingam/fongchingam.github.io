@@ -122,7 +122,8 @@ layout: page
 title: "Arxiv Picks"
 permalink: /arxiv-picks/
 ---
-This is my paper collection I find interesting
+
+I check arxiv daily to collect papers I find interesting, relevant to my research, or have funny titles. 
 
 """)
         for year in sorted(grouped.keys(), reverse=True):
