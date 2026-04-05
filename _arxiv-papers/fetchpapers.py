@@ -78,7 +78,7 @@ def main():
 
     known_ids = {p["id"] for p in papers}
     new_ids = []
-    with open("papers.txt") as f:
+    with open("newpapers.txt") as f:
         for line in f:
             if not line or line.startswith("#"):
                 continue
