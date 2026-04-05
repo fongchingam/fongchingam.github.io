@@ -5,12 +5,117 @@ permalink: /arxiv-picks/
 ---
 This is my paper collection I find interesting
 
+# 2026
+
+## April 2026
+
+### [The impact of the eROSITA bubbles on Galactic cosmic-ray transport](https://arxiv.org/abs/2604.01815v1)
+**Authors:** Benedikt Schroer
+
+**Published:** 2026-04-02T09:26:51Z
+
+We propose that the observed spectral hardening in Galactic cosmic ray fluxes is governed by macroscopic Galactic outflows, such as the eROSITA bubbles, rather than microphysical variations in their scattering properties. Employing a phenomenological transport model, we show that an advective outflow boundary naturally reproduces the $300\,$GV hardening in secondary-to-primary ratios. Global fits to precision AMS-02 data yield an effective local inner halo boundary of $\sim 5\,$kpc and an outflow speed of $\sim 360\,$km/s, in striking agreement with independent multi-wavelength kinematic constraints of the eROSITA outflows. This interpretation provides a testable alternative to breaks in the effective diffusion coefficient, without increasing the number of free parameters.
+
+---
+
+### [Lights, Camera, Axion: Tracing Axions from Supernovae in the Diffuse $γ$-ray Sky](https://arxiv.org/abs/2604.01277v1)
+**Authors:** Brijesh Kanodia, Debajit Bose, Subhadip Bouri, Ranjan Laha
+
+**Published:** 2026-04-01T18:00:04Z
+
+Axions produced copiously in core-collapse supernovae can convert into photons as they propagate through various astrophysical magnetic fields. The cumulative emission from the cosmic population of supernovae can therefore generate a diffuse gamma-ray signal through axion-photon conversion. In this work, we develop a comprehensive framework to compute the diffuse gamma-ray flux by modeling axion production in supernovae and, \textit{for the first time}, consistently accounting for their conversion into photons across all relevant magnetic field environments - progenitor, host galaxy, intergalactic medium, and the Milky Way - together with an updated cosmic star formation rate. Using measurements of the diffuse gamma-ray sky from COMPTEL, EGRET, and \textit{Fermi}-LAT, we derive competitive constraints on the axion-photon coupling over a wide range of axion masses. We further forecast the sensitivity of upcoming MeV gamma-ray telescopes to this diffuse signal using a Fisher forecast analysis.
+
+---
+
+### [Addressing the open flux problem with a non-spherical solar coronal magnetic field model](https://arxiv.org/abs/2604.01028v1)
+**Authors:** Ziqi Wu, Jiansen He, Chuanpeng Hou, Tom van Doorsselaere, Rui Zhuo, Tianhang Chen, Liping Yang, David Pontin, Daniel Verscharen, Fang Shen
+
+**Published:** 2026-04-01T15:33:54Z
+
+The coronal magnetic field plays a fundamental role in governing coronal activities, driving space-weather events, and shaping the heliosphere. Due to a lack of direct observations, extrapolation models such as the Potential Field Source Surface (PFSS) model become the primary method to obtain the three-dimensional magnetic field distribution in the corona. However, the PFSS model cannot solve the long-standing open-flux problem, in which the extrapolated open magnetic flux is significantly lower than that inferred from in-situ measurements. To address this issue, we develop an innovative Non-Spherical Potential Field (NSPF) model. The model introduces a Non-Spherical Source Surface (NSSS) defined as an isosurface of the total magnetic field. The NSSS naturally forms concave structures beneath external current sheets, enabling the model to generate substantially more open magnetic flux while yielding a physically plausible distribution of open field regions. As a result, the NSPF model successfully reproduces complex coronal magnetic topologies, interplanetary magnetic field properties, and solar wind source mappings. Our refined coronal magnetic model provides a proper foundation for future research on solar and heliospheric magnetic coupling.
+
+---
+
+### [Influence of tides and self-gravity on Ultra-Light Dark Matter Bounds from Dwarf Galaxies](https://arxiv.org/abs/2604.01278v1)
+**Authors:** Andrea Caputo, Luca Teodori
+
+**Published:** 2026-04-01T18:00:05Z
+
+Dwarf spheroidal galaxies provide some of the most sensitive astrophysical probes of ultra-light dark matter (ULDM), but the inferred constraints can be affected by two important systematics: tidal interactions with the Milky Way, which reduce ULDM-induced dynamical heating, and stellar self-gravity, which can become relevant if the stellar component was more compact at earlier times. In this work, we attempt to estimate both effects by reconstructing dwarf-galaxy orbital histories in a Milky-Way potential, adopting a simple and approximate tidal-susceptibility diagnostic that we argue provides a conservative description of tidal stripping, and explicitly including stellar self-gravity in our numerical simulations. Within our framework, which we apply to five different dwarf galaxies, we find that ULDM with masses $5\times 10^{-22} \lesssim m/{\rm eV} \lesssim 5\times 10^{-21}$ remains in tension with current data.
+
+---
+
+### [Quantum Fisher Information as a Probe of Sterile Neutrino New Physics:Geometric Advantage of KM3NeT over IceCube](https://arxiv.org/abs/2604.01256v1)
+**Authors:** Baktiar Wasir Farooq, Bipin Singh Koranga, Aritro Chatterjee
+
+**Published:** 2026-04-01T10:16:14Z
+
+We investigate a reported discrepancy between a high-energy neutrino detection at KM3NeT and its non-observation at IceCube, which suggests a statistical tension of up to 3.5 standard deviations. This gap has been proposed to arise from sterile neutrino oscillations over the 147-kilometer path to KM3NeT, driven by either matter-induced resonances or nonstandard interactions. Using the Quantum Fisher Information framework, we quantify the sensitivity of the neutrino state to these new physics couplings and establish fundamental precision limits via the quantum Cramer-Rao bound. Our analysis shows that the information available at KM3NeT exceeds that at IceCube by three orders of magnitude for matter-induced scenarios. We demonstrate that IceCube would require over thirty times more events to match the precision of a single KM3NeT detection. We identify an optimal baseline of 150 to 200 kilometers, placing KM3NeT in a superior position for these measurements. Our results show that standard detection methods already reach the ultimate quantum precision limit, and that a small number of future events at KM3NeT could provide the first quantum-limited constraints on sterile neutrino couplings.
+
+---
+
+### [Plummer Dark Matter Black Hole with Topological Defects: Shadow, Greybody Factors, Quasinormal Modes, and Thermodynamics](https://arxiv.org/abs/2604.01255v1)
+**Authors:** Ahmad Al-Badawi, Faizuddin Ahmed, İzzet Sakallı
+
+**Published:** 2026-04-01T09:06:38Z
+
+We construct a static, spherically symmetric black hole (BH) solution embedded in a cored Plummer dark matter (DM) halo and a Letelier cloud of strings (CoS). Starting from the Plummer-Schwarzschild metric of Senjaya et al.~\cite{Senjaya2026}, we incorporate the string-cloud tension parameter $α$ into the lapse function, obtaining $A(r) = h_{\rm Plummer}(r) - α$. The resulting spacetime admits a single, non-degenerate event horizon (EH) for $α< 1$ and a naked singularity for $α\ge 1$. We determine the photon sphere (PS) and BH shadow radii, compute the weak deflection angle via the Gauss-Bonnet theorem (GBT), and analyze the innermost stable circular orbit (ISCO). Scalar perturbations are studied through the effective potential, greybody factor (GF) bounds obtained from the Boonserm-Visser method, the Hawking emission spectrum, and quasinormal mode (QNM) frequencies computed with the WKB approximation. The thermodynamic analysis covers the Hawking temperature, Bekenstein-Hawking entropy, heat capacity, and Gibbs free energy; the heat capacity is found to be strictly negative for all parameter values, confirming the absence of any Davies-type phase transition. A consistent hierarchy emerges across all six analyses: the CoS tension $α$ governs the leading-order modifications to every observable, while the Plummer halo density $ρ_0$ provides a subdominant, additive correction.
+
+---
+
+## March 2026
+
+### [100 years of spin: fundamental physics, dark matter, exotic interactions, and all that](https://arxiv.org/abs/2604.00231v1)
+**Authors:** Dmitry Budker, Tim Chupp, Klaus Kirch, W. Mike Snow
+
+**Published:** 2026-03-31T20:53:40Z
+
+For a century, spin has been an indispensable probe of the fundamental laws of nature. A reflection on the role of spin in shaping modern physics is presented, from the early days of quantum mechanics to the latest precision tests of the Standard Model. The significance of magnetic and electric dipole moments in testing CP and CPT symmetries is surveyed, along with the ongoing searches for exotic spin-dependent interactions that may reveal the nature of dark matter and its connection to spacetime geometry. Through these vignettes, it is shown that spin continues to provide a fresh perspective on the most profound questions in physics today.
+
+---
+
+### [Non-Cold Dark Matter from Memory-Burdened Primordial Black Holes](https://arxiv.org/abs/2604.00090v1)
+**Authors:** Valentin Thoss, Laura Lopez-Honorez, Florian Kühnel, Marco Hufnagel
+
+**Published:** 2026-03-31T18:02:21Z
+
+Non-cold dark matter particles can arise from the evaporation of primordial black holes (PBHs). In this paper, we further investigate how the memory-burden effect, which delays the full evaporation of black holes, affects the Lyman-$α$ bound on such non-cold dark matter (NCDM) particles. We mainly focus on scenarios in which PBHs have fully evaporated by today, undergoing a semi-classical evaporation phase followed by a memory-burden dominated phase. In this framework, PBH evaporation generically leads to two distinct dark-matter populations with different velocity dispersions, which can imprint observable signatures on the matter power spectrum. We compute the resulting NCDM phase-space distribution and its impact on small-scale overdensities using the $\texttt{BlackHawk}$ and $\texttt{CLASS}$ codes. This is then used to reinterpret Lyman-$α$ forest constraints for thermal warm dark matter, deriving both a velocity-dispersion-based and a matter-power-spectrum-based estimate. In particular, we discuss how we obtain constraints on scenarios in which NCDM particles constitute only a fraction of the total relic dark matter. Finally, we discuss the viable parameter space as a function of dark matter masses, PBH initial conditions, and memory-burden parameters. We show that even subdominant NCDM components from PBH evaporation can be constrained, and confirm that NCDM can only account for all of the dark matter in the absence of PBH domination, as in the semi-classical case.
+
+---
+
 ### [Set the Night on FIRE: Building an Empirical Local Dark Matter Velocity Distribution](https://arxiv.org/abs/2603.25783v1)
 **Authors:** Xiuyuan Zhang, Andreas Thoyas, Lina Necib, Andrew Wetzel, Arpit Arora
 
 **Published:** 2026-03-26T18:00:00Z
 
 The majority of terrestrial direct detection experiments for Dark Matter (DM) rely on the Standard Halo Model (SHM), which assumes the local DM velocity distribution follows a Maxwell-Boltzmann distribution. However, galaxy mergers can deposit DM that remains kinematically clustered today, inducing deviations from the smooth SHM prediction. Previous studies have suggested that the local stellar velocity distribution may serve as a tracer for DM populations originating from the same progenitor systems. In this work, we systematically investigate how merger mass and accretion time affect the correlation between local stellar and DM velocity distributions in Milky Way-like galaxies from the FIRE-2 simulations. We find a strong correlation between traceable DM components and their stellar counterparts, with the tightest correspondence arising from lower-mass mergers accreted at earlier cosmic times. For the remaining DM that lacks an identifiable stellar counterpart, which dominate the full DM fraction, we find that its velocity distribution is well described by a component-wise generalized Gaussian. Combining these two ingredients, we reconstruct the full local DM velocity distribution. This framework captures merger-induced features-such as co-rotation of accreted material with the galactic disk-that are entirely absent in the SHM. Finally, we propagate uncertainties through the reconstruction and show that they are dominated by the stellar mass-halo mass relation, which is unlikely to improve substantially in the near term. We therefore argue that this framework approaches the current limit of our ability to characterize the local DM velocity distribution.
+
+---
+
+### [Constraints on axion-like particles via associated diboson production in hadronic collisions](https://arxiv.org/abs/2603.26373v1)
+**Authors:** Barbara Jäger, Ozan Semin
+
+**Published:** 2026-03-27T12:58:22Z
+
+We investigate the sensitivity of current and future hadron-collider experiments to axion-like particles (ALPs) through associated diboson production, focusing on a linear effective field theory framework with bosonic ALP couplings. We analyze the dominant production mechanisms and relevant backgrounds, considering the impact of jet misidentification rates on the diboson background. We present our results using conservative jet-misidentification rates, and derive four dimensional constraints on the ALP couplings to gluons, weak bosons, and photons. Our findings highlight the potential of the high-luminosity phase of the CERN Large Hadron Collider to probe the ALP parameter space in the sub-GeV mass range, as well as the codependencies of the various ALP couplings.
+
+---
+
+### [Next-to-Minimal Freeze-in Dark Matter](https://arxiv.org/abs/2604.00210v1)
+**Authors:** Nicolás Bernal, Sagnik Mukherjee, James Unwin
+
+**Published:** 2026-03-31T20:25:33Z
+
+If the dark matter mass exceeds the highest temperature of the thermal bath, then dark matter production is Boltzmann suppressed. This opens new possibilities for dark matter model building. In particular, WIMP models that are experimentally excluded can be revived in this setting; conversely, freeze-in models, which would typically be beyond experimental reach, are potentially discoverable in the Boltzmann suppressed regime. In a recent letter, we highlighted these aspects for the case of electroweak doublet fermion dark matter assuming instantaneous inflationary reheating. Due to its elegance and simplicity, we coin this {\em Minimal Freeze-in} (MFI) Dark Matter. Here we consider next-to-minimal extensions of MFI dark matter. We present the implications for non-instantaneous reheating, including scenarios beyond the standard picture in which the Universe is initially matter dominated prior to reheating. Furthermore, we explore model variations within the electroweak dark matter scenario. Specifically, we consider fermion dark matter in higher representations of SU(2)${}_L$, exploring the current limits and the near-future discovery potential.
+
+---
+
+### [Probing Sub-MeV Dark Matter with Neutron-Capture $γ$ Spectroscopy](https://arxiv.org/abs/2603.26472v1)
+**Authors:** B. Meirose, D. Milstead
+
+**Published:** 2026-03-27T14:37:42Z
+
+We present a general, discovery-grade framework for searching for weakly coupled new particles emitted in nuclear de-excitation following neutron capture. Rather than relying on isolated spectral features, the method exploits correlated ``satellite-line combs'': multiple weak $γ$-ray lines appearing at a common energy offset $Δ$ below known capture transitions. By combining likelihood information across many parent lines and multiple target nuclei, the approach strongly suppresses nuclear-structure ambiguities and instrumental artifacts. We also discuss optimal target selection and practical experimental implementation with high-resolution HPGe detectors.
 
 ---
 
@@ -32,111 +137,12 @@ Dark matter (DM) particles decaying in the Galactic halo can inject energetic $e
 
 ---
 
-### [Addressing the open flux problem with a non-spherical solar coronal magnetic field model](https://arxiv.org/abs/2604.01028v1)
-**Authors:** Ziqi Wu, Jiansen He, Chuanpeng Hou, Tom van Doorsselaere, Rui Zhuo, Tianhang Chen, Liping Yang, David Pontin, Daniel Verscharen, Fang Shen
+### [Can LLMs Produce Original Astronomy Research in a Semester? A Graduate Class Experiment](https://arxiv.org/abs/2603.25984v1)
+**Authors:** Ann Zabludoff, Chen-Yu Chuang, Parker Thomas Johnson, Yichen Liu, Brina Bianca Martinez, Neev Shah, Lucille Steffes, Gabriel Glen Weible
 
-**Published:** 2026-04-01T15:33:54Z
+**Published:** 2026-03-27T00:12:04Z
 
-The coronal magnetic field plays a fundamental role in governing coronal activities, driving space-weather events, and shaping the heliosphere. Due to a lack of direct observations, extrapolation models such as the Potential Field Source Surface (PFSS) model become the primary method to obtain the three-dimensional magnetic field distribution in the corona. However, the PFSS model cannot solve the long-standing open-flux problem, in which the extrapolated open magnetic flux is significantly lower than that inferred from in-situ measurements. To address this issue, we develop an innovative Non-Spherical Potential Field (NSPF) model. The model introduces a Non-Spherical Source Surface (NSSS) defined as an isosurface of the total magnetic field. The NSSS naturally forms concave structures beneath external current sheets, enabling the model to generate substantially more open magnetic flux while yielding a physically plausible distribution of open field regions. As a result, the NSPF model successfully reproduces complex coronal magnetic topologies, interplanetary magnetic field properties, and solar wind source mappings. Our refined coronal magnetic model provides a proper foundation for future research on solar and heliospheric magnetic coupling.
-
----
-
-### [Plummer Dark Matter Black Hole with Topological Defects: Shadow, Greybody Factors, Quasinormal Modes, and Thermodynamics](https://arxiv.org/abs/2604.01255v1)
-**Authors:** Ahmad Al-Badawi, Faizuddin Ahmed, İzzet Sakallı
-
-**Published:** 2026-04-01T09:06:38Z
-
-We construct a static, spherically symmetric black hole (BH) solution embedded in a cored Plummer dark matter (DM) halo and a Letelier cloud of strings (CoS). Starting from the Plummer-Schwarzschild metric of Senjaya et al.~\cite{Senjaya2026}, we incorporate the string-cloud tension parameter $α$ into the lapse function, obtaining $A(r) = h_{\rm Plummer}(r) - α$. The resulting spacetime admits a single, non-degenerate event horizon (EH) for $α< 1$ and a naked singularity for $α\ge 1$. We determine the photon sphere (PS) and BH shadow radii, compute the weak deflection angle via the Gauss-Bonnet theorem (GBT), and analyze the innermost stable circular orbit (ISCO). Scalar perturbations are studied through the effective potential, greybody factor (GF) bounds obtained from the Boonserm-Visser method, the Hawking emission spectrum, and quasinormal mode (QNM) frequencies computed with the WKB approximation. The thermodynamic analysis covers the Hawking temperature, Bekenstein-Hawking entropy, heat capacity, and Gibbs free energy; the heat capacity is found to be strictly negative for all parameter values, confirming the absence of any Davies-type phase transition. A consistent hierarchy emerges across all six analyses: the CoS tension $α$ governs the leading-order modifications to every observable, while the Plummer halo density $ρ_0$ provides a subdominant, additive correction.
-
----
-
-### [Influence of tides and self-gravity on Ultra-Light Dark Matter Bounds from Dwarf Galaxies](https://arxiv.org/abs/2604.01278v1)
-**Authors:** Andrea Caputo, Luca Teodori
-
-**Published:** 2026-04-01T18:00:05Z
-
-Dwarf spheroidal galaxies provide some of the most sensitive astrophysical probes of ultra-light dark matter (ULDM), but the inferred constraints can be affected by two important systematics: tidal interactions with the Milky Way, which reduce ULDM-induced dynamical heating, and stellar self-gravity, which can become relevant if the stellar component was more compact at earlier times. In this work, we attempt to estimate both effects by reconstructing dwarf-galaxy orbital histories in a Milky-Way potential, adopting a simple and approximate tidal-susceptibility diagnostic that we argue provides a conservative description of tidal stripping, and explicitly including stellar self-gravity in our numerical simulations. Within our framework, which we apply to five different dwarf galaxies, we find that ULDM with masses $5\times 10^{-22} \lesssim m/{\rm eV} \lesssim 5\times 10^{-21}$ remains in tension with current data.
-
----
-
-### [The impact of the eROSITA bubbles on Galactic cosmic-ray transport](https://arxiv.org/abs/2604.01815v1)
-**Authors:** Benedikt Schroer
-
-**Published:** 2026-04-02T09:26:51Z
-
-We propose that the observed spectral hardening in Galactic cosmic ray fluxes is governed by macroscopic Galactic outflows, such as the eROSITA bubbles, rather than microphysical variations in their scattering properties. Employing a phenomenological transport model, we show that an advective outflow boundary naturally reproduces the $300\,$GV hardening in secondary-to-primary ratios. Global fits to precision AMS-02 data yield an effective local inner halo boundary of $\sim 5\,$kpc and an outflow speed of $\sim 360\,$km/s, in striking agreement with independent multi-wavelength kinematic constraints of the eROSITA outflows. This interpretation provides a testable alternative to breaks in the effective diffusion coefficient, without increasing the number of free parameters.
-
----
-
-### [Non-Cold Dark Matter from Memory-Burdened Primordial Black Holes](https://arxiv.org/abs/2604.00090v1)
-**Authors:** Valentin Thoss, Laura Lopez-Honorez, Florian Kühnel, Marco Hufnagel
-
-**Published:** 2026-03-31T18:02:21Z
-
-Non-cold dark matter particles can arise from the evaporation of primordial black holes (PBHs). In this paper, we further investigate how the memory-burden effect, which delays the full evaporation of black holes, affects the Lyman-$α$ bound on such non-cold dark matter (NCDM) particles. We mainly focus on scenarios in which PBHs have fully evaporated by today, undergoing a semi-classical evaporation phase followed by a memory-burden dominated phase. In this framework, PBH evaporation generically leads to two distinct dark-matter populations with different velocity dispersions, which can imprint observable signatures on the matter power spectrum. We compute the resulting NCDM phase-space distribution and its impact on small-scale overdensities using the $\texttt{BlackHawk}$ and $\texttt{CLASS}$ codes. This is then used to reinterpret Lyman-$α$ forest constraints for thermal warm dark matter, deriving both a velocity-dispersion-based and a matter-power-spectrum-based estimate. In particular, we discuss how we obtain constraints on scenarios in which NCDM particles constitute only a fraction of the total relic dark matter. Finally, we discuss the viable parameter space as a function of dark matter masses, PBH initial conditions, and memory-burden parameters. We show that even subdominant NCDM components from PBH evaporation can be constrained, and confirm that NCDM can only account for all of the dark matter in the absence of PBH domination, as in the semi-classical case.
-
----
-
-### [Next-to-Minimal Freeze-in Dark Matter](https://arxiv.org/abs/2604.00210v1)
-**Authors:** Nicolás Bernal, Sagnik Mukherjee, James Unwin
-
-**Published:** 2026-03-31T20:25:33Z
-
-If the dark matter mass exceeds the highest temperature of the thermal bath, then dark matter production is Boltzmann suppressed. This opens new possibilities for dark matter model building. In particular, WIMP models that are experimentally excluded can be revived in this setting; conversely, freeze-in models, which would typically be beyond experimental reach, are potentially discoverable in the Boltzmann suppressed regime. In a recent letter, we highlighted these aspects for the case of electroweak doublet fermion dark matter assuming instantaneous inflationary reheating. Due to its elegance and simplicity, we coin this {\em Minimal Freeze-in} (MFI) Dark Matter. Here we consider next-to-minimal extensions of MFI dark matter. We present the implications for non-instantaneous reheating, including scenarios beyond the standard picture in which the Universe is initially matter dominated prior to reheating. Furthermore, we explore model variations within the electroweak dark matter scenario. Specifically, we consider fermion dark matter in higher representations of SU(2)${}_L$, exploring the current limits and the near-future discovery potential.
-
----
-
-### [Finite Temperature NLO Corrections in Relativistic Scatterings: Implications for Dark Matter Freeze-In](https://arxiv.org/abs/2603.26288v1)
-**Authors:** Sampriti Roy, Pritam Sen, Satyanarayan Mukhopadhyay
-
-**Published:** 2026-03-27T10:54:38Z
-
-We study the next-to-leading order (NLO) virtual and thermal corrections to relativistic $2 \rightarrow 2$ scattering processes involving scalar particles in the early Universe thermal plasma. Taking the example of freeze-in production of scalar dark matter pairs through these scatterings, we evaluate the impact of the NLO corrections to the annihilation rate and the dark matter yield. We find that including only thermal mass corrections to a leading order interaction rate can overestimate the reduction in these rates, and the full NLO corrections can modify the DM abundance predictions by $\mathcal{O}(30\%)$. It is also observed that while the virtual NLO effects are larger, the finite temperature NLO corrections to the matrix elements in the relativistic regime can modify the DM abundance by $\mathcal{O}(10\%)$, in comparison to the virtual NLO corrections.
-
----
-
-### [Quantum Fisher Information as a Probe of Sterile Neutrino New Physics:Geometric Advantage of KM3NeT over IceCube](https://arxiv.org/abs/2604.01256v1)
-**Authors:** Baktiar Wasir Farooq, Bipin Singh Koranga, Aritro Chatterjee
-
-**Published:** 2026-04-01T10:16:14Z
-
-We investigate a reported discrepancy between a high-energy neutrino detection at KM3NeT and its non-observation at IceCube, which suggests a statistical tension of up to 3.5 standard deviations. This gap has been proposed to arise from sterile neutrino oscillations over the 147-kilometer path to KM3NeT, driven by either matter-induced resonances or nonstandard interactions. Using the Quantum Fisher Information framework, we quantify the sensitivity of the neutrino state to these new physics couplings and establish fundamental precision limits via the quantum Cramer-Rao bound. Our analysis shows that the information available at KM3NeT exceeds that at IceCube by three orders of magnitude for matter-induced scenarios. We demonstrate that IceCube would require over thirty times more events to match the precision of a single KM3NeT detection. We identify an optimal baseline of 150 to 200 kilometers, placing KM3NeT in a superior position for these measurements. Our results show that standard detection methods already reach the ultimate quantum precision limit, and that a small number of future events at KM3NeT could provide the first quantum-limited constraints on sterile neutrino couplings.
-
----
-
-### [Lights, Camera, Axion: Tracing Axions from Supernovae in the Diffuse $γ$-ray Sky](https://arxiv.org/abs/2604.01277v1)
-**Authors:** Brijesh Kanodia, Debajit Bose, Subhadip Bouri, Ranjan Laha
-
-**Published:** 2026-04-01T18:00:04Z
-
-Axions produced copiously in core-collapse supernovae can convert into photons as they propagate through various astrophysical magnetic fields. The cumulative emission from the cosmic population of supernovae can therefore generate a diffuse gamma-ray signal through axion-photon conversion. In this work, we develop a comprehensive framework to compute the diffuse gamma-ray flux by modeling axion production in supernovae and, \textit{for the first time}, consistently accounting for their conversion into photons across all relevant magnetic field environments - progenitor, host galaxy, intergalactic medium, and the Milky Way - together with an updated cosmic star formation rate. Using measurements of the diffuse gamma-ray sky from COMPTEL, EGRET, and \textit{Fermi}-LAT, we derive competitive constraints on the axion-photon coupling over a wide range of axion masses. We further forecast the sensitivity of upcoming MeV gamma-ray telescopes to this diffuse signal using a Fisher forecast analysis.
-
----
-
-### [Probing Sub-MeV Dark Matter with Neutron-Capture $γ$ Spectroscopy](https://arxiv.org/abs/2603.26472v1)
-**Authors:** B. Meirose, D. Milstead
-
-**Published:** 2026-03-27T14:37:42Z
-
-We present a general, discovery-grade framework for searching for weakly coupled new particles emitted in nuclear de-excitation following neutron capture. Rather than relying on isolated spectral features, the method exploits correlated ``satellite-line combs'': multiple weak $γ$-ray lines appearing at a common energy offset $Δ$ below known capture transitions. By combining likelihood information across many parent lines and multiple target nuclei, the approach strongly suppresses nuclear-structure ambiguities and instrumental artifacts. We also discuss optimal target selection and practical experimental implementation with high-resolution HPGe detectors.
-
----
-
-### [100 years of spin: fundamental physics, dark matter, exotic interactions, and all that](https://arxiv.org/abs/2604.00231v1)
-**Authors:** Dmitry Budker, Tim Chupp, Klaus Kirch, W. Mike Snow
-
-**Published:** 2026-03-31T20:53:40Z
-
-For a century, spin has been an indispensable probe of the fundamental laws of nature. A reflection on the role of spin in shaping modern physics is presented, from the early days of quantum mechanics to the latest precision tests of the Standard Model. The significance of magnetic and electric dipole moments in testing CP and CPT symmetries is surveyed, along with the ongoing searches for exotic spin-dependent interactions that may reveal the nature of dark matter and its connection to spacetime geometry. Through these vignettes, it is shown that spin continues to provide a fresh perspective on the most profound questions in physics today.
-
----
-
-### [Towards the Reconstruction of a Unified Dark Matter Halo: a Phenomenological Approach](https://arxiv.org/abs/2603.26562v1)
-**Authors:** Claudia Caputo, Daniele Bertacca, Alberto Bassi, Sabino Matarrese
-
-**Published:** 2026-03-27T16:26:28Z
-
-We investigate static, spherically symmetric halo configurations within Unified Dark Matter (UDM) scalar-field models, developing a systematic mapping between standard cold dark matter (CDM) density profiles and their UDM counterparts. Exploiting the equivalence-class structure of UDM models, we show that, in principle, different Lagrangian realisations can share the same weak-field rotation curve while exhibiting distinct field properties. We reconstruct the effective energy density, radial and tangential pressures from a phenomenological circular velocity profile, ensuring the absence of ghosts and instabilities and the preservation of the Null Energy Condition (NEC). Applying our procedure to several commonly used CDM halo profiles -- including Persic, Salucci \& Stel, NFW, and Burkert models -- we demonstrate that their phenomenological success can be retained within a relativistic UDM framework, reproducing the observed flatness of rotation curves without introducing separate dark matter and dark energy components.
+We discuss the results of using large language models (LLMs) to conduct original scientific research in an unfamiliar subject area during the Fall 2025 semester. Students in a graduate astronomy and astrophysics course were asked to test whether LLMs could help them complete research tasks faster and at a level of detail and accuracy required for scientific publication. Most students employed LLMs for a total of 5-10 hours. While all students completed a draft paper on an unsolved problem related to galaxies by semester's end, their impressions of the models' value varied. About half thought that the models saved them time. Many noted that LLMs failed to provide appropriately detailed insights or steps to addressing open, niche questions over a several-month timeframe. The LLMs also frequently (about 20% of the time) returned false citations, links, or summaries of papers. The models struggled with generating complex functional code, accessing online packages or Application Programming Interfaces (APIs), and retrieving astronomical datasets from existing archives. In writing code and in chats, the LLMs made implicit, overly simplifying assumptions and often doubled down even after being corrected. Given the rapid pace of LLM development, new models may soon address at least some of these issues and thus significantly enhance research productivity. Yet students expressed concerns about how LLM use might dampen creativity and reflection during the research process. To improve learning experiences in future semesters, the class will first discuss LLM best practices and limitations. Students will be encouraged to explore free online resources for tips for generative model applications and will decide for themselves whether to use LLMs for their research project. This white paper was not written using LLMs.
 
 ---
 
@@ -149,39 +155,39 @@ Recently, binary pulsar timing has been proposed as a viable probe of dark matte
 
 ---
 
-### [Can LLMs Produce Original Astronomy Research in a Semester? A Graduate Class Experiment](https://arxiv.org/abs/2603.25984v1)
-**Authors:** Ann Zabludoff, Chen-Yu Chuang, Parker Thomas Johnson, Yichen Liu, Brina Bianca Martinez, Neev Shah, Lucille Steffes, Gabriel Glen Weible
+### [Towards the Reconstruction of a Unified Dark Matter Halo: a Phenomenological Approach](https://arxiv.org/abs/2603.26562v1)
+**Authors:** Claudia Caputo, Daniele Bertacca, Alberto Bassi, Sabino Matarrese
 
-**Published:** 2026-03-27T00:12:04Z
+**Published:** 2026-03-27T16:26:28Z
 
-We discuss the results of using large language models (LLMs) to conduct original scientific research in an unfamiliar subject area during the Fall 2025 semester. Students in a graduate astronomy and astrophysics course were asked to test whether LLMs could help them complete research tasks faster and at a level of detail and accuracy required for scientific publication. Most students employed LLMs for a total of 5-10 hours. While all students completed a draft paper on an unsolved problem related to galaxies by semester's end, their impressions of the models' value varied. About half thought that the models saved them time. Many noted that LLMs failed to provide appropriately detailed insights or steps to addressing open, niche questions over a several-month timeframe. The LLMs also frequently (about 20% of the time) returned false citations, links, or summaries of papers. The models struggled with generating complex functional code, accessing online packages or Application Programming Interfaces (APIs), and retrieving astronomical datasets from existing archives. In writing code and in chats, the LLMs made implicit, overly simplifying assumptions and often doubled down even after being corrected. Given the rapid pace of LLM development, new models may soon address at least some of these issues and thus significantly enhance research productivity. Yet students expressed concerns about how LLM use might dampen creativity and reflection during the research process. To improve learning experiences in future semesters, the class will first discuss LLM best practices and limitations. Students will be encouraged to explore free online resources for tips for generative model applications and will decide for themselves whether to use LLMs for their research project. This white paper was not written using LLMs.
-
----
-
-### [Study of neutrinophilic low-mass dark matter mediated by pseudoscalar](https://arxiv.org/abs/2603.28034v1)
-**Authors:** Zhuo Zhang, Lian-Bao Jia, Reyes J. F. Eduardo
-
-**Published:** 2026-03-30T04:55:25Z
-
-In this work, we investigate a neutrinophilic low-mass dark matter model mediated by a pseudoscalar particle. Since dark matter lacks Standard Model gauge charges, new interactions are required to connect it to the visible sector. Traditional indirect detection searches for annihilation products, such as cosmic rays, become ineffective when the annihilation predominantly yields invisible neutrinos. In our model, the present-day annihilation cross section into neutrinos (manifesting as a neutrino line) falls below current indirect detection limits. We therefore constrain the model using complementary probes: the Lyman-$α$ forest, high-energy astrophysical neutrinos from active galactic nuclei and supernovae, direct detection via nucleon and electron scattering, and invisible Higgs decays. These observables provide stringent and multifaceted constraints on neutrinophilic dark matter interactions in the low-mass regime. Our results indicate that searches for the neutrino line from dark matter annihilations, neutrino self-interactions from supernovae and collider signatures, and invisible Higgs decays offer critical tests for the model's parameter space.
+We investigate static, spherically symmetric halo configurations within Unified Dark Matter (UDM) scalar-field models, developing a systematic mapping between standard cold dark matter (CDM) density profiles and their UDM counterparts. Exploiting the equivalence-class structure of UDM models, we show that, in principle, different Lagrangian realisations can share the same weak-field rotation curve while exhibiting distinct field properties. We reconstruct the effective energy density, radial and tangential pressures from a phenomenological circular velocity profile, ensuring the absence of ghosts and instabilities and the preservation of the Null Energy Condition (NEC). Applying our procedure to several commonly used CDM halo profiles -- including Persic, Salucci \& Stel, NFW, and Burkert models -- we demonstrate that their phenomenological success can be retained within a relativistic UDM framework, reproducing the observed flatness of rotation curves without introducing separate dark matter and dark energy components.
 
 ---
 
-### [On the predictivity of axion dark matter in the presence of Peccei-Quinn breaking](https://arxiv.org/abs/2603.28098v1)
-**Authors:** Michael Zantedeschi
+### [The Hollyfeld Gambit in Astrophysics](https://arxiv.org/abs/2603.29964v1)
+**Authors:** Benne Holwerda
 
-**Published:** 2026-03-30T06:55:10Z
+**Published:** 2026-03-31T16:29:31Z
 
-It is shown that the post-inflationary quantum chromodynamics (QCD) axion need not be a predictive candidate for dark matter whenever small explicit Peccei-Quinn symmetry breaking becomes dynamically relevant before the QCD transition. Although strongly constrained by the strong CP bound, such breaking remains phenomenologically viable and introduces a mass scale $μ$ that can control the early-time dynamics, as the QCD contribution to the axion mass is thermally suppressed at high temperatures. In this case, the axion string-wall network annihilates earlier, and the relic abundance is no longer primarily set by QCD dynamics alone, but instead depends on $μ$, in addition to $f_a$, the axion decay constant. This effect overlaps with the parameter space relevant for QCD axion dark matter and, depending on ultraviolet parameters and initial conditions, can extend across it entirely.
+We estimate the Hollyfeld Gambit for the Powerball lottery and its return on investment compared to present and extrapolated federal funding for astrophysical grants. Using a Monte Carlo estimation of rate of return for the Powerball, we conclude a Hollyfeld Gambit is a better bet than a federal grant by the end of the decade if current trends hold.
 
 ---
 
-### [Constraints on axion-like particles via associated diboson production in hadronic collisions](https://arxiv.org/abs/2603.26373v1)
-**Authors:** Barbara Jäger, Ozan Semin
+### [Something Bright at the Edge of Everything: A Uniquely JWST-Dark Radio Source in COSMOS](https://arxiv.org/abs/2603.28863v1)
+**Authors:** Mingyu Li
 
-**Published:** 2026-03-27T12:58:22Z
+**Published:** 2026-03-30T18:00:05Z
 
-We investigate the sensitivity of current and future hadron-collider experiments to axion-like particles (ALPs) through associated diboson production, focusing on a linear effective field theory framework with bosonic ALP couplings. We analyze the dominant production mechanisms and relevant backgrounds, considering the impact of jet misidentification rates on the diboson background. We present our results using conservative jet-misidentification rates, and derive four dimensional constraints on the ALP couplings to gluons, weak bosons, and photons. Our findings highlight the potential of the high-luminosity phase of the CERN Large Hadron Collider to probe the ALP parameter space in the sub-GeV mass range, as well as the codependencies of the various ALP couplings.
+For decades, astronomers have been searching for bright radio sources deep into the epoch of reionization (EoR). The most distant, powerful radio sources are expected to reside in heavily dust-obscured galaxies, exceedingly faint at optical and infrared wavelengths. Motivated by this, I systematically cross-match radio and JWST source catalogs in the COSMOS field and identify a uniquely JWST-dark radio source: the only object undetected in every JWST band, yet clearly detected in radio data from LOFAR 144 MHz to the VLA 3 GHz. The source is only marginally resolved and shows a steep, unbroken radio spectrum, while remaining undetected in all available HST, JWST, Chandra, Herschel, and ALMA imaging. It may represent an extremely dust-obscured radio-loud source at cosmic dawn, or alternatively a detached radio lobe whose host galaxy lies elsewhere. In either case, it highlights the new discovery space at the intersection of deep radio surveys and JWST imaging.
+
+---
+
+### [Misalignment from kicks: the impact of particle interactions on ultra-light dark matter](https://arxiv.org/abs/2603.28881v1)
+**Authors:** Clare Burrage, Sergio Sevillano Muñoz
+
+**Published:** 2026-03-30T18:04:57Z
+
+Oscillating ultra-light scalar fields are a natural explanation for the dark matter in our universe, as long as a mechanism, often called a misalignment mechanism, exists to explain the amplitude of the scalar oscillations. If the dark matter scalar couples to the Standard Model, then the dynamics of ordinary matter can influence the behaviour of dark matter in the early universe. In this work we show how this changes the expected value of the scalar field and the resulting amplitude of late time scalar oscillations, and therefore the abundance of dark matter at late times. For dark matter scalars that interact quadratically with Standard Model fields we derive estimates of the size of this effect as a function of the strength of the coupling, and for axion-like fields we show that interactions with dark sector matter can temporarily destabilize the field, leading to large field displacements.
 
 ---
 
@@ -194,12 +200,156 @@ Energetic particle populations are ubiquitous throughout the Universe. In our so
 
 ---
 
+### [Dark radiation from Kerr primordial black holes: the role of superradiance](https://arxiv.org/abs/2603.29790v1)
+**Authors:** Nayun Jia, Chen Zhang, Xin Zhang
+
+**Published:** 2026-03-31T14:26:06Z
+
+Light primordial black holes (PBHs) that fully evaporate before Big Bang Nucleosynthesis (BBN) produce dark radiation (DR) via Hawking radiation of gravitons, contributing to the effective number of relativistic species $ΔN_{\rm eff}$. If the particle spectrum contains a beyond-the-Standard-Model (BSM) boson with Compton wavelength comparable to the black hole (BH) gravitational radius, superradiant instability extracts angular momentum from the BH into a bosonic cloud, whose gravitational wave (GW) emission contributes an additional source of DR. By simultaneously evolving the BH mass and spin, superradiant mode occupation numbers, comoving entropy and cosmological energy densities in an expanding early-universe background, we find that superradiance generically suppresses $ΔN_{\rm eff}$: by extracting angular momentum before Hawking radiation can convert it into gravitons, superradiance starves the dominant dark-radiation channel. The GWs emitted by the superradiant cloud can partially compensate this loss, but only when the superradiant and BH evaporation timescales are comparable; otherwise the cloud GWs are emitted too early and diluted by cosmological expansion. The results imply that existing $ΔN_{\rm eff}$ bounds on PBH mass and spin derived without superradiance must be revisited if BSM bosons are present in the particle spectrum.
+
+---
+
+### [Study of neutrinophilic low-mass dark matter mediated by pseudoscalar](https://arxiv.org/abs/2603.28034v1)
+**Authors:** Zhuo Zhang, Lian-Bao Jia, Reyes J. F. Eduardo
+
+**Published:** 2026-03-30T04:55:25Z
+
+In this work, we investigate a neutrinophilic low-mass dark matter model mediated by a pseudoscalar particle. Since dark matter lacks Standard Model gauge charges, new interactions are required to connect it to the visible sector. Traditional indirect detection searches for annihilation products, such as cosmic rays, become ineffective when the annihilation predominantly yields invisible neutrinos. In our model, the present-day annihilation cross section into neutrinos (manifesting as a neutrino line) falls below current indirect detection limits. We therefore constrain the model using complementary probes: the Lyman-$α$ forest, high-energy astrophysical neutrinos from active galactic nuclei and supernovae, direct detection via nucleon and electron scattering, and invisible Higgs decays. These observables provide stringent and multifaceted constraints on neutrinophilic dark matter interactions in the low-mass regime. Our results indicate that searches for the neutrino line from dark matter annihilations, neutrino self-interactions from supernovae and collider signatures, and invisible Higgs decays offer critical tests for the model's parameter space.
+
+---
+
+### [The Evolution of the Spin Alignments of Dark Matter Halos in the Cosmic Web](https://arxiv.org/abs/2603.29021v1)
+**Authors:** David Tobar, Rory Smith, Antonio Montero-Dorta, Katarina Kraljic, Pablo López
+
+**Published:** 2026-03-30T21:28:08Z
+
+We investigate the evolution of dark matter halo spin alignments with respect to cosmic filaments, exploring how halo mass, proximity to filaments, and major mergers influence their orientation over time. We perform a suite of dark matter-only zoom-in N-body simulations centered on ten filaments extracted from a cosmological box using the 1DREAM structure finder. This approach allows us to resolve low-mass halos within filaments while preserving the large-scale environment. Halos are identified with the Amiga Halo Finder (AHF), and their evolutionary histories are reconstructed to trace the spin, shape, and distance to the filament from redshift $z = 1$ to $z = 0$. We confirm a strong mass-dependent alignment signal: low-mass halos tend to align parallel to the filament, while high-mass halos preferentially exhibit perpendicular orientations, despite limited statistics. Perpendicular alignments become dominant at the highest halo masses in our sample, around $\log_{10}(M_\mathrm{h}/h^{-1}\mathrm{M_\odot}) \sim 12$. We also find that major mergers can induce sharp spin reorientations and temporary transitions toward more prolate halo shapes, particularly in massive halos located near the filament core, suggesting a preferential merger direction within filaments. Overall, halo mass emerges as the primary factor governing spin-filament alignments in our sample. By analyzing the global evolution, we find that the average orientations at z = 0 do not differ significantly from those at $z = 1$, indicating that the present-day spin configuration is largely established at earlier stages of halo evolution. Major mergers, although relatively rare, represent one of the few mechanisms capable of disrupting this initial alignment.
+
+---
+
+### [On the predictivity of axion dark matter in the presence of Peccei-Quinn breaking](https://arxiv.org/abs/2603.28098v1)
+**Authors:** Michael Zantedeschi
+
+**Published:** 2026-03-30T06:55:10Z
+
+It is shown that the post-inflationary quantum chromodynamics (QCD) axion need not be a predictive candidate for dark matter whenever small explicit Peccei-Quinn symmetry breaking becomes dynamically relevant before the QCD transition. Although strongly constrained by the strong CP bound, such breaking remains phenomenologically viable and introduces a mass scale $μ$ that can control the early-time dynamics, as the QCD contribution to the axion mass is thermally suppressed at high temperatures. In this case, the axion string-wall network annihilates earlier, and the relic abundance is no longer primarily set by QCD dynamics alone, but instead depends on $μ$, in addition to $f_a$, the axion decay constant. This effect overlaps with the parameter space relevant for QCD axion dark matter and, depending on ultraviolet parameters and initial conditions, can extend across it entirely.
+
+---
+
+### [Data-driven discovery of dynamo cycle equations](https://arxiv.org/abs/2603.29079v1)
+**Authors:** Anna Guseva, Calum Skene, Steve Tobias
+
+**Published:** 2026-03-30T23:33:51Z
+
+Many low-mass stars like the Sun host periodic, oscillatory magnetic fields that lead to variable levels of stellar activity, driving space weather that affects the habitability and detection of exoplanets. Owing to the intrinsic difficulty in modeling stellar magnetohydrodynamics across scales, realistic numerical simulations of this process are very challenging, and developing reduced-order models is of interest. In this work, we develop a framework to recover such models directly from numerical data by using a combination of Dynamic Mode Decomposition (DMD) to identify coherent magnetic structures, and the Sparse Identification of Nonlinear Dynamics (SINDy) framework to model their dynamics. We compare these models to those obtained using the classic mathematical method of weakly nonlinear (WNL) analysis. This approach is implemented on a one-dimensional mean-field dynamo model that parameterizes the main components of a convective dynamo in a low-mass star -- helical convection and differential rotation. We recover oscillatory dynamo models as a function of the dynamo strength parameter $D\sim αΩ'$, magnetic dissipation parameter $κ$, and a comprehensive dynamo model that predicts the magnetic state for a combination of these two parameters. Our results suggest that equations discovered with SINDy are more robust than equations from WNL analysis, and can predict the saturation amplitude of magnetic fields in parameter regimes far from the onset of dynamo action characterized by stiff nonlinearities. This includes unstable, and typically unknown, subcritical branches. Further to this, SINDy is able to find equations in parameter regimes where the nonlinearity is not analytic and WNL analysis cannot be applied. These properties of data-driven SINDy models suggest them as a viable alternative for modeling of stellar dynamo cycles directly from the data.
+
+---
+
+### [Misalignment from kicks: the impact of particle interactions on ultra-light dark matter](https://arxiv.org/abs/2603.28881v1)
+**Authors:** Clare Burrage, Sergio Sevillano Muñoz
+
+**Published:** 2026-03-30T18:04:57Z
+
+Oscillating ultra-light scalar fields are a natural explanation for the dark matter in our universe, as long as a mechanism, often called a misalignment mechanism, exists to explain the amplitude of the scalar oscillations. If the dark matter scalar couples to the Standard Model, then the dynamics of ordinary matter can influence the behaviour of dark matter in the early universe. In this work we show how this changes the expected value of the scalar field and the resulting amplitude of late time scalar oscillations, and therefore the abundance of dark matter at late times. For dark matter scalars that interact quadratically with Standard Model fields we derive estimates of the size of this effect as a function of the strength of the coupling, and for axion-like fields we show that interactions with dark sector matter can temporarily destabilize the field, leading to large field displacements.
+
+---
+
+### [The Depletion of Collisionless Dark Matter Spikes](https://arxiv.org/abs/2603.28866v1)
+**Authors:** Charlie Sharpe, Yonadav Barry Ginat, Thomas F. M. Spieksma, Bence Kocsis
+
+**Published:** 2026-03-30T18:00:06Z
+
+Dense concentrations of dark matter (DM) surrounding black holes provide a compelling opportunity to probe the nature of DM. In the classic Gondolo-Silk model, the adiabatic growth of a massive black hole (MBH) in a DM cusp produces a steep density spike ($ρ\propto r^{-7/3}$), potentially inducing measurable gravitational-wave dephasings in intermediate and extreme mass-ratio inspirals (IMRIs/EMRIs). We challenge this paradigm by considering a collisionless spike embedded in a realistic nuclear star cluster (NSC). Using 1D orbit-averaged Fokker-Planck (FP) simulations of isotropic NSCs, we show that mass segregation in a multi-mass stellar cusp accelerates relaxation, relative to single-mass models, thereby driving the DM to the lower density $r^{-3/2}$ Bahcall-Wolf profile within $\lesssim 1 \mathrm{Gyr}$. In the inner regions, where the FP description breaks down, we model strong triple interactions between DM particles and EMRIs using post-Newtonian 3-body simulations. We show that EMRIs eject DM particles via slingshots, depleting the inner spike over a few Gyrs. Because EMRI number densities are too low to drive two-body relaxation, and collisionless DM cannot efficiently repopulate the depleted phase space, this depletion is irreversible. While the extent of EMRI-induced depletion depends on the EMRI rate and mass, we find reductions in DM densities by several orders of magnitude. Hence, DM-induced dephasings for EMRIs may fall below the detectability threshold of LISA for MBHs at $z = 3$ (2.14 Gyr) with masses $\lesssim 10^{5}\,M_\odot$ (for an $\mathcal{O}(10) \, \mathrm{Gyr}^{-1}$ EMRI rate), extending to $\lesssim 10^6\,M_\odot$ for more optimistic rates of $\mathcal{O}(300-1000) \, \mathrm{Gyr}^{-1}$. Our findings substantially reduce the parameter space over which MBHs can host detectable collisionless DM spikes.
+
+---
+
+### [Finite Temperature NLO Corrections in Relativistic Scatterings: Implications for Dark Matter Freeze-In](https://arxiv.org/abs/2603.26288v1)
+**Authors:** Sampriti Roy, Pritam Sen, Satyanarayan Mukhopadhyay
+
+**Published:** 2026-03-27T10:54:38Z
+
+We study the next-to-leading order (NLO) virtual and thermal corrections to relativistic $2 \rightarrow 2$ scattering processes involving scalar particles in the early Universe thermal plasma. Taking the example of freeze-in production of scalar dark matter pairs through these scatterings, we evaluate the impact of the NLO corrections to the annihilation rate and the dark matter yield. We find that including only thermal mass corrections to a leading order interaction rate can overestimate the reduction in these rates, and the full NLO corrections can modify the DM abundance predictions by $\mathcal{O}(30\%)$. It is also observed that while the virtual NLO effects are larger, the finite temperature NLO corrections to the matrix elements in the relativistic regime can modify the DM abundance by $\mathcal{O}(10\%)$, in comparison to the virtual NLO corrections.
+
+---
+
+### [Baryogenesis from Exploding Primordial Black Holes](https://arxiv.org/abs/2603.29024v1)
+**Authors:** Alexandra P. Klipfel, Miguel Vanvlasselaer, Sokratis Trifinopoulos, David I. Kaiser
+
+**Published:** 2026-03-30T21:35:39Z
+
+Exploding primordial black holes can source baryon asymmetry soon after the electroweak phase transition, as high-energy Hawking radiation drives ultrarelativistic shocks in the surrounding plasma. The shocks and their trailing rarefaction waves delineate two bubble-like walls around a shell of superheated fluid, in which electroweak symmetry is restored. These moving interfaces source chiral charge, which is converted to baryon number. Upon adding a simple CP-violating operator at the TeV scale, this mechanism yields the observed baryon asymmetry with minimal dependence on PBH model parameters.
+
+---
+
+### [Rotation of the polarization plane in axion fields: application to neutron star polar cap regions](https://arxiv.org/abs/2603.28826v1)
+**Authors:** Iver H. Brevik, Moshe M. Chaichian, Tiberiu Harko, Yuri N. Obukhov
+
+**Published:** 2026-03-29T16:12:24Z
+
+Recent investigations by Noordhuis et al. [1, 2] and others have demonstrated the occurrence of strong local inhomogeneous axion regions in the polar cap regions of neutron stars. These regions are characterized by static magnetic fields $B_0 \sim 10^8\,$T ($=10^{12}\,$G) directed normally outwards from the polar surface (magnetic dipole), together with static electric fields $E_0 \sim 10^{-6}cB_0$ in the same direction (electric dipole). An enormous increase of axion production, up to order $10^{50}$, is predicted in the polar regions. These features are important for phenomena such as polarization plane rotation under both weak and strong axion field populations. We survey the peculiar antenna property of conductive materials, which shows the need for having very strong magnetic fields to make the detection possible. We present the general form of electromagnetic waves in the axion environment, in both the standard form and in a physically instructive hybrid one, showing the nonreciprocity of axion fluid, and calculate the polarization rotation. The rotation is well defined in the case of weak, but still stronger than average value of axion fields in Universe. For very strong fields such a perturbative theory breaks down, however. A noteworthy general property of the rotation of polarization plane is that it can only occur when the axion cloud is varying in space or time. We limit ourselves only variation in space. Finally, as application we discuss the physical picture of local 'gap' regions proposed by Noordhuis et al. in the polar regions of a neutron star. The reason for occurrence of these gaps is plasma effects. To evaluate the time scales involved, we calculate the filling time for surrounding axions flowing into an initial gap. It turns out that the typical filling time is a moderate number of nanoseconds, within the accuracy of atomic clocks precision to be detectable.
+
+---
+
+### [Constraints on Light Sterile Neutrinos and Scalar Non-Standard Interactions Using the First Reactor Antineutrino Oscillation Results at JUNO](https://arxiv.org/abs/2603.24677v1)
+**Authors:** L. J. Flores, R. Pacheco-Aké, Eduardo Peinado, G. Sanchez Garcia, E. Vázquez-Jáuregui
+
+**Published:** 2026-03-25T18:00:39Z
+
+Constraints on light sterile neutrinos and scalar non-standard neutrino interactions are obtained from the first reactor antineutrino results reported by JUNO. The analysis is based on a spectral $χ^2$ fit to the prompt-energy distribution corresponding to 59.1 days of data, including full three-flavor oscillations extended to a $3+1$ framework and effective scalar NSI contributions. The reactor flux is modeled using the Daya Bay measured spectrum, and systematic uncertainties are accounted for through a set of nuisance parameters describing reactor flux normalization, spectral shape, background normalization, and detector response. It is found that JUNO is already sensitive to light sterile neutrinos in the mass-splitting range $10^{-5} \lesssim Δm^2_{41}/\text{eV}^2 \lesssim 10^{-2}$, probing mixing amplitudes down to $\sin^2 2θ_{14} \sim \mathcal{O}(10^{-1})$. In addition, a constraint on the scalar NSI parameter $|η_{ee}| < \mathcal{O}(10^{-2})$ is obtained, with correlations with solar oscillation parameters. These results demonstrate the potential of JUNO to probe small deviations from the Standard Model resulting from new physics through precision measurements, with significant improvements expected as statistics and systematic control improve.
+
+---
+
 ### [Effects of Cosmic Muons on $μ$eV-to-meV Scale Axion Dark Matter Searches](https://arxiv.org/abs/2603.28832v1)
 **Authors:** Dan Zhang, Gray Rybka, Edward J. Daw, Robyn Evren
 
 **Published:** 2026-03-30T08:03:12Z
 
 We estimate the synchrotron radiation of cosmic muons in a uniform magnetic field in the $μ$eV-to-meV energy scale. Such events can potentially bring backgrounds to the axion dark matter searches. The GEANT4 software package is utilized to simulate the muon tracks in a cylindrical region of interest with an 8~T solenoid magnetic field applied. We further develop an analytical estimation of the angular-frequency-differential synchrotron radiation power spectra in this work as the cosmic muons span a wide range of Lorentz factor $γ$ and pitch angle $α$. We verify that the cosmic muons are not the dominant noise background for the current axion dark matter experiments on the $μ$eV scale because of the high quality factor $Q$ and fine energy resolution in the readout. However, without sufficient energy resolution in the detector readout, future broadband axion dark matter experiments will be vulnerable to the synchrotron radiation of these charged particles.
+
+---
+
+### [Dark Matter Detection Using Phonon Sensing in Amorphous Materials](https://arxiv.org/abs/2603.22390v1)
+**Authors:** Itay M. Bloch, Simon Knapen, Xinran Li, Amalia Madden, Giacomo Marocco
+
+**Published:** 2026-03-23T18:00:07Z
+
+We present a concept for a tabletop-scale detector with an amorphous target designed to search for dark matter absorption into phonon excitations. In crystalline materials, absorption occurs only at narrow resonances where the dark matter mass matches a zero momentum optical phonon mode, whereas amorphous targets provide a broadband response that can substantially enhance the absorption rate away from these resonances. The predicted backgrounds arise from the relaxation of disorder-induced metastable defects in the amorphous target, as well as from low-energy noise intrinsic to superconducting phonon sensors. A prototype detector with a target mass of only a few $μ$g could provide broadband sensitivity to dark photon absorption across the 50 meV-200 meV mass range, probing up to two orders of magnitude beyond existing constraints.
+
+---
+
+### [A New Multi-Constraint Potential Field Source Surface (PFSS) Extrapolation Model](https://arxiv.org/abs/2603.20142v1)
+**Authors:** C. Antonio, I. Chifu, R. Gafeira, J. J. G. Lima
+
+**Published:** 2026-03-20T17:15:57Z
+
+The Potential Field Source Surface (PFSS) model is the most used approach for extrapolating the global coronal magnetic field, offering efficiency and strong performance at large scales. However, PFSS assumes a potential coronal field, so it cannot account for distortions from electric currents. More advanced methods, such as nonlinear force-free field (NLFFF) models, can represent these effects but are much more computationally intensive. Recent observational techniques also allow 3D reconstruction of coronal loops, which trace solar magnetic field geometry. This work develops a new approach that constrains the PFSS model using 3D coronal loop information, improving agreement with observations while keeping efficiency. The model is based on PFSS field constraints from photospheric data but allows magnetic field deviations from the potential state within loop-influenced regions, maintaining control over divergence and force-freeness. We adapted NLFFF optimization to the PFSS framework, enabling multiple physical constraints. Our functional includes up to three terms: divergence-free, loop geometry, and force-free. The resulting Python algorithm was tested with synthetic loops, using Carrington rotation 2284 as the lower boundary. This method yields magnetic field solutions that better match the geometry of included loops and controls divergence and force-freeness. Our results show that 3D coronal loop information can be incorporated into PFSS, largely preserving computational efficiency even with many loops. This approach lets PFSS better reflect observed coronal structures without significant computational cost.
+
+---
+
+### [Survival of the most compact: the life and death of satellite halos in self-interacting dark matter](https://arxiv.org/abs/2603.19362v1)
+**Authors:** David Klemmer, Moritz S. Fischer, Kimberly K. Boddy, Manoj Kaplinghat, Laura Sagunski
+
+**Published:** 2026-03-19T18:01:09Z
+
+Self-interacting dark matter (SIDM) models feature short-range interactions between dark matter (DM) particles that lead to larger diversity in the inner parts of galactic rotation curves and potentially unique gravitational lensing signatures. Satellite galaxies and dark subhalos provide a valuable testing ground for such models. We develop a simulation framework to explore subhalo evolution and its gravothermal collapse for velocity- and angle-dependent self-interacting cross section in these SIDM models. Our results are essential for testing these models. We perform N-body simulations, treating the host halo analytically and modelling the scattering-induced subhalo-halo interaction process using virtual host particles, a central innovation of our work. We use the Eddington inversion method to accurately model the local velocity distribution in the halo. Our approach is significantly less computationally expensive than simulations with a fully resolved host, while incorporating tidal stripping and tidal heating. We test both isotropic and forward-dominated self-scattering, which represent limiting cases for the angular dependence of the self-interaction cross section. Environmental effects, especially the scattering-induced subhalo-halo interaction, have a strong impact on the subhalo evolution and drive a complex structural evolution. As a result, SIDM subhalos have a larger range of central densities and density profile slopes compared to collisionless DM. Our cost-efficient simulation framework enables modelling of SIDM subhalos in realistic environments. Our results highlight the necessity of accurately modelling the scattering-induced subhalo-halo interaction to predict SIDM subhalo density profiles. For the SIDM models we investigate, the enhanced diversity in the mass profiles of subhalos would leave an observable imprint on strong lensing systems and satellite galaxies.
+
+---
+
+### [The Impact of Fuzzy Dark Matter Dynamics on the Accumulation and Fragmentation of Primordial Gas](https://arxiv.org/abs/2603.25546v2)
+**Authors:** Alexander Tocher, Anastasia Fialkov, Simon May, Ralf S. Klessen, Simon C. O. Glover, Paul C. Clark, Tibor Dome
+
+**Published:** 2026-03-26T15:20:02Z
+
+Fuzzy Dark Matter (FDM), composed of ultra-light axions ($m_a \sim 1 \times 10^{-22}$ eV), exhibits wave-like properties that can significantly impact early-universe star formation. Using the arepo code with the axirepo module, we simulate the assembly of haloes across a range of axion masses ($1 \times 10^{-22}$ eV $\le m_a \le 7 \times 10^{-22} $ eV) and halo masses ($3 \times 10^{8} M_\odot \le M_h \le 8 \times 10^{9} M_\odot$). We investigate how small-scale dynamics of the FDM density field affect the accumulation of cold, dense gas. We find that the delay in star formation scales inversely with both halo mass and axion mass. While the static, cored geometry of the soliton primarily sets the timing of the initial collapse, we identify a secondary dynamical barrier driven by stochastic fluctuations that is most potent at the low-mass end of our parameter space. These dynamics dictate the spatial scale of dense gas by injecting kinetic energy and inducing significant angular momentum, which can rotationally stabilize gas out to the soliton radius. This wave-driven stirring leads to the formation of extended $\text{H}_2$ plumes and promotes dynamical mixing, effectively starving the central regions and forcing gas to cool in a more fragmented, diffuse manner. Our results indicate a shift from the monolithic central star formation seen in CDM toward lower-mass, fragmented clusters. These internal inefficiencies provide a physical mechanism for delaying Cosmic Dawn beyond the effects of the power spectrum cut-off, which is essential for refining observational constraints on the axion mass.
+
+---
+
+### [Dark Transition Magnetic Moments of Majorana Neutrinos Mediated by a Dark Photon](https://arxiv.org/abs/2603.25704v1)
+**Authors:** Haohao Zhang
+
+**Published:** 2026-03-26T17:49:59Z
+
+Standard Model predictions for Majorana neutrino transition magnetic moments (TMMs) are subject to severe chiral and GIM-like suppressions, rendering them vanishingly small. To dynamically generate a macroscopic TMM, we propose a dark sector framework featuring a $U(1)_D$ gauge symmetry, a vector-like lepton doublet, and two complex dark scalars. We demonstrate that while fermion-radiated loop amplitudes identically cancel due to Majorana self-conjugacy, a chirally enhanced dark TMM is successfully generated exclusively through scalar-radiated loops. This mechanism safely shifts the required chirality flip onto the heavy internal fermion line and utilizes a misaligned double-scalar mixing in flavor space to evade the Majorana antisymmetry prohibition. We systematically confront this tensor portal framework with multi-frontier experimental constraints. Since the dark TMM generation is inextricably linked to charged lepton flavor violation, the internal Yukawa couplings are stringently capped by the latest $μ\to e γ$ limits from MEG II. Concurrently, the visible-dark kinetic mixing portal is heavily bottlenecked by missing energy and mono-photon searches at NA64 and BaBar. Our global phenomenological analysis reveals that the synergistic theoretical upper bound dictated by these indirect high-energy probes completely eclipses the direct scattering constraints from Borexino. This establishes a strict phenomenological hierarchy: high-intensity cLFV probes and accelerator-based dark sector searches jointly possess the overwhelmingly dominant exclusionary power over direct solar neutrino limits for such microscopic magnetic moment models.
 
 ---
 
@@ -212,6 +362,69 @@ Angular broadening observations of compact radio sources provide a powerful meth
 
 ---
 
+### [The impact of gamma-ray propagation effects on indirect dark matter searches](https://arxiv.org/abs/2603.20409v1)
+**Authors:** Ignacio Martínez López, Rafael Alves Batista, Miguel A. Sánchez-Conde, Antonio Juan Rubio-Montero
+
+**Published:** 2026-03-20T18:30:03Z
+
+In this work, we investigate dark matter (DM) detection in the context of weakly interacting massive particles (WIMPs). Upon annihilation, WIMPs generate cascades of secondary particles through various channels, many of which culminate in the production of gamma rays. As these gamma rays travel toward Earth, their spectra are reshaped by interactions with the intervening medium. While current models typically account for attenuation via pair production on the extragalactic background light, they often neglect the fate of the resulting electrons and positrons, specifically subsequent inverse Compton scattering of these secondary particles, which can regenerate high-energy gamma rays. Here, we revisit the predicted gamma-ray fluxes from WIMP annihilation by performing a more detailed treatment of propagation effects. We show that for distant sources and annihilation channels such as $τ^+τ^-$, the full treatments can significantly alter the observed gamma-ray flux, by up to a factor of three orders of magnitude for heavy WIMPs. This has an impact on current dark matter limits derived without taking into account propagation effects, depending on the considered WIMP mass and annihilation channel. Our study demonstrates the importance of a detailed propagation treatment for indirect dark matter searches, and the need to account for such effects in order to obtain accurate, more reliable dark matter signal predictions and exclusion limits.
+
+---
+
+### [Cogenesis of visible and dark matter in type-I Dirac seesaw](https://arxiv.org/abs/2603.24693v1)
+**Authors:** Debasish Borah, Partha Kumar Paul, Narendra Sahu
+
+**Published:** 2026-03-25T18:11:29Z
+
+We propose a novel cogenesis framework based on the type-I Dirac seesaw mechanism. The minimal type-I Dirac seesaw with three heavy vector like fermions $(N)$, one singlet scalar $(η)$ and the right-handed counterparts $(ν_R)$ of the Standard Model (SM) neutrinos is extended to include a Dirac fermion dark matter (DM) $(χ)$ and its heavier scalar companion ($φ$). The out-of-equilibrium decays of the vector-like fermion generate asymmetries simultaneously in the visible sector, through decay channels involving $(ν_R,η)$ or lepton, Higgs doublets in the SM, and in the dark sector via decaying into $(χ,φ)$. The resulting lepton asymmetry is partially converted into the observed baryon asymmetry by electroweak sphaleron processes, while the dark-sector asymmetry survives to constitute the present-day asymmetric DM relic. The generation of asymmetries in multiple sectors and their mutual washouts provide rich dynamics while also keeping the model testable at different observations involving DM, neutrinos, cosmic microwave background (CMB), as well as gravitational waves (GW). We find that successful cogenesis can be realized for DM masses in the range $100~\mathrm{MeV} \lesssim m_χ\lesssim 39~\mathrm{TeV}$. The lower bound arises from the requirement that the symmetric component of DM annihilates efficiently before the big bang nucleosynthesis (BBN) epoch, while the upper bound is set by unitarity constraints on the asymmetric DM.
+
+---
+
+### [Analyzing Fermionic Dark Matter scenarios with anomalous compact objects](https://arxiv.org/abs/2603.22490v1)
+**Authors:** Yaiza Cano, Jose Manuel Alarcón
+
+**Published:** 2026-03-23T19:00:00Z
+
+In this paper, we consider three compact objects (HESS J1731-347, PSR J1231-1411, XTE J1814-338) with anomalous mass-radius relation to analyze the possibility of being dark matter admixed neutron stars. We try to infer the dark matter particle properties, under the assumption of behaving as a free Fermi gas. The main novelty relies on the use of a baryonic equation of state obtained from first principles in the whole density range, that allows to eliminate the model dependence of the baryonic part of the calculation. Once the possible Dark Matter Admixed Neutron Star configurations are obtained, we check their stability and whether it is feasible for a Neutron Star to capture the necessary dark matter fraction. We show that two of the anomalous compact objects (HESS J1731-347 and PSR J1231-1411) can be explained with a small fraction of fermionic dark matter content in the star. The other compact object (XTE J1814-338) cannot be explained as a dark matter admixed neutron star, and becomes a potential candidate for a twin star.
+
+---
+
+### [Sterile neutrino Dark Matter in the minimal Dirac Seesaw](https://arxiv.org/abs/2603.20145v1)
+**Authors:** J. Adhikary, A. Batra, K. Deka, F. R. Joaquim
+
+**Published:** 2026-03-20T17:19:26Z
+
+We study sterile neutrino dark matter in a minimal Type-I Dirac seesaw framework where the states responsible for generating Dirac neutrino masses at tree level can be viable dark matter candidates. A $\mathcal{Z}_6$ symmetry, spontaneously broken to a residual $\mathcal{Z}_3$ by the vacuum expectation value of a singlet scalar, forbids Majorana mass operators and ensures neutrino Diracness. The lightest sterile neutrino is produced non-thermally via freeze-in from decays of Standard Model particles and an additional scalar state. We show that the presence of an additional right-handed mixing angle, $θ_R$, opens up viable regions of parameter space where the observed dark matter relic abundance can be reproduced while maintaining cosmological stability. This mainly stems from the absence of X-ray astrophysical constraints in our scenario. We further find that the freeze-in production of right-handed neutrinos yields a negligible contribution to $ΔN_{\rm eff}$, consistent with current cosmological bounds.
+
+---
+
+### [Constraining The Neutrino-Nucleon Cross Section with the Ultrahigh-Energy KM3NeT Event](https://arxiv.org/abs/2603.28941v1)
+**Authors:** Toni Bertólez-Martínez, Dan Hooper
+
+**Published:** 2026-03-30T19:18:12Z
+
+KM3NeT's detection of a muon track produced by a $\sim 220 \, {\rm PeV}$ neutrino provides an opportunity to probe physics at center-of-momentum energies greater than those probed by the Large Hadron Collider or other existing particle accelerators. In this study, we use this single event to place an upper limit on the neutrino-nucleon cross section of $σ_{νN} < 40 \, σ_{νN}^{\rm SM}$ at $E_{\rm CM} \sim 20 \, {\rm TeV}$. This result can be used to constrain a variety of scenarios beyond the Standard Model. With future very large volume neutrino telescopes, constraints on the neutrino-nucleon scattering cross section are expected to become substantially more stringent and, in some scenarios, could become competitive with accelerator probes of new physics.
+
+---
+
+### [Baryogenesis and Dark Matter from light Sterile Neutrinos](https://arxiv.org/abs/2603.19407v1)
+**Authors:** G. Arcadi, J. P. Garcés, M. Lindner
+
+**Published:** 2026-03-19T19:00:02Z
+
+We propose a simple and flexible mechanism by which sterile neutrinos with masses below the electroweak scale can simultaneously account for the observed baryon asymmetry of the Universe and the dark matter abundance. Crucially, neutrinos in this mass range behave as Dirac particles at high temperatures, allowing connections to Dirac leptogenesis, while at low temperatures, they can serve as viable warm dark matter candidates. We first perform a general analysis, assuming that unspecified ultraviolet dynamics generate both symmetric and asymmetric sterile-neutrino abundances before decoupling. Treating these abundances as initial conditions for the subsequent evolution allows us to systematically explore the phenomenologically viable regions of the low-energy parameter space, taking into account cosmological and astrophysical constraints, as well as implications for light-neutrino mass generation. Finally, we illustrate the model-building opportunities enabled by this minimal setup by studying two specific ultraviolet completions.
+
+---
+
+### [Shocks from Exploding Primordial Black Holes in the Early Universe](https://arxiv.org/abs/2603.15746v1)
+**Authors:** Miguel Vanvlasselaer, Sokratis Trifinopoulos, Alexandra P. Klipfel, David I. Kaiser
+
+**Published:** 2026-03-16T18:00:04Z
+
+We investigate how Hawking radiation from low-mass primordial black holes deposits energy into the early-universe plasma and show that the resulting phenomena are hydrodynamic rather than purely diffusive. Combining analytic arguments with relativistic hydrodynamic simulations, we find that the plasma first develops a quasi-steady outflow during the slow evaporation stage, while the final runaway phase of evaporation produces an expanding fireball that launches a shock wave into the surrounding medium. We characterize the thermalization scale of the Hawking products, the conditions under which shocks form, and the evolution and propagation of shocks. Additionally, we show that these shocks can locally restore electroweak symmetry, identifying exploding PBHs as a potentially important source of out-of-equilibrium dynamics in the early universe with profound phenomenological implications.
+
+---
+
 ### [Embedding light dark matter and small neutrino mass in the flipped standard model](https://arxiv.org/abs/2603.17994v1)
 **Authors:** D. T. Huong, Phung Van Dong, A. E. Carcamo Hernandez
 
@@ -220,6 +433,10 @@ Angular broadening observations of compact radio sources provide a powerful meth
 We revisit the flipped standard model where a $U(1)_N$ gauge group is added, determining a dark charge through the weak isospin such as $D=T_3+N$, analogous to the electric charge and hypercharge relation. We find %discover that neutrino masses are appropriately generated by a radiative inverse seesaw mechanism mediated by dark fields. Dark matter candidate is a naturally light fermion with the mass radiatively induced at the keV scale. The residual $Z_2$ parity arising from $U(1)_N$ symmetry breaking both stabilizes the dark matter candidate and prevents its potential mixing with neutrinos. Such residual $Z_2$ parity also guarantees the radiative nature of the inverse seesaw mechanism responsible for light active neutrino mass generation. It is noted that the keV dark matter may be thermally produced in the early Universe as decoupled but being still relativistic and typically overpopulated due to $U(1)_N$ portal interactions. To achieve the correct abundance, the excessive thermal production is counterbalanced by sufficient late-time entropy generation from the decay of long-lived particles. The parameter space under consideration can simultaneously accommodate the observational data from cosmic inflation and keV dark matter.
 
 ---
+
+# 2025
+
+## November 2025
 
 ### [The Heavy Dark Photon Handbook: Cosmological and Astrophysical Bounds](https://arxiv.org/abs/2511.15785v1)
 **Authors:** Andrea Caputo, Jaeyoung Park, Seokhoon Yun
