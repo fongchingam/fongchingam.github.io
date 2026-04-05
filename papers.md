@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Arxiv Picks"
+permalink: /arxiv-picks/
+---
+
+
 ## Papers from Week of 2026-03-30
 
 ### [Impact of QCD sum rules coupling constants on neutron stars structure](https://arxiv.org/abs/2501.01234v1)
