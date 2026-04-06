@@ -43,11 +43,24 @@ def fetch_from_html(arxiv_id):
     abstract_block = soup.find("blockquote", class_="abstract")
     # Shorten to first and last 10 words if long
     words = abstract.split()
-    if len(words) > 20:
-    	abstract = " ".join(words[:10]) + " ... " + " ".join(words[-10:])
+    if len(words) > 40:
+    	abstract = " ".join(words[:20]) + " ... " + " ".join(words[-20:])
 
-    history_div = soup.find("div", class_="submission-history")
-    published = history_div.get_text(" ", strip=True) if history_div else ""
+    #history_div = soup.find("div", class_="submission-history")
+    #published = history_div.get_text(" ", strip=True) if history_div else ""
+    pub_div = soup.find("div", class_="submission-history")
+    published = ""
+    if pub_div:
+        text = pub_div.get_text(" ", strip=True)
+        # Example: "From: İzzet Sakallı [ view email ] [v1] Wed, 1 Apr 2026 09:06:38 UTC (3,275 KB)"
+	# Extract author
+        from_match = re.search(r"From:\s*(.*?)\s*\[", text)    
+        author = from_match.group(1) if from_match else ""
+        # Extract date (after ] and before UTC)
+        date_match = re.search(r"\]\s*(\w{3},\s*\d+\s+\w+\s+\d{4})", text)
+        date_str = date_match.group(1) if date_match else ""
+        published = f"From: {author}, {date_str}"
+
 
     # Try to parse year/month from submission history text
     year, month = None, None
