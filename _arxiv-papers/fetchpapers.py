@@ -40,6 +40,8 @@ def fetch_from_html(arxiv_id):
 
     abstract_block = soup.find("blockquote", class_="abstract")
     abstract = abstract_block.get_text(strip=True).replace("Abstract:", "") if abstract_block else ""
+    if len(abstract) < 200:
+    	abstract = abstract[:100] + ' ... '  + abstract[-100:]
 
     history_div = soup.find("div", class_="submission-history")
     published = history_div.get_text(" ", strip=True) if history_div else ""
@@ -127,12 +129,12 @@ I check arxiv daily to collect papers I find interesting, relevant to my researc
 
 """)
         for year in sorted(grouped.keys(), reverse=True):
-            f.write(f"# {year}\n\n")
+            f.write(f"## {year}\n\n")
             for month in sorted(grouped[year].keys(), reverse=True):
                 month_name = datetime(year, month, 1).strftime("%B")
-                f.write(f"## {month_name} {year}\n\n")
+                f.write(f"### {month_name} {year}\n\n")
                 for p in grouped[year][month]:
-                    f.write(f"### [{p['title']}]({p['link']})\n")
+                    f.write(f"#### [{p['title']}]({p['link']})\n")
                     f.write(f"**Authors:** {', '.join(p['authors'])}\n\n")
                     f.write(f"**Published:** {p['published']}\n\n")
                     f.write(f"{p['abstract']}\n\n---\n\n")
