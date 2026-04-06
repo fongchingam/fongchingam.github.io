@@ -40,7 +40,7 @@ def fetch_from_html(arxiv_id):
 
     abstract_block = soup.find("blockquote", class_="abstract")
     abstract = abstract_block.get_text(strip=True).replace("Abstract:", "") if abstract_block else ""
-    if len(abstract) < 200:
+    if len(abstract) > 200:
     	abstract = abstract[:100] + ' ... '  + abstract[-100:]
 
     history_div = soup.find("div", class_="submission-history")
