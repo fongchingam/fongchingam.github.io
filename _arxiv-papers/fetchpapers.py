@@ -40,8 +40,11 @@ def fetch_from_html(arxiv_id):
 
     abstract_block = soup.find("blockquote", class_="abstract")
     abstract = abstract_block.get_text(strip=True).replace("Abstract:", "") if abstract_block else ""
-    if len(abstract) > 200:
-    	abstract = abstract[:100] + ' ... '  + abstract[-100:]
+    abstract_block = soup.find("blockquote", class_="abstract")
+    # Shorten to first and last 10 words if long
+    words = abstract.split()
+    if len(words) > 20:
+    	abstract = " ".join(words[:10]) + " ... " + " ".join(words[-10:])
 
     history_div = soup.find("div", class_="submission-history")
     published = history_div.get_text(" ", strip=True) if history_div else ""
