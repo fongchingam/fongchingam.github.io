@@ -44,7 +44,7 @@ def fetch_from_html(arxiv_id):
     # Shorten to first and last 10 words if long
     sentences = abstract.split(". ")
     if len(sentences) > 4:
-    	abstract = ". ".join(sentences[:2]) + ". ... " + ". ".join(sentences[-2:])
+    	abstract = ". ".join(sentences[:2]) + ". **[...]** " + ". ".join(sentences[-2:])
 
     #history_div = soup.find("div", class_="submission-history")
     #published = history_div.get_text(" ", strip=True) if history_div else ""
@@ -151,7 +151,7 @@ I check arxiv daily to collect papers I find interesting, relevant to my researc
                 f.write(f"### {month_name} {year}\n\n")
                 for p in grouped[year][month]:
                     f.write(f"#### [{p['title']}]({p['link']})\n")
-                    f.write(f"<span style='display:block; font-size:80%; line-height:1.1;'>**Authors:** {', '.join(p['authors'])}<br>\n")
+                    f.write(f"<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** {', '.join(p['authors'])} ")
                     f.write(f"**Published:** {p['published']}<br>\n")
                     f.write(f"{p['abstract']}</span>\n\n---\n\n")
 
