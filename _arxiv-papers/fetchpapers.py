@@ -44,7 +44,7 @@ def fetch_from_html(arxiv_id):
     # Shorten to first and last 10 words if long
     sentences = abstract.split(". ")
     if len(sentences) > 4:
-    	abstract = " ".join(sentences[:2]) + ". ... " + " ".join(sentences[-2:])
+    	abstract = ". ".join(sentences[:2]) + ". ... " + ". ".join(sentences[-2:])
 
     #history_div = soup.find("div", class_="submission-history")
     #published = history_div.get_text(" ", strip=True) if history_div else ""
@@ -153,7 +153,7 @@ I check arxiv daily to collect papers I find interesting, relevant to my researc
                     f.write(f"#### [{p['title']}]({p['link']})\n")
                     f.write(f"<span style='font-size:80%'>**Authors:** {', '.join(p['authors'])}</span>\n\n")
                     f.write(f"<span style='font-size:80%'>**Published:** {p['published']}</span>\n\n")
-                    f.write(f"<span style='font-size:50%'>{p['abstract']}</span>\n\n---\n\n")
+                    f.write(f"<span style='font-size:50%; line-height:0.5;'>{p['abstract']}</span>\n\n---\n\n")
 
     total_grouped = sum(len(grouped[y][m]) for y in grouped for m in grouped[y])
     print(f"[DEBUG] Markdown written with {total_grouped} papers grouped")
