@@ -15,7 +15,7 @@ I check arxiv daily to collect papers I find interesting, relevant to my researc
 
 <span style='font-size:80%'>**Published:** From: Bipin Singh Koranga, Wed, 1 Apr 2026</span>
 
-<span style='font-size:50%; line-height:0.5;'>We investigate a reported discrepancy between a high-energy neutrino detection at KM3NeT and its non-observation at IceCube, which suggests a statistical tension of up to 3.5 standard deviations. This gap has been proposed to arise from sterile neutrino oscillations over the 147-kilometer path to KM3NeT, driven by either matter-induced resonances or nonstandard interactions. ... We identify an optimal baseline of 150 to 200 kilometers, placing KM3NeT in a superior position for these measurements. Our results show that standard detection methods already reach the ultimate quantum precision limit, and that a small number of future events at KM3NeT could provide the first quantum-limited constraints on sterile neutrino couplings.</span>
+<span style='font-size:50%; line-height:0.1;'>We investigate a reported discrepancy between a high-energy neutrino detection at KM3NeT and its non-observation at IceCube, which suggests a statistical tension of up to 3.5 standard deviations. This gap has been proposed to arise from sterile neutrino oscillations over the 147-kilometer path to KM3NeT, driven by either matter-induced resonances or nonstandard interactions. ... We identify an optimal baseline of 150 to 200 kilometers, placing KM3NeT in a superior position for these measurements. Our results show that standard detection methods already reach the ultimate quantum precision limit, and that a small number of future events at KM3NeT could provide the first quantum-limited constraints on sterile neutrino couplings.</span>
 
 ---
 
