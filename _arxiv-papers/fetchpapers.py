@@ -151,9 +151,9 @@ I check arxiv daily to collect papers I find interesting, relevant to my researc
                 f.write(f"### {month_name} {year}\n\n")
                 for p in grouped[year][month]:
                     f.write(f"#### [{p['title']}]({p['link']})\n")
-                    f.write(f"<span style='font-size:80%'>**Authors:** {', '.join(p['authors'])}</span>\n\n")
-                    f.write(f"<span style='font-size:80%'>**Published:** {p['published']}</span>\n\n")
-                    f.write(f"<span style='display:block; font-size:50%; line-height:1.1;'>{p['abstract']}</span>\n\n---\n\n")
+                    f.write(f"<span style='display:block; font-size:80%; line-height:1.1;'>**Authors:** {', '.join(p['authors'])}<br>\n")
+                    f.write(f"**Published:** {p['published']}<br>\n")
+                    f.write(f"{p['abstract']}</span>\n\n---\n\n")
 
     total_grouped = sum(len(grouped[y][m]) for y in grouped for m in grouped[y])
     print(f"[DEBUG] Markdown written with {total_grouped} papers grouped")
