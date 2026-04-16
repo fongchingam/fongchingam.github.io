@@ -59,7 +59,7 @@ def fetch_from_html(arxiv_id):
         # Extract date (after ] and before UTC)
         date_match = re.search(r"\]\s*(\w{3},\s*\d+\s+\w+\s+\d{4})", text)
         date_str = date_match.group(1) if date_match else ""
-        published = f"From: {author}, {date_str}"
+        published = f"{date_str}, from: {author}"
 
 
     # Try to parse year/month from submission history text
@@ -152,8 +152,8 @@ I check arxiv daily to collect papers I find interesting, relevant to my researc
                 for p in grouped[year][month]:
                     f.write(f"#### [{p['title']}]({p['link']})\n")
                     f.write(f"<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** {', '.join(p['authors'])} ")
-                    f.write(f"**Published:** {p['published']}<br>\n")
-                    f.write(f"{p['abstract']}</span>\n\n---\n\n")
+                    f.write(f"**Published:** {p['published']}</span>\n\n")
+                    f.write(f"<span style='display:block; font-size:100%; line-height:1.2;'>{p['abstract']}</span>\n\n---\n\n")
 
     total_grouped = sum(len(grouped[y][m]) for y in grouped for m in grouped[y])
     print(f"[DEBUG] Markdown written with {total_grouped} papers grouped")
