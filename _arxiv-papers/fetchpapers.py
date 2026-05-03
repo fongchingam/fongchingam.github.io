@@ -103,6 +103,8 @@ def main():
             arxiv_id = sanitize_arxiv_id(line)
             if arxiv_id and arxiv_id not in known_ids:
                 new_ids.append(arxiv_id)
+    new_ids.sort(reverse=True)
+    
 
     print(f"[DEBUG] Found {len(new_ids)} new IDs to fetch")
 
