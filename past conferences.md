@@ -10,11 +10,16 @@ A list of my conference talk and poster presentations
 
 
   <!---* Constraining Particle Dark Matter with eROSITA Early Data --->
+  2026
+   
+   (*poster*) IAU Asia-Pacific Regional Meeting | May 2024 | Hong Kong, China
+   (*poster*) The 1st LHAASO Collaboration Conference in 2026 | Apr 2024 | Suzhou, China
+  
   2025
   
    2nd International Forum on Cosmic Rays in the Heliosphere | Sep 2025 | Jinan, China
    XIX International Conference on Topics in Astroparticle and Underground Physics (TAUP2025) | Aug 2025 | Xichang, China [link](https://indico-cdex.ep.tsinghua.edu.cn/event/175/contributions/2189/)
-   Institute of High Energy Physics Seminar | April 2025 | Beijing, China [link](https://ihep.cas.cn/astro/xshd/xlxsbg/202506/t20250613_7869066.html)
+   Institute of High Energy Physics Seminar | Apr 2025 | Beijing, China [link](https://ihep.cas.cn/astro/xshd/xlxsbg/202506/t20250613_7869066.html)
    (*poster*) The 2nd LHAASO Symposium | Mar 2025 | Hong Kong, China
   
   2024
@@ -24,7 +29,7 @@ A list of my conference talk and poster presentations
    Center for Cosmology and AstroParticle Physics (CCAPP) AstroParticle Lunch | Dec 2024 | Columbus Ohio, USA [link](https://sites.google.com/site/ccappastrolunch/ccapp-astroparticle-lunch/2024?authuser=0)
    (*poster*) The 2nd LHAASO Collaboration Conference in 2024 | Oct 2024 | Chengdu, China
    
-   2023
+  2023
    
    The International Symposium on Cosmology and Particle Astrophysics (CoSPA2023) | Nov 2023 | Hong Kong, China [link](https://indico.cern.ch/event/1340084/contributions/5642891/)
    XVIII International Conference on Topics in Astroparticle and Underground Physics (TAUP2023) | Aug 2023 | Vienna, Austria [link](https://indico.cern.ch/event/1199289/contributions/5446691/)
