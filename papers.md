@@ -8,6 +8,158 @@ I check arxiv daily to collect papers I find interesting, relevant to my researc
 
 ## 2026
 
+### June 2026
+
+#### [Astrophysical Uncertainties in Sub-GeV Dark Matter Detection via Single Phonon Excitations](https://arxiv.org/abs/2606.4091)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Xu-Xiang Li, Navaneetha Valsan, Zhengkang Zhang **Published:** Tue, 2 Jun 2026, from: Navaneetha Valsan</span>
+
+---
+
+#### [$\tt BlackHawk$ $\tt v3.0$: Hawking Radiation from Regular Black Holes](https://arxiv.org/abs/2606.6355)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Alexandre Arbey, Marco Calzà, Léa Malacher, Davide Pedrotti, Yuber F. Perez-Gonzalez **Published:** Thu, 4 Jun 2026, from: Marco Calzà</span>
+
+---
+
+#### [Heavy-element paleodetectors for Higgsino dark matter](https://arxiv.org/abs/2606.5299)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Peter W. Graham, Harikrishnan Ramani, Samuel S. Y. Wong **Published:** Wed, 3 Jun 2026, from: Samuel S. Y. Wong</span>
+
+---
+
+#### [Interaction of Fast Magnetoacoustic Wave with the Localized Coronal Null and Generation of the Energetic Alfvén Wave Packet](https://arxiv.org/abs/2606.6082)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Akash Bairagi, Abhishekh K. Srivastava, Sripan Mondal, T.V. Zaqarashvili, Astrid Veronig, P. Bourdin, Ding Yuan, Ryun-Young Kwon **Published:** Thu, 4 Jun 2026, from: Akash Bairagi</span>
+
+---
+
+#### [All-Sky Ultra-Narrowband Spectral Imaging with the OVRO-LWA: Technosignature Constraints and Axion-Like Particle Prospects](https://arxiv.org/abs/2606.4304)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Nikita Kosogorov, Gregg Hallinan, Greg Hellbourg, Marin M. Anderson, Judd D. Bowman, Ruby Byrne, Morgan Catha, Bin Chen, Xingyao Chen, Sherry Chhabra, Larry D'Addario, Ivey Davis, Jayce Dowell, Katherine Elder, Dale Gary, Charlie Harnach, Jack Hickish, Rick Hobbs, David Hodge, Mark Hodges, Yuping Huang, Andrea Isella, Daniel C. Jacobs, Ghislain Kemby, John T. Klinefelter, Matthew Kolopanis, James Lamb, Casey Law, Nivedita Mahesh, Surajit Mondal, Brian O'Donnell, Kathryn Plant, Corey Posner, Travis Powell, Vinand Prayag, Andres Rizo, Andrew Romero-Wolf, Jun Shi, Greg Taylor, Jordan Trim, Mike Virgin, Akshatha Vydula, Sandy Weinreb, Scott White, David Woody, Sijie Yu, Thomas Zentmeyer, Peijin Zhang, T. Joseph W. Lazio **Published:** Wed, 3 Jun 2026, from: Nikita Kosogorov</span>
+
+---
+
+#### [New Windows on Heavy Dark Matter: Mineral Melt Modelling and X-Ray Readout for Muscovite Mica](https://arxiv.org/abs/2606.2579)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Yilda Boukhtouchen, Joseph Bramante, Andrew Buchanan, Alexander Hayes, Matthew Leybourne, Jennika McIntosh, Anupam Ray, Aaron Shugar **Published:** Mon, 1 Jun 2026, from: Jennika Mcintosh</span>
+
+---
+
+#### [JWST's Little Red Dots as collapsed Supermassive Dark Stars](https://arxiv.org/abs/2606.2539)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Cosmin Ilie **Published:** Mon, 1 Jun 2026, from: Cosmin Ilie</span>
+
+---
+
+#### [A Common Antimatter Response in AMS-02 Positrons and Antiprotons](https://arxiv.org/abs/2606.4043)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Yi Yang **Published:** Tue, 2 Jun 2026, from: Yi Yang</span>
+
+---
+
+#### [COSMOS: A numerical relativity code specialized for PBH formation](https://arxiv.org/abs/2606.2053)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Chul-Moon Yoo, Hirotada Okawa, Albert Escrivà, Tomohiro Harada, Hayami Iizuka, Taishi Ikeda, Yasutaka Koga, Daiki Saito, Masaaki Shimada, Koichiro Uehara **Published:** Mon, 1 Jun 2026, from: Chul-Moon Yoo</span>
+
+---
+
+#### [Mergers Matter: Gravothermal Collapse in Dwarf Halos with Self-Interacting Dark Matter](https://arxiv.org/abs/2606.2566)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Maya Silverman, Abdelaziz Hussein, Arpit Arora, Mariangela Lisanti, Manoj Kaplinghat, Lina Necib, Andreas Thoyas, Stephanie O'Neil, Robyn E. Sanderson, Xuejian Shen, Jorge Moreno **Published:** Mon, 1 Jun 2026, from: Maya Silverman</span>
+
+---
+
+#### [Joint Multi-Period Fermi-LAT and LHAASO Constraints on Axion-Like Particles from Mrk 421 Using Profile Likelihood with Gaussian Copula Correlation](https://arxiv.org/abs/2606.05738)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Longhua Qin, Jiancheng Wang, Chuyuan Yang, Huaizhen Li, Ao Wang, Weiwei Na, Hushan Xu, Xiaogu Zhong, Zunli Yuan, Yubin Li, Guangbo Long **Published:** Thu, 4 Jun 2026, from: Longhua Qin</span>
+
+---
+
+#### [The Influence of Opacity on Inferred MHD Wave Signatures in the Lower Solar Atmosphere](https://arxiv.org/abs/2606.05318)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Samuel J. Skirvin, Samuel D. T. Grant, David B. Jess, Ryan J. Campbell, Shahin Jafarzadeh, Mika V. Kontiainen, Michele Berretti, Timothy J. Duckenfield, Glen Chambers, Marco Stangalini, Luc Rouppe van der Voort **Published:** Wed, 3 Jun 2026, from: Samuel Skirvin</span>
+
+---
+
+#### [The free-streaming length of dark matter from JWST observations of 28 strong gravitational lenses](https://arxiv.org/abs/2606.05277)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** D. Gilman, A. M. Nierenberg, T. Treu, K. N. Abazajian, T. Anguita, V. N. Bennert, A. J. Benson, S. Birrer, S. G. Djorgovski, X. Du, C. Gannon, S. F. Hoenig, R. E. Keeley, A. Kusenko, H. R. Larsson, M. Malkan, T. Morishita, V. Motta, L. A. Moustakas, P. Mozumdar, H. Paugnat, W. Sheu, D. Sluse, D. Stern, M. Stiavelli, D. Williams, K. C. Wong **Published:** Wed, 3 Jun 2026, from: Daniel Gilman</span>
+
+---
+
+#### [UK White Paper on Space-based total solar eclipse observations: structure and dynamics of the solar atmosphere](https://arxiv.org/abs/2606.05244)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Lucie M. Green, Nicola Baresi, Huw Morgan, Matt Gunn, Amir Caspi, Daniel B. Seaton, Giulio Del Zanna, Yeimy J. Rivera, Francisco Javier Bailen, David Orozco Suarez, Anthony R. Yeates, Peter Wyper, Nawin Ngampoopun, Nathalia Alzate, Simone Di Matteo, Erika Palmerio, Richard J. Morton, Eleanna Asvestari, Manuela Temmer, Greta Cappello, Teodora Mihailescu, Karl Battams **Published:** Wed, 3 Jun 2026, from: Lucie Green M</span>
+
+---
+
+#### [Possible High-Energy Neutrino Emission from Dark Matter Annihilation in the Disrupting Dwarf Galaxy Boötes~III](https://arxiv.org/abs/2606.1853)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Shunhao Ji, Zhongxiang Wang **Published:** Mon, 1 Jun 2026, from: Zhongxiang Wang</span>
+
+---
+
+#### [CMB Bounds on Primordial Black Holes via Radiation Capture](https://arxiv.org/abs/2606.05133)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Marzieh Farhang, S. M. S. Movahed **Published:** Wed, 3 Jun 2026, from: Marzieh Farhang</span>
+
+---
+
+#### [Deep Learning with Magnetic Parameter Constraints for Short-Term Prediction of Solar Active Region Vector Magnetic Fields](https://arxiv.org/abs/2606.04991)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Yuqing Zhou, Hui Liu, Zhenyu Jin, Yuyang Li, Sizhong Zou, Jiaben Lin, Mingfu Shao, Zhuoheng Huang **Published:** Wed, 3 Jun 2026, from: Yuqing Zhou</span>
+
+---
+
+#### [Full-Disk Spectroscopy of the Solar Corona Across a Solar Cycle with Hinode/EIS](https://arxiv.org/abs/2606.04979)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** James McKevitt, Ignacio Ugarte-Urra, Peter R. Young **Published:** Wed, 3 Jun 2026, from: James McKevitt</span>
+
+---
+
+#### [Recurrent Coronal Jets and QPPs: Periodic Reconnection and Localized Heating Across Quiet-Sun to Active Regions](https://arxiv.org/abs/2606.04732)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Sudheer K. Mishra, Kartika Sangal, Balveer Singh, Ayumi Asai, A. K. Srivastava, Ding Yuan **Published:** Wed, 3 Jun 2026, from: Sudheer Mishra Kumar</span>
+
+---
+
+#### [Suppressed diffusion and gamma-ray emission from the Cygnus Bubble](https://arxiv.org/abs/2606.03881)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Ben Li, Pasquale Blasi, Elena Amato **Published:** Tue, 2 Jun 2026, from: Ben Li</span>
+
+---
+
+#### [Probing Inelastic Dark Matter via Cosmic-Ray Upscattering in NGC 1068](https://arxiv.org/abs/2606.03487)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Eung Jin Chun, Sanjoy Mandal, Abhishek Roy **Published:** Tue, 2 Jun 2026, from: Abhishek Roy</span>
+
+---
+
+#### [Signatures of Ultralight Dark Matter in Space-Based Laser Interferometers](https://arxiv.org/abs/2606.03478)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Tingyuan Jiang, Yong Tang **Published:** Tue, 2 Jun 2026, from: Yong Tang</span>
+
+---
+
+#### [Gravitino Freeze-In Dark Matter with an Additional Scalar Field](https://arxiv.org/abs/2606.03448)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Georgios Georgilas, Vassilis C. Spanos **Published:** Tue, 2 Jun 2026, from: Vassilis C. Spanos</span>
+
+---
+
+#### [Boosted dark matter via semi-annihilation in a radiative neutrino mass model](https://arxiv.org/abs/2606.02751)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Motoko Fujiwara, Takashi Toma **Published:** Mon, 1 Jun 2026, from: Takashi Toma</span>
+
+---
+
+#### [Deficit of primordial Li7 and primordial black holes](https://arxiv.org/abs/2606.03316)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** E.V.Arbuzova, A.D.Dolgov **Published:** Tue, 2 Jun 2026, from: Alexander Dolgov</span>
+
+---
+
+#### [Elemental cosmic ray spectra reveal two populations of Galactic sources and an immediate transition to an extragalactic component after the knee](https://arxiv.org/abs/2606.02748)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Timur A. Dzhatdoev, Anatoly A. Semenov **Published:** Mon, 1 Jun 2026, from: Timur Dzhatdoev</span>
+
+---
+
+#### [The Life and Death of Stars That Capture Primordial Black Holes](https://arxiv.org/abs/2606.02700)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Ore Gottlieb, Matteo Cantiello, Cameron Norton, Ken Van Tilburg, Matthew Kleban **Published:** Mon, 1 Jun 2026, from: Ore Gottlieb</span>
+
+---
+
+#### [Probing the dark axion portal via $J/ψ$ decays at BESIII and STCF](https://arxiv.org/abs/2606.01791)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Zeren Simon Wang, Dazhuang He, Yu Zhang **Published:** Mon, 1 Jun 2026, from: Yu Zhang</span>
+
+---
+
+#### [Two-orbital $e_g$ model with bond-dependent spin-orbit coupling: A playground for emergent band topology, Kitaev magnetism, and magnetoelectricity](https://arxiv.org/abs/2606.02716)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** YuZheng Xie, Manoj Gupta, Arun Paramekanti, Tanusri Saha-Dasgupta **Published:** Mon, 1 Jun 2026, from: YuZheng Xie</span>
+
+---
+
+#### [Majoron Dark Matter, High-Scale Seesaw, and Leptogenesis](https://arxiv.org/abs/2606.02706)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Brian Batell, Arnab Dasgupta, Swapnil Dutta, Akshay Ghalsasi **Published:** Mon, 1 Jun 2026, from: Swapnil Dutta</span>
+
+---
+
 ### May 2026
 
 #### [Detecting the Axion-Photon Conversion Background](https://arxiv.org/abs/2605.15175)
@@ -382,6 +534,436 @@ I check arxiv daily to collect papers I find interesting, relevant to my researc
 
 #### [On the Radial Evolution of the Solar Wind : The Source Alignment Method Applied to Parker Solar Probe and Solar Orbiter Observations](https://arxiv.org/abs/2605.01511)
 <span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Jean-Baptiste Dakeyo, Tamar Ervin, Stuart Bale, Pascal Démoulin, Nikos Sioulas, Victor Réville, Mingzhe Liu, Alexis Rouillard, Milan Maksimovic, Davin Larson, Orlando Romeo, Philippe Louarn, Roberto Livi **Published:** Sat, 2 May 2026, from: Jean-Baptiste Dakeyo</span>
+
+---
+
+#### [High-Synchrotron-Peaked BL Lacs as Multi-Messenger Sources: Connecting Ultra-High-Energy Cosmic Rays and Neutrinos](https://arxiv.org/abs/2606.0816)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Luiz Augusto Stuani Pereira, Rita C. Anjos **Published:** Sat, 30 May 2026, from: Luiz Augusto Stuani Pereira</span>
+
+---
+
+#### [The First Glimpse of Water Ice Absorption Map in the Milky Way](https://arxiv.org/abs/2606.1088)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Zhetai Cao, Biwei Jiang, Stefan Meingast **Published:** Sun, 31 May 2026, from: ZheTai Cao</span>
+
+---
+
+#### [Decaying Dark Matter as a Possible Solution for Cosmological Tensions](https://arxiv.org/abs/2606.00529)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Yaman Acharya, Ryan E. Johnson **Published:** Sat, 30 May 2026, from: Ryan E Johnson</span>
+
+---
+
+#### [Suppression of boosted relic neutrinos by photon backgrounds during ultra-high-energy cosmic ray propagation](https://arxiv.org/abs/2606.00498)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Gabriel Azeredo, Vitor de Souza **Published:** Sat, 30 May 2026, from: Gabriel Azeredo</span>
+
+---
+
+#### [Matter-Wave Interferometers as Open-System Dark Matter Detectors](https://arxiv.org/abs/2606.00237)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Leonardo Badurina, Kathryn M. Zurek **Published:** Fri, 29 May 2026, from: Leonardo Badurina</span>
+
+---
+
+#### [It's Not Just Star Formation: A trend of low dark matter densities in the Andromeda dwarf galaxy system](https://arxiv.org/abs/2606.0221)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Connor S. Pickett, Michelle L. M. Collins, Justin I. Read, R. Michael Rich, Emily J. E. Charles, Erik Tollerud, Nicolas Martin, Scott Chapman, Alan McConnachie, Alessandro Savino, Daniel R. Weisz **Published:** Fri, 29 May 2026, from: Connor Pickett</span>
+
+---
+
+#### [Collective Winds of Massive Star Clusters as the Dominant PeVatrons for Galactic Cosmic Rays](https://arxiv.org/abs/2605.31362)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Zijian Qiu, Sujie Lin, Lili Yang **Published:** Fri, 29 May 2026, from: Zijian Qiu</span>
+
+---
+
+#### [The MeerKAT Thousand-Pulsar Polarisation Array II: Searches for Ultralight Axion-Like Dark Matter](https://arxiv.org/abs/2605.31024)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Zi-Yan Yuwen, Michael Sarkis, Yin-Zhe Ma, Tao Liu, Jing Ren, Patrick Weltevrede, Xiao Xue **Published:** Fri, 29 May 2026, from: Yin-Zhe Ma</span>
+
+---
+
+#### [Impact of Primordial Black Holes Induced Neutrinos on the Cosmic 21-cm Brightness Temperature](https://arxiv.org/abs/2605.30449)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Prabhav Singh, Mansi Dhuria, Gaurav Goswami **Published:** Thu, 28 May 2026, from: Prabhav Singh</span>
+
+---
+
+#### [Millicharged Particle Constraints from Asymptotic Giant Branch Stars](https://arxiv.org/abs/2605.30422)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Damiano F.G. Fiorillo, Giuseppe Lucente, Jeremy Sakstein, Edoardo Vitagliano **Published:** Thu, 28 May 2026, from: Edoardo Vitagliano</span>
+
+---
+
+#### [Enhanced All-Distance Equi-Zenith Angle Method for Cosmic-Ray Anisotropy Measurement](https://arxiv.org/abs/2605.29644)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Dong-Xu Sun, Dan Li, Wei Liu, Qiang Yuan, Yi-Qing Guo, Hong-bo Hu **Published:** Thu, 28 May 2026, from: Dongxu Sun</span>
+
+---
+
+#### [Modeling the Effect of the Heliospheric Magnetic Field on Cosmic Ray Muon Shadows](https://arxiv.org/abs/2605.29306)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** MINOS+ Collaboration, P. Adamson, I. Anghel, A. Aurisano, G. Barr, A. Blake, S. V. Cao, T. J. Carroll, C. M. Castromonte, R. Chen, S. Childress, J. A. B. Coelho, S. De Rijck, J. J. Evans, G. J. Feldman, W. Flanagan, S. Fogarty, M. Gabrielyan, H. R. Gallagher, S. Germani, R. A. Gomes, M. C. Goodman, P. Gouffon, N. Graf, N. Grossman, K. Grzelak, A. Habig, S. R. Hahn, J. Hartnell, R. Hatcher, A. Holin, J. Huang, L. W. Koerner, M. Kordosky, A. Kreymer, J. Krueger, K. Lang, P. Lucas, W. A. Mann, M. L. Marshak, N. Mayer, R. Mehdiyev, J. Meier, W. H. Miller, G. Mills, D. Naples, J. K. Nelson, R. Nichol, J. OConnor, R. B. Pahlka, Ž. Pavlović, G. Pawloski, A. Perch, M. M. Pfützner, D. D. Phan, R. K. Plunkett, N. Poonthottathil, X. Qiu, A. Radovic, P. Sail, M. C. Sanchez, A. Schreckenberger, R. Sharma, N. Skuza, A. Sousa, N. Tagg, J. Thomas, M. A. Thomson, A. Timmons, J. Todd, S. C. Tognini, R. Toner, D. Torretta, P. Vahle, A. Weber, L. H. Whitehead, S. G. Wojcicki **Published:** Thu, 28 May 2026, from: Nicholas Skuza</span>
+
+---
+
+#### [Sub-surface structural changes associated with successive 11-yr solar activity cycles have been progressively more confined near the surface: new helioseismic results on Cycles 22 -- 25 from BiSON](https://arxiv.org/abs/2605.29528)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** William J. Chaplin, Sarbani Basu, Rachel Howe, Yvonne Elsworth, Steven J. Hale, Eleanor Murray **Published:** Thu, 28 May 2026, from: William Chaplin</span>
+
+---
+
+#### [Dynamical Tsallis WIMP Freeze-Out and Residual Memory Channels in the Radiation Sector](https://arxiv.org/abs/2605.29132)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Matias P. Gonzalez **Published:** Wed, 27 May 2026, from: Matias Gonzalez</span>
+
+---
+
+#### [High-Quality Axion Dark Matter without Isocurvature Problem](https://arxiv.org/abs/2605.29370)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Masahiro Kawasaki, Jie Sheng, Tsutomu T. Yanagida **Published:** Thu, 28 May 2026, from: Jie Sheng</span>
+
+---
+
+#### [Twilight of the WIMP: Comprehensive Phenomenology of Electroweak Triplet Dark Matter](https://arxiv.org/abs/2605.29031)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Gaurav, Niharika Shrivastava, Rahul Srivastava, Sushant Yadav **Published:** Wed, 27 May 2026, from: Sushant Yadav</span>
+
+---
+
+#### [Linking the Gauge Hierarchy with Neutrino Masses and Dark Matter via Two-step Cosmological Selection](https://arxiv.org/abs/2605.28728)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Jin-Lei Yang, Frank F. Deppisch **Published:** Wed, 27 May 2026, from: Jin-Lei Yang</span>
+
+---
+
+#### [JWST's Dusty Blue BOAT -- GRB 221009A](https://arxiv.org/abs/2605.29022)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Nguyen M. Khang, Gavin P. Lamb, Helena-M.S. Grabham, Conor M. B. Omand, Hamid Hamidani, Andrew J. Levan, Nial R. Tanvir, Valerio D'Elia, Luca Izzo **Published:** Wed, 27 May 2026, from: Khang Minh Nguyen</span>
+
+---
+
+#### [Dark Matter Interpretation of the Super-Kamiokande Antineutrino Excess in $\mathrm{U}(1)_{L_μ-L_τ}$ model](https://arxiv.org/abs/2605.28275)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Motoi Endo, Yushi Mura, Tenta Tsuji **Published:** Wed, 27 May 2026, from: Tenta Tsuji</span>
+
+---
+
+#### [Dark Matter Interpretation of the Super-Kamiokande Antineutrino Excess in $\mathrm{U}(1)_{L_μ-L_τ}$ model](https://arxiv.org/abs/2605.28275)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Motoi Endo, Yushi Mura, Tenta Tsuji **Published:** Wed, 27 May 2026, from: Tenta Tsuji</span>
+
+---
+
+#### [Towards a Foundation Model for the Martian Atmosphere](https://arxiv.org/abs/2605.28851)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Sujit Roy, Udayshankar Nair, Yuling Wu, Georgios Priftis, Liping Wang, Anastasia Georgiou, Anne Jones, Björn Lütjens, Johannes Schmude, Campbell Watson, Rachel A. Slank, Ankur Kumar, Anirbit Mukherjee, Procheta Sen, Ramin Lolachi, Haonan Chen, Manil Maskey, Juan Bernabé-Moreno, Rahul Ramachandran **Published:** Sat, 16 May 2026, from: Sujit Roy</span>
+
+---
+
+#### [NuSTAR as an Axion Helioscope: probing axion-nucleon and axion-electron couplings](https://arxiv.org/abs/2605.26265)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Tiziano Zanzarella, Francisco R. Candón, Maurizio Giannotti, Marco Regis, Jaime Ruz, Marco Taoso, Elisa Todarello, Julia K. Vogel **Published:** Mon, 25 May 2026, from: Tiziano Zanzarella</span>
+
+---
+
+#### [Analysis of Short-term Solar Activity Variability and Estimating the Timings of the Next Enhanced Bursts](https://arxiv.org/abs/2605.27057)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Juie Shetye, Mausumi Dikpati **Published:** Tue, 26 May 2026, from: Juie Shetye</span>
+
+---
+
+#### [Unveiling the dark matter nature with reionization relics](https://arxiv.org/abs/2605.26518)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Yao Zhang, Paulo Montero-Camacho, Catalina Morales-Gutiérrez, Heyang Long, Christopher M. Hirata, Yi Mao **Published:** Tue, 26 May 2026, from: Yao Zhang</span>
+
+---
+
+#### [Cosmic Ray Feedback in Galactic Disks: Star Formation, Cosmic Ray Transport, and Multiphase Outflows in TIGRESS++ Simulations](https://arxiv.org/abs/2605.26238)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Chang-Goo Kim, Lucia Armillotta, Eve C. Ostriker, Sanghyuk Moon, Lachlan Lancaster, Jeong-Gyu Kim, Nora B. Linzer, Ronan N. Hix **Published:** Mon, 25 May 2026, from: Chang-Goo Kim</span>
+
+---
+
+#### [Electromagnetic Signatures From Primordial Black Holes in the Solar System](https://arxiv.org/abs/2605.26204)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Alexandra P. Klipfel, David I. Kaiser **Published:** Mon, 25 May 2026, from: Alexandra P. Klipfel</span>
+
+---
+
+#### [Asymmetric Two-Component Scalar FIMP Dark Matter](https://arxiv.org/abs/2605.25961)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** S. Peyman Zakeri **Published:** Mon, 25 May 2026, from: Seyed Peyman Zakeri</span>
+
+---
+
+#### [Diversity of morphology of type II spicules in MURaM-ChE simulations](https://arxiv.org/abs/2605.25886)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Sanghita Chandra, Robert Cameron, Damien Przybylski, Sami K. Solanki **Published:** Mon, 25 May 2026, from: Sanghita Chandra</span>
+
+---
+
+#### [Long-Term Clustering Pattern of Solar Active Regions and Their Potential Connection with Magneto-Rossby Waves](https://arxiv.org/abs/2605.25501)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Junwei Zhao, Ruizhu Chen, Aimee A Norton **Published:** Mon, 25 May 2026, from: Junwei Zhao</span>
+
+---
+
+#### [Strong Constraints on Millisecond Pulsar Injection Spectra from Fermi-LAT Observations of the Galactic Center](https://arxiv.org/abs/2605.26220)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Jordan Koechler, Pedro De la Torre Luque, Mattia Di Mauro **Published:** Mon, 25 May 2026, from: Jordan Koechler</span>
+
+---
+
+#### [Compact dusty starbursts at cosmic noon linked to high-energy neutrinos](https://arxiv.org/abs/2605.25412)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Yuji Urata, Kuiyun Huang, Bunyo Hatsukade, Mansi Kasliwal, Shigeo S. Kimura, Yuichi Matsuda, Yusuke Miyamoto, Hiroshi Nagai, Kouichiro Nakanishi, Robert Stein **Published:** Mon, 25 May 2026, from: Yuji Urata</span>
+
+---
+
+#### [Observational Technological Innovations and Future Development of the Lijiang Coronagraph](https://arxiv.org/abs/2605.24498)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Xuefei Zhang, Yu Liu, Tengfei Song, Mingyu Zhao, Xiaobo Li, Mingzhe Sun, Feiyang Sha, Xiande Liu **Published:** Sat, 23 May 2026, from: Xuefei Zhang</span>
+
+---
+
+#### [Freeze-in $SU(2)$ vector dark matter at low reheating temperature](https://arxiv.org/abs/2605.24473)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Dilip Kumar Ghosh, Sourav Gope, Xiao-Gang He, Xuan Hong, Sk Jeesun **Published:** Sat, 23 May 2026, from: Xuan Hong</span>
+
+---
+
+#### [The Sensitivity of Substructure Lensing to SIDM Core-collapse Model Variation](https://arxiv.org/abs/2605.24174)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Charlie Mace, Birendra Dhanasingham, Zhichao Carton Zeng, Francis-Yan Cyr-Racine, Xiaolong Du, Annika H. G. Peter, Andrew Benson **Published:** Fri, 22 May 2026, from: Charlie Mace</span>
+
+---
+
+#### [Pitch-Angle Scattering of Cosmic Rays: Confronting Theory with Observations](https://arxiv.org/abs/2605.24143)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Huirong Yan, Siqi Zhao, Ming Zhang **Published:** Fri, 22 May 2026, from: Siqi Zhao</span>
+
+---
+
+#### [Dark matter-deficient twins: FCC 224 and FCC 240 as possible analogues of NGC 1052-DF2 and DF4](https://arxiv.org/abs/2605.24099)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Maria Luisa Buzzo, Pieter van Dokkum, Michael Hilker, Duncan A. Forbes, Aaron J. Romanowsky, Yimeng Tang **Published:** Fri, 22 May 2026, from: Maria Luisa Buzzo</span>
+
+---
+
+#### [Solar Axions from Nuclear Transitions](https://arxiv.org/abs/2605.24121)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Tanmoy Kumar, Newton Nath **Published:** Fri, 22 May 2026, from: Tanmoy Kumar</span>
+
+---
+
+#### [The 3D Structure and Kinematics of the Local Disk-Halo Interface: Intermediate-velocity Clouds are the Minority of High-altitude Clouds in the Solar Neighborhood](https://arxiv.org/abs/2605.24342)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Theo J. O'Neill, Andrew K. Saydjari, Catherine Zucker, Eric W. Koch, Robert A. Benjamin, Philipp Frank, Stephanie Yoshida **Published:** Sat, 23 May 2026, from: Theo O'Neill</span>
+
+---
+
+#### [The AGORA High-resolution Galaxy Simulations Comparison Project. XI: Solving the Non-Spherical Morphology and Evolution of Dark Matter Halos with Haskap Pie](https://arxiv.org/abs/2605.24097)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Kirk S. S. Barrow, Thinh Huu Nguyen, Santi Roca-Fàbrega, Ji-hoon Kim, Varun Satish, Kentaro Nagamine, Saulius Matusaitis, Eduárd Illes, Ramón Rodríguez-Cardoso, Minyong Jung, Hyeonyong Kim, Anna Genina, Pablo Granizo, Alessandro Lupi, Johnny W. Powell, Héctor Velázquez, Tom Abel, Oscar Agertz, Renyue Cen, Daniel Ceverino, Boon Kiat Oh, Yuri Oku, Joel R. Primack, Thomas R. Quinn, Yves Revaz, Alvaro Segovia-Otero, Ikkoh Shimizu, Edward Skrabacz, Romain Teyssier **Published:** Fri, 22 May 2026, from: Kirk Barrow</span>
+
+---
+
+#### [Sharper Than Ever: Do Modern Observations Pin Down the Solar Radius to Converge on New Standards?](https://arxiv.org/abs/2605.23794)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Jean-Pierre Rozelot, Alexander Kosovichev **Published:** Fri, 22 May 2026, from: Jean Rozelot</span>
+
+---
+
+#### [Probing Solar Wind Structures with Solar Energetic Particle Observations from Solar Orbiter](https://arxiv.org/abs/2605.23756)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Xiaohang Chen, Gang Li, Joe Giacalone, Xiangliang Kong, Shuai Fu, Rumeng Zhang, Changyue Zhao, George C. Ho, David Lario, Zheyi Ding, Robert F. Wimmer-Schweingruber, Glenn M. Mason, Roberto Bruno, Nicolas Wijsen, Javier Rodríguez-Pacheco **Published:** Fri, 22 May 2026, from: Xiaohang Chen</span>
+
+---
+
+#### [Oscillating Imprints of Dark Matter in Mesons Decays](https://arxiv.org/abs/2605.24090)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Prisco Lo Chiatto, Babette Döbrich, Gilad Perez **Published:** Fri, 22 May 2026, from: Prisco Lo Chiatto</span>
+
+---
+
+#### [The Solar Dynamics Observatory in the Living With a Star Era: From Solar Observations to Predictive Heliophysics](https://arxiv.org/abs/2605.22999)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Madhulika Guhathakurta **Published:** Thu, 21 May 2026, from: Madhulika Guhathakurta</span>
+
+---
+
+#### [Sterile Neutrino Mixing Parameters from Solar-Neutrino Coherent Scattering](https://arxiv.org/abs/2605.22935)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Kevin J. Kelly, Nityasa Mishra, Louis E. Strigari **Published:** Thu, 21 May 2026, from: Nityasa Mishra</span>
+
+---
+
+#### [A Precise Measurement of the Fermi-LAT Galactic Center Excess Morphology and Spectrum](https://arxiv.org/abs/2605.22913)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Mattia Di Mauro **Published:** Thu, 21 May 2026, from: Mattia Di Mauro</span>
+
+---
+
+#### [Primordial black holes in excursion set theory: Formation probabilities, mass functions, and window functions](https://arxiv.org/abs/2605.22789)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Hayami Iizuka, Daiki Saito, Koki Tokeshi **Published:** Thu, 21 May 2026, from: Hayami Iizuka</span>
+
+---
+
+#### [Dwarf Galaxy Constraints on Interacting Fermionic Dark Matter](https://arxiv.org/abs/2605.22685)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Bihag Dave, Raghuveer Garani **Published:** Thu, 21 May 2026, from: Bihag Dave</span>
+
+---
+
+#### [A Three-Dimensional Tomographic Reconstruction of the Galactic Cosmic-Ray Proton Density](https://arxiv.org/abs/2605.22739)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Hanieh Zandinejad, Jakob Roth, Vo Hong Minh Phan, Gordian Edenhofer, Philipp Frank, Philipp Mertsch, Ralf Kissmann, Andrés Ramírez, Laurin Söding, Torsten A. Enßlin **Published:** Thu, 21 May 2026, from: Hanieh Zandinejad</span>
+
+---
+
+#### [Emergent Neutrino Texture Geometry from Dark Matter and Lepton Flavor Violation in the Scotogenic Model](https://arxiv.org/abs/2605.22656)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Avinanda Chaudhuri **Published:** Thu, 21 May 2026, from: Avinanda Chaudhuri</span>
+
+---
+
+#### [Probing freeze-in dark matter using Bose-Einstein condensate in neutron star](https://arxiv.org/abs/2605.22245)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Deep Ghosh, Anirban Das **Published:** Thu, 21 May 2026, from: Deep Ghosh</span>
+
+---
+
+#### [Probing freeze-in dark matter using Bose-Einstein condensate in neutron star](https://arxiv.org/abs/2605.22245)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Deep Ghosh, Anirban Das **Published:** Thu, 21 May 2026, from: Deep Ghosh</span>
+
+---
+
+#### [Opening the Window of Ultra-Light PBHs by Exorcising the Poltergeist](https://arxiv.org/abs/2605.21477)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Yann Gouttenoire, Nicholas Leister, Pedro Schwaller **Published:** Wed, 20 May 2026, from: Nicholas Leister</span>
+
+---
+
+#### [Dark photon -- Assisted Primordial Magnetogenesis](https://arxiv.org/abs/2605.22174)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Debottam Nandi, Debajyoti Choudhury **Published:** Thu, 21 May 2026, from: Debottam Nandi</span>
+
+---
+
+#### [Detection of a dark matter subhalo in the strongly lensed system PJ011646](https://arxiv.org/abs/2605.21212)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Aristeidis Amvrosiadis, James W. Nightingale, Qiuhan He, Andrew Robertson, Shaun Cole, Carlos S. Frenk, Samuel Lange, Richard Massey, Maximilian von Wietersheim-Kramsta, Xiaoyue Cao, Ran Li, Shubo Li, Kaihao Wang, Xianghao Ma, Leo W. H. Fung **Published:** Wed, 20 May 2026, from: Aristeidis Amvrosiadis</span>
+
+---
+
+#### [Gauged Flavour for Asymmetric Dark Matter](https://arxiv.org/abs/2605.20336)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Mattias Blennow, Enrique Fernandez-Martinez, David Garcia-Garcia, Javier M. Lizana **Published:** Tue, 19 May 2026, from: Enrique Fernandez-Martinez</span>
+
+---
+
+#### [On the correlation between globular clusters and the distribution of dark matter in galaxy clusters: the case of Abell 2744](https://arxiv.org/abs/2605.20352)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Marta Reina-Campos, Joshua S. Speagle, William E. Harris **Published:** Tue, 19 May 2026, from: Marta Reina-Campos</span>
+
+---
+
+#### [Investigating the impact of Solar Fusion III reaction rates on helioseismic constraints and solar neutrino fluxes](https://arxiv.org/abs/2605.20366)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** T. Sandron, G. Buldgen, A. Noels, M.A. Dupret, R. Scuflaire **Published:** Tue, 19 May 2026, from: Théo Sandron</span>
+
+---
+
+#### [Indirect Parametric Resonance of the Electromagnetic Field Driven by an Oscillating SU(2) Dark Matter Condensate](https://arxiv.org/abs/2605.20333)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Tatsuya Daniel, Vahid Kamali, Robert Brandenberger **Published:** Tue, 19 May 2026, from: Tatsuya Daniel</span>
+
+---
+
+#### [Effective Field Theory for a Baryon-Correlated Dark Matter Profile](https://arxiv.org/abs/2605.20217)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Kento Kamada **Published:** Mon, 11 May 2026, from: Kento Kamada</span>
+
+---
+
+#### [The potential of diffuse Galactic Ridge neutrino measurements to constrain dark matter](https://arxiv.org/abs/2605.20117)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Jaume Zuriaga-Puig, Pedro de la Torre Luque, Viviana Gammaldi **Published:** Tue, 19 May 2026, from: Jaume Zuriaga-Puig</span>
+
+---
+
+#### [Dark Matter Interpretation of the Super-Kamiokande Antineutrino Excess and Predictions for JUNO](https://arxiv.org/abs/2605.20162)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Alessandro Granelli, Silvia Pascoli, Salvador Rosauro-Alcaraz **Published:** Tue, 19 May 2026, from: Alessandro Granelli</span>
+
+---
+
+#### [AMPM II. A Lunar-Mass Primordial Black Hole Microlensing Candidate in the Milky Way Halo](https://arxiv.org/abs/2605.19375)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Renee Key, Edward N. Taylor, Ken C. Freeman, Jeremy Mould, Abhijit Saha, Anais Möller, Timothy M. C. Abbott, Alan R. Duffy **Published:** Tue, 19 May 2026, from: Renee Key</span>
+
+---
+
+#### [AMPM I. A Targeted Search for Asteroid Mass Primordial Black Hole Microlenses](https://arxiv.org/abs/2605.19332)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Renee Key, Edward N. Taylor, Ken C. Freeman, Jeremy Mould, Abhijit Saha, Anais Möller, Timothy M. C. Abbott, Alan R. Duffy **Published:** Tue, 19 May 2026, from: Renee Key</span>
+
+---
+
+#### [The Majoron Cosmological Window: Dark Matter and Thermal Leptogenesis](https://arxiv.org/abs/2605.18944)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Arturo de Giorgi, Daniel Naredo-Tuero, Xavier Ponce Díaz **Published:** Mon, 18 May 2026, from: Daniel Naredo</span>
+
+---
+
+#### [WIMP-like Dark Matter Without Thermalization At Freeze-Out](https://arxiv.org/abs/2605.20186)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Dan Hooper, Gordan Krnjaic, Gabriele Montefalcone **Published:** Tue, 19 May 2026, from: Gabriele Montefalcone</span>
+
+---
+
+#### [Taking Inventory of the Most Promising Lensed Radio Sources for Constraining Fundamental Properties of Dark Matter](https://arxiv.org/abs/2605.19217)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Michael N. Martinez **Published:** Tue, 19 May 2026, from: Michael Martinez</span>
+
+---
+
+#### [Spectral energy-loss bump and $γ$-ray pulsar halos](https://arxiv.org/abs/2605.18122)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Kun Fang **Published:** Mon, 18 May 2026, from: Kun Fang</span>
+
+---
+
+#### [Probing (sub-)solar-mass black holes and superspinars with current and next-generation gravitational-wave observatories](https://arxiv.org/abs/2605.18428)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** K. S. Sruthy, N. V. Krishnendu, Chandrachur Chakraborty, Nami Uchikata **Published:** Mon, 18 May 2026, from: Chandrachur Chakraborty</span>
+
+---
+
+#### [Collective response and noise of a levitated ferromagnet lattice for ultralight dark matter detection](https://arxiv.org/abs/2605.17417)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Dongyi Yang, Xiao Yang, Chenxi Sun, Jianwei Zhang **Published:** Sun, 17 May 2026, from: Dongyi Yang</span>
+
+---
+
+#### [Constraints on Self-Interacting Fuzzy Dark Matter from the Stellar Kinematics of the Dwarf Galaxy Leo II](https://arxiv.org/abs/2605.17211)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Yi Zhao, Yu-Ming Yang, Xiao-Jun Bi, Peng-Fei Yin **Published:** Sun, 17 May 2026, from: Yu-Ming Yang</span>
+
+---
+
+#### [The Deep Learning-Based Dual-Branch Multimodal Fusion Model for Solar Flare Prediction](https://arxiv.org/abs/2605.17369)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Limin Zhao, Xingyao Chen, Xiaoshuai Zhu, Dong Zhao, and Yihua Yan **Published:** Sun, 17 May 2026, from: Limin Zhao</span>
+
+---
+
+#### [Constraints on Self-Interacting Fuzzy Dark Matter from the Stellar Kinematics of the Dwarf Galaxy Leo II](https://arxiv.org/abs/2605.17211)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Yi Zhao, Yu-Ming Yang, Xiao-Jun Bi, Peng-Fei Yin **Published:** Sun, 17 May 2026, from: Yu-Ming Yang</span>
+
+---
+
+#### [An EFT Map of Axion Dark Radiation from Reheating](https://arxiv.org/abs/2605.17178)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Yong Xu **Published:** Sat, 16 May 2026, from: Yong Xu</span>
+
+---
+
+#### [Simulation study of the cosmic ray Sun shadow with a time-dependent solar magnetic field model](https://arxiv.org/abs/2605.16898)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Jie Xia, Ming-Yang Cui, Qiang Yuan, Yi Zhang, Guang-Lu Shi, Li Feng **Published:** Sat, 16 May 2026, from: Qiang Yuan</span>
+
+---
+
+#### [Towards Measuring the CP-Violating Phase with Atmospheric Neutrinos](https://arxiv.org/abs/2605.16721)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** John F. Beacom, Nicole F. Bell, Matthew J. Dolan, Stephan A. Meighen-Berger, Ho Man Yim **Published:** Sat, 16 May 2026, from: Ho Man Yim</span>
+
+---
+
+#### [Determination of the best dark matter profile for the Milky Way with Gaia DR3 using Bayesian Model Comparison](https://arxiv.org/abs/2605.16994)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Aryan Singh, Shantanu Desai **Published:** Sat, 16 May 2026, from: Shantanu Desai</span>
+
+---
+
+#### [Freeze-in Warm Dark Matter via Dimension-6 Operators in 3-3-1 Models](https://arxiv.org/abs/2605.16465)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Fuwei Liu, Fujun Liu **Published:** Fri, 15 May 2026, from: Fujun Liu</span>
+
+---
+
+#### [Energy Evolution from the Chromosphere to the Heliosphere in the 2021 October 28 Solar Eruption](https://arxiv.org/abs/2605.16111)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Katharine K. Reeves, Daniel B. Seaton, Cynthia Cattell, Bin Chen, Liam David, Federico Fraschetti, Joe Giacalone, Phillip Hess, Andryi Koval, Dana W. Longcope, Surajit Mondal, Christopher S. Moore, Sophie Musset, Tatiana Niembro, Daniel Pacheco, Yeimy J. Rivera, Soumya Roy, Xudong Sun, Durgesh Tripathi, Domenico Trotta, Matthew J. West, Sijie Yu, Chunming Zhu **Published:** Fri, 15 May 2026, from: Katharine Reeves</span>
+
+---
+
+#### [A Near-Cutoff Waveguide Haloscope for sub-meV Dark Matter](https://arxiv.org/abs/2605.15820)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Chuan-Yang Xing, Bin Zhu **Published:** Fri, 15 May 2026, from: Chuan-Yang Xing</span>
+
+---
+
+#### [Accretion Effects on Primordial Black Hole Reheating Constraints](https://arxiv.org/abs/2605.15772)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Chenhuan Wang **Published:** Fri, 15 May 2026, from: Chenhuan Wang</span>
+
+---
+
+#### [Constraints on primordial black holes from the first part of LIGO-Virgo-KAGRA fourth observing run](https://arxiv.org/abs/2605.15749)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** M. Andrés-Carcasona, A.J. Iovino, E. Vallejo-Pagès, V. Vaskonen, H. Veermäe, M. Martínez, Ll. M. Mir **Published:** Fri, 15 May 2026, from: Marc Andrés-Carcasona</span>
+
+---
+
+#### [Forecasting megaelectron-volt electron flux in the Earth's outer radiation belt using supervised machine learning algorithms and a timeseries foundation model](https://arxiv.org/abs/2605.15752)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Rungployphan Kieokaew, Ryad Guezzi, François Ginisty, Hadrien Mariaccia **Published:** Fri, 15 May 2026, from: Rungployphan Kieokaew</span>
+
+---
+
+#### [Warm, not Fuzzy: Generalized Ultralight Dark Matter Limits from Milky Way Satellites](https://arxiv.org/abs/2605.15371)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Ethan O. Nadler, Mustafa A. Amin, Risa H. Wechsler, M. Sten Delos, Andrew Benson, Vera Gluscevic **Published:** Thu, 14 May 2026, from: Ethan Nadler</span>
+
+---
+
+#### [Interactions of exotic neutralino dark matter with nucleons in $U(1)$ extensions of the MSSM originating from $E_6$ GUTs](https://arxiv.org/abs/2605.15316)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** M. G. Belyakova, R. B. Nevzorov **Published:** Thu, 14 May 2026, from: Maria Belyakova</span>
+
+---
+
+#### [Magnetic Turbulence Boosts Supernova Signals of Axion-Photon Conversion](https://arxiv.org/abs/2605.15261)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Damiano F. G. Fiorillo, Ángel Gil Muyor, Georg G. Raffelt, Edoardo Vitagliano **Published:** Thu, 14 May 2026, from: Ángel Gil Muyor</span>
+
+---
+
+#### [Ultra high-energy cosmic rays from relativistic outflows in accretion induced collapse of white dwarfs](https://arxiv.org/abs/2605.15289)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Mainak Mukhopadhyay, Shunsaku Horiuchi **Published:** Thu, 14 May 2026, from: Mainak Mukhopadhyay</span>
 
 ---
 
@@ -3571,6 +4153,13 @@ I check arxiv daily to collect papers I find interesting, relevant to my researc
 
 #### [Dark matter as the source of neutrino mass: theory overview and experimental prospects](https://arxiv.org/abs/2506.24027)
 <span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Ivania M. Ávila, Anirban Karan, Sanjoy Mandal, Soumya Sadhukhan, José W. F. Valle **Published:** Mon, 30 Jun 2025, from: Anirban Karan</span>
+
+---
+
+### March 2025
+
+#### [The CONDOR Observatory: A Gamma-Ray Observatory with a 100 GeV Threshold at 5300 Meters Above Sea Level](https://arxiv.org/abs/2503.8850)
+<span style='display:block; font-size:100%; line-height:1.2;'>**Authors:** Miguel Arratia, Will Brooks, Jiajun Huang, Gonzalo Muñoz J., Luis Navarro F., Sebouh J. Paul, Raquel Pezoa R., Sebastian Tapia, Daniel Torres A., Constanza Valdivieso C., Nicolas Viaux M **Published:** Tue, 11 Mar 2025, from: Nicolas Viaux</span>
 
 ---
 
