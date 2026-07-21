@@ -20563,5 +20563,1467 @@
     "year": 2026,
     "month": 7,
     "link": "https://arxiv.org/abs/2607.2657"
+  },
+  {
+    "id": "2607.9989",
+    "title": "Solar Wind Proton Implantation and Hydrogen Diffusion: Model Comparisons to M3 Observations",
+    "authors": [
+      "O. J. Tucker",
+      "W. M. Farrell",
+      "S. Li",
+      "A. R. Poppe",
+      "Kennedy White",
+      "Valeriy Tenishev"
+    ],
+    "abstract": "The Moon Mineralogy Mapper (M3) observed a widespread 3-micron absorption feature on the lunar surface, commonly attributed to surficial OH and/or H2O. The feature varies with latitude, local time, and lunar phase, suggesting that at least part of the optically active reservoir is dynamic. **[...]** These fitted parameters should be interpreted as an effective response of the M3-sensitive retained H/OH reservoir, not as a unique mineralogical activation energy. The model reproduces the dominant local-time and phase-dependent abundance structure, including the reduced retained abundance near local noon, while model-data differences near plasma-transition intervals and high-latitude behavior may reflect additional sampling, saturation, or surface-plasma processes.",
+    "published": "Fri, 10 Jul 2026, from: Orenthal Tucker",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.9989"
+  },
+  {
+    "id": "2607.9308",
+    "title": "Structural Diversity Among the Milky Way's Dwarf Spheroidal Satellites",
+    "authors": [
+      "Matthew G. Walker",
+      "Rapha\u00ebl Errani",
+      "Andrew B. Pace",
+      "Jorge Pe\u00f1arrubia",
+      "Sofia Splawska",
+      "Eduardo Vitral"
+    ],
+    "abstract": "We fit a flexible double power-law (`$\\alpha\\beta\\gamma$') model to the stellar density fields observed for the Milky Way's known dwarf spheroidal satellite galaxies. We show that where standard criteria for model selection are decisive, the $\\alpha\\beta\\gamma$ model is favored over the special case of the Plummer model, and also over the \\sersic\\ model and its special case, the exponential. **[...]** Owing to the $\\alpha\\beta\\gamma$ model's flexibility, the inferred halflight radii and total stellar masses are significantly more uncertain than previous estimates, with halflight radii larger by up to an order of magnitude in some cases. Finally, we demonstrate that allowing for flexibility in the shape of the stellar density profile is crucial for dSph mass modeling, where systematic errors associated with choice of stellar density profile can outweigh random errors in the observed velocity dispersions.",
+    "published": "Fri, 10 Jul 2026, from: Matthew Walker",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.9308"
+  },
+  {
+    "id": "2607.9808",
+    "title": "ACT stands for Awkward Cosmology Theories",
+    "authors": [
+      "Loris Del Grosso",
+      "Alfredo Urbano",
+      "Marcello Ziccolella"
+    ],
+    "abstract": "Recent observations from the Atacama Cosmology Telescope (ACT) point to a scalar spectral index in tension with the predictions of Starobinsky inflation. Two main strategies have been proposed to reconcile Starobinsky inflation with these data: (i) including higher-curvature operators in the gravitational action, and (ii) modifying the post-inflationary reheating dynamics. **[...]** We find that accommodating ACT-preferred $n_s$ in this setup requires a tower of states with negative energy density. Taken together, our results suggest that reconciling Starobinsky inflation with the ACT data demands ingredients that are challenging to motivate from the perspective of UV-complete theories, undermining the minimality of the original Starobinsky model.",
+    "published": "Thu, 9 Jul 2026, from: Marcello Ziccolella",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.9808"
+  },
+  {
+    "id": "2607.9285",
+    "title": "Primordial Black Hole mass growth from neutrinos during radiation era",
+    "authors": [
+      "Ma\u00ebl Gonin"
+    ],
+    "abstract": "We present a new picture of primordial black holes mass evolution through neutrino absorption. Using semi-classical approach and a closer look at the kinetic of the early plasma we revisit the thermal absorption of radiation by a population of primordial black holes ranging from $10^{-3}-10^9 M_\\odot$ embedded in a thermal bath. **[...]** Moreover, because PBH grow from the thermal bath the fraction of DM in PBH $f_{\\rm PBH}$ also change. These results revise the previous view on mass evolution of PBH and have implications for dark matter PBH observations.",
+    "published": "Fri, 10 Jul 2026, from: Ma\u00ebl Gonin Mr",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.9285"
+  },
+  {
+    "id": "2607.9119",
+    "title": "Effects of dark matter and magnetic field on neutron star properties in relativistic mean-field theory: A single-fluid approach",
+    "authors": [
+      "Neeshu Rani",
+      "M. Mishra",
+      "Deepak Kumar",
+      "Arpan Das"
+    ],
+    "abstract": "Neutron stars, due to their extremely high matter density and strong magnetic field, provide the best environment for exploring new physics beyond the Standard Model of particle physics. In this work, we study the effect of pre-existing dark matter component and an internal magnetic field on the structural properties of neutron stars. **[...]** We consider two values of the central magnetic field, $B_c = 7\\times10^{17}$ Gauss, $9 \\times 10^{17}$ Gauss, for a magnetized neutron star. Finally, we compare the theoretical predictions with the observed mass-radius and tidal deformability data of pulsars obtained from gravitational wave observations.",
+    "published": "Fri, 10 Jul 2026, from: Neeshu Rani",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.9119"
+  },
+  {
+    "id": "2607.9131",
+    "title": "Minimal Majoron Dark Matter from a Discrete $Z_N$ Gauge Symmetry",
+    "authors": [
+      "Subaru Fujisawa",
+      "Qiuyue Liang",
+      "Shigeki Matsumoto",
+      "Michiru Uwabo-Niibo",
+      "Tsutomu T. Yanagida"
+    ],
+    "abstract": "We investigate majoron dark matter in a minimal setup, where the Standard Model is extended by three right-handed neutrinos and a complex scalar field. The theory is defined by an exact discrete gauge symmetry, $Z_N\\subset U(1)_{B-L}$, while the global $U(1)_{B-L}$ symmetry emerges only as an accidental symmetry at low energies. **[...]** We find that the $Z_5$ model is excluded by limits on the dominant dark matter decay into neutrinos, whereas the other models remain viable. In particular, the $Z_7$ scenario predicts a majoron mass in the $1$--$10\\,{\\rm MeV}$ range and can be sensitively probed by future MeV gamma-ray observations, especially with COSI, through the 511$\\,$keV line from the majoron decay into an electron--positron pair and the monochromatic gamma-ray line from its decay into two photons.",
+    "published": "Fri, 10 Jul 2026, from: Subaru Fujisawa",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.9131"
+  },
+  {
+    "id": "2607.8969",
+    "title": "Developing Machine Learning Models of Subgrid Turbulent Transport for Quiet Sun 3D Radiative Hydrodynamic Simulations",
+    "authors": [
+      "Rimsha Hameed Syeda",
+      "Dustin Kempton",
+      "Viacheslav Sadykov",
+      "Irina Kitiashvili",
+      "Rafal Angryk"
+    ],
+    "abstract": "Numerical modeling of solar plasma dynamics is affected by the resolution of the computational grid. This often requires the estimation of subgrid processes related to the small-scale flow turbulence, as these processes play a critical role in momentum transport and energy dissipation. **[...]** Additionally, we show that applying a logarithmic data transformation of the target stress tensor components, to handle heavily skewed data, improves model performance. Results demonstrate the potential of deep learning, particularly CNNs, to approximate Reynolds stress tensor components for the upper solar convection zone and lower atmosphere, making them a viable candidate for modeling subgrid processes and a promising alternative to traditional turbulence models.",
+    "published": "Thu, 9 Jul 2026, from: Viacheslav Sadykov",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.8969"
+  },
+  {
+    "id": "2607.16191",
+    "title": "Cosmological Evidence for Dark Axion-Dark Baryon Interactions from Apparent Phantom Crossing",
+    "authors": [
+      "Justin Khoury",
+      "Meng-Xiang Lin",
+      "Mark Trodden"
+    ],
+    "abstract": "Interactions between dark matter and dark energy can lead to an apparent phantom-crossing behavior that mimics the expansion history preferred by the latest cosmological observations from DESI baryon acoustic oscillations (BAO), Cosmic Microwave Background (CMB), and Type Ia supernovae (SNe Ia) data. In a previous paper [Khoury, Lin, and Trodden 2025arXiv:2503.16415], we proposed a concrete particle physics realization of this idea, consisting of a strongly coupled dark sector in which a dark axion is coupled to dark baryons. **[...]** The preferred solution exhibits a non-monotonic dark-matter mass evolution: the mass decreases between matter-radiation equality and recombination, while increasing over the BAO/SNe-sensitive epoch, leading to an apparent phantom crossing in an effective dark-energy description. Interestingly, the same dynamics produces an Early Dark Energy-like energy injection near matter-radiation equality, but in the data-preferred region this component is too small to raise $H_0$ enough to substantially reduce the current tension.",
+    "published": "Fri, 17 Jul 2026, from: Meng-Xiang Lin",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.16191"
+  },
+  {
+    "id": "2607.16160",
+    "title": "SEP-PRISM Data: A multi-source dataset for solar energetic particle forecasting",
+    "authors": [
+      "Yian Yu",
+      "Yang Chen",
+      "Lulu Zhao",
+      "Kathryn Whitman",
+      "Ward Manchester",
+      "Tamas Gombosi"
+    ],
+    "abstract": "Solar energetic particle (SEP) event forecasting often involves integrating heterogeneous observations that differ in cadence, temporal coverage, format, and historical availability, posing challenges for reproducible analysis of data-driven approaches. This paper presents SEP-PRISM Data, a curated multi-source dataset designed for 24-hour ahead forecasting of operational SEP events, defined by proton flux exceeding 10 pfu in the GOES > 10 MeV channel. **[...]** Predictor variables were summarized over fixed non-overlapping 24-hour historical windows using minimum, mean, and maximum statistics and paired with targets defined over the subsequent 24-hour window, forming a supervised learning dataset. The resulting SEP-PRISM Data contains 14,464 labeled samples, including 650 positive operational SEP cases, and is intended to support reproducible benchmarking, model development, feature analysis, and future studies of space weather forecasting.",
+    "published": "Fri, 17 Jul 2026, from: Yian Yu",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.16160"
+  },
+  {
+    "id": "2607.15859",
+    "title": "Solar Cycle Variation of the Distribution of Photospheric Magnetic Flux Features",
+    "authors": [
+      "Callan N. Noble",
+      "Clare E. Parnell",
+      "Thomas Neukirch"
+    ],
+    "abstract": "We use statistical tools to analyse data from the Solar Dynamics Observatory Helioseismic and Magnetic Imager to determine the distribution of the magnetic flux of photospheric magnetic features and its variation over a full solar cycle. In particular, we use statistical figures of merit to test how well different types of probability density function represent the magnetic flux distribution inferred from the data and how their shape changes over the solar cycle. **[...]** The nature of the observed flux distributions at different times during the solar cycle is significant because it could be used to try and infer information about solar magnetic field generation mechanisms. We discuss potential implications of a double power law distribution for solar magnetic field generation.",
+    "published": "Fri, 17 Jul 2026, from: Thomas Neukirch",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.15859"
+  },
+  {
+    "id": "2607.15759",
+    "title": "Three-dimensional evolution of a solar filament with multipoint observations",
+    "authors": [
+      "Qingmin Zhang",
+      "Jun Dai",
+      "Beili Ying",
+      "Ye Qiu",
+      "Li Feng",
+      "Chuan Li",
+      "Hongqiang Song",
+      "Yue Zhou",
+      "Zongyi Li"
+    ],
+    "abstract": "In this paper, we first devise a geometrical model, featuring a torus-like flux rope based on the shape of 3DCORE model. The global shape of the torus is an ellipse, while the cross sections are circular along the torus. **[...]** The heliocentric distance of the filament increases from $\\sim$1.68 to $\\sim$2.94 solar radii within 35 minutes. Based on the results of 3D reconstructions, the true speed of the CME leading edge is evaluated to be 1046$-$1145 km/s.",
+    "published": "Fri, 17 Jul 2026, from: Qingmin Zhang",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.15759"
+  },
+  {
+    "id": "2607.15612",
+    "title": "Enhanced Rydberg-Atom Superheterodyne Detection of Hidden-Photon Dark Matter on Chips",
+    "authors": [
+      "Xiaochen Li",
+      "Bo Gao",
+      "Shigeki Matsumoto",
+      "Jie Sheng",
+      "Chuan-Yang Xing",
+      "Hong Ding"
+    ],
+    "abstract": "Although hidden-photon dark matter with masses above $10^{-4}\\,\\mathrm{eV}$ is well motivated by inflationary production, it remains largely unexplored by terrestrial experiments. Through kinetic mixing, hidden photons induce a weak oscillating electric field above $10\\,\\mathrm{GHz}$. We propose to amplify this signal using a compact high-frequency distributed cavity and detect it with chip-scale Rydberg-atom superheterodyne spectroscopy. Combining resonant enhancement, large dipole moments of Rydberg atoms, and long-term stable integration, this approach can probe hidden-photon dark matter in the mass range $5 \\times 10^{-5}\\text{--}7\\times 10^{-4}\\,\\mathrm{eV}$ with sensitivities $3$--$4$ orders of magnitude beyond existing limits.",
+    "published": "Fri, 17 Jul 2026, from: Xiaochen Li",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.15612"
+  },
+  {
+    "id": "2607.15479",
+    "title": "PBH formation and Gravitational Waves as Multi-messenger Signals of First-order Phase Transitions",
+    "authors": [
+      "Bhaskar Dutta",
+      "Cash Hauptmann",
+      "Peisi Huang",
+      "Adrian Thompson"
+    ],
+    "abstract": "The collapse of false-vacuum domains during first-order phase transitions in the early Universe may lead to primordial black hole (PBH) formation whose signatures form a multimessenger complement to gravitational wave (GW) production. We focus on PBH formation through the gravitational collapse of false-vacuum domains, described using a junction condition formalism. **[...]** We investigate this phenomenology in polynomial and classically conformal scalar field potentials as model benchmarks. We find that the scalar fields with vacuum expectation values in the range of 1-100 MeV have the largest model parameter space available for these multi-messenger signals, which are testable with upcoming GW observatories, searches for Hawking radiation, and gravitational lensing surveys.",
+    "published": "Thu, 16 Jul 2026, from: Peisi Huang",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.15479"
+  },
+  {
+    "id": "2607.15392",
+    "title": "Solar-System Abundances of $p$-Nuclides Probe Collective Neutrino Oscillations in Supernovae",
+    "authors": [
+      "Alexander Friedland",
+      "Derek J. Li",
+      "Giuseppe Lucente",
+      "Payel Mukhopadhyay",
+      "Ian Padilla-Gay",
+      "Amol V. Patwardhan"
+    ],
+    "abstract": "Direct evidence for collective neutrino oscillations in core-collapse supernovae remains elusive. We show that this quantum phenomenon leaves a footprint on the abundance pattern of proton-rich nuclides in the solar system. **[...]** The oscillations boost key $p$-nuclides ($^{92,94}\\text{Mo}$, $^{96,98}\\text{Ru}$) and long-lived $^{92}\\text{Nb}$ by up to two orders of magnitude, bringing their abundances into agreement with the observations. The best match is found when oscillations commence within $10\\text{ km}$ of the proto-neutron star surface, indicating fast collective oscillations.",
+    "published": "Thu, 16 Jul 2026, from: Derek Li",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.15392"
+  },
+  {
+    "id": "2607.15339",
+    "title": "Tighter Dark Matter Constraints from the Projected Mass Method: A Neural Network Enhanced Method for Galaxy Groups and Clusters",
+    "authors": [
+      "Yinbo Huang",
+      "David Benisty"
+    ],
+    "abstract": "Measuring the total mass of the Milky Way and nearby galaxy groups is difficult because classical dynamical estimators rely on assumptions about satellite orbital geometry that are rarely satisfied in practice, and because only a handful of satellite galaxies are typically available as kinematic tracers. We present a new framework that corrects the well-known Projected Mass Estimator (PME) using a residual neural network trained on thousands of simulated galaxy groups from the IllustrisTNG cosmological simulation. **[...]** Applied to the Milky Way, the method yields a total mass of $M_{\\rm MW} = 1.144^{+0.399}_{-0.296}\\times10^{12}\\,M_\\odot$, with estimates based on the brightest 5-10 satellites favoring a somewhat lower range of $(0.8$-$0.95)\\times10^{12}\\,M_\\odot$. The modified PME gives a tighter constraint on the virial masses and the dark matter rate prediction in galaxy groups and clusters.",
+    "published": "Thu, 16 Jul 2026, from: David Benisty",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.15339"
+  },
+  {
+    "id": "2607.15338",
+    "title": "1D Luttinger Modes in Carbon Nanotubes as keV Dark Matter Detector",
+    "authors": [
+      "Xiuyuan Zhang",
+      "Hao Chen"
+    ],
+    "abstract": "We propose metallic carbon nanotubes (CNTs) as a one-dimensional plasmon target for light dark matter (DM) direct detection. Unlike conventional gapless electronic targets, where DM primarily excites electron-hole pairs, the low-energy charge response of a metallic CNT is carried by a collective Luttinger-liquid mode. **[...]** These results establish one-dimensional collective modes as a new target class for sub-MeV DM detection. Existing progress in scalable CNT synthesis and superconducting quasiparticle sensing provides a promising experimental foundation, while realizing the proposed detector will require dedicated development of CNT--superconductor coupling and plasmon-to-quasiparticle conversion.",
+    "published": "Thu, 16 Jul 2026, from: Xiuyuan Zhang",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.15338"
+  },
+  {
+    "id": "2607.15098",
+    "title": "Inelastic Scattering Effects on Attenuation of Boosted Dark Matter",
+    "authors": [
+      "Guanhua Gu",
+      "Liangliang Su",
+      "Lei Wu",
+      "Jin Min Yang"
+    ],
+    "abstract": "Earth attenuation is crucial for interpreting direct-detection constraints on boosted dark matter (DM), since scatterings with terrestrial nuclei can significantly modify the flux and energy spectrum reaching underground detectors. At boosted energies, inelastic nuclear channels beyond ordinary elastic scattering can become relevant, including quasi-elastic scattering, deep-inelastic scattering, and resonant scattering. **[...]** We find that, in the heavy-mediator regime, resonant scattering can give a non-negligible contribution to the attenuation of boosted DM. Using the latest PandaX-4T data, we derive new constraints on the spin-independent boosted DM-nucleon cross section $\\bar{\\sigma}_n$.",
+    "published": "Thu, 16 Jul 2026, from: Guanhua Gu Itp.ac.cn",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.15098"
+  },
+  {
+    "id": "2607.15031",
+    "title": "PeV extended emission around Galactic PeVatrons and echos of their flares",
+    "authors": [
+      "A.Neronov",
+      "Ie.Vovk"
+    ],
+    "abstract": "We notice that Galactic sources of PeV gamma-rays are generally expected to be surrounded by multi-degree-scale extended emission produced as a result of injection of electron-positron pairs in the interstellar medium from interactions of PeV gamma-rays with microwave photons. The surface brightness of such emission may be variable in time because of variability of the PeV emission power of its parent source. A flare of the parent source produces an ``echo'' spreading across the extended emission region that may be detectable on the time scales from decades to millennia. We consider a possibility that the very extended PeV source in the Cygnus region is the produced by the Cygnus X-3 PeV gamma-ray source, possibly being an echo of its past flare.",
+    "published": "Thu, 16 Jul 2026, from: Andrii Neronov",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.15031"
+  },
+  {
+    "id": "2607.15028",
+    "title": "Refining primordial black hole dark matter constraints with dust heating: the role of spin and halo profile dependence",
+    "authors": [
+      "Shaobin Hu",
+      "Yupeng Yang",
+      "Chengjie Sun",
+      "Zihan Li",
+      "Jiafan Sun",
+      "Yuzhu Tong",
+      "Yankun Qu",
+      "Shuangxi Yi"
+    ],
+    "abstract": "Primordial black holes (PBHs) are compelling dark matter candidates. PBHs with masses between $10^{15}$ and $10^{18}\\,\\mathrm{g}$ can heat interstellar dust via Hawking radiation. **[...]** For the lognormal case, larger values of the width $\\sigma$ lead to a broader mass range being excluded, in particular ruling out massive PBHs as the sole dark matter component. Our bounds are generally weaker than other existing limits, but they provide a complementary and independent constraint.",
+    "published": "Thu, 16 Jul 2026, from: Yupeng Yang",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.15028"
+  },
+  {
+    "id": "2607.15020",
+    "title": "High resolution Lyman-\u03b1 forest constraints on dark matter-neutrino scattering",
+    "authors": [
+      "Markus R. Mosbech",
+      "Olga Garcia-Gallego",
+      "Vid Ir\u0161i\u010d",
+      "Matteo Viel",
+      "Julien Lesgourgues"
+    ],
+    "abstract": "We present new constraints on models of dark matter interacting with neutrino, based on high-resolution Lyman-$\\alpha$ forest data. We perform a suite of full hydrodynamical simulations of these models, spanning a range of interaction strengths and thermal histories. **[...]** Our results exclude previous hints of non-zero interactions presented in the literature. We furthermore compare our results to those obtained by mapping warm dark matter constraints to other models with suppressed small-scale structure, and find that these methods would overestimate the constraining power for this model.",
+    "published": "Thu, 16 Jul 2026, from: Markus Rasmussen Mosbech",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.15020"
+  },
+  {
+    "id": "2607.14979",
+    "title": "A self-consistent Higgs-portal framework for dark matter--admixed neutron stars: Collider-motivated benchmarks meet multimessenger constraints",
+    "authors": [
+      "Adamu Issifu"
+    ],
+    "abstract": "We investigate dark matter (DM)-admixed neutron stars (NSs) within a self-consistent single-fluid relativistic mean-field framework by extending the Higgs-portal model with a massive $Z^\\prime$ vector mediator. The resulting density-dependent repulsive interaction dynamically couples the baryonic matter (BM) and DM sectors, allowing the DM content to be characterized by the global particle fraction, $F_\\chi=N_\\chi/N_B$, with the local DM density determined self-consistently as $n_\\chi=F_\\chi n_B$, thereby eliminating the need for the externally prescribed DM Fermi momentum adopted in previous single-fluid models. **[...]** At the microscopic level, the BM--DM interaction is shown to be dominated by the repulsive $Z^\\prime$ vector channel. Our framework establishes a direct connection between collider-motivated WIMP models and the multimessenger phenomenology of NSs, with potential implications for future gravitational-wave and X-ray observations.",
+    "published": "Thu, 16 Jul 2026, from: Adamu Issifu",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.14979"
+  },
+  {
+    "id": "2607.14979",
+    "title": "A self-consistent Higgs-portal framework for dark matter--admixed neutron stars: Collider-motivated benchmarks meet multimessenger constraints",
+    "authors": [
+      "Adamu Issifu"
+    ],
+    "abstract": "We investigate dark matter (DM)-admixed neutron stars (NSs) within a self-consistent single-fluid relativistic mean-field framework by extending the Higgs-portal model with a massive $Z^\\prime$ vector mediator. The resulting density-dependent repulsive interaction dynamically couples the baryonic matter (BM) and DM sectors, allowing the DM content to be characterized by the global particle fraction, $F_\\chi=N_\\chi/N_B$, with the local DM density determined self-consistently as $n_\\chi=F_\\chi n_B$, thereby eliminating the need for the externally prescribed DM Fermi momentum adopted in previous single-fluid models. **[...]** At the microscopic level, the BM--DM interaction is shown to be dominated by the repulsive $Z^\\prime$ vector channel. Our framework establishes a direct connection between collider-motivated WIMP models and the multimessenger phenomenology of NSs, with potential implications for future gravitational-wave and X-ray observations.",
+    "published": "Thu, 16 Jul 2026, from: Adamu Issifu",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.14979"
+  },
+  {
+    "id": "2607.14636",
+    "title": "The coronal mass ejection productivity of solar active region 13664/8",
+    "authors": [
+      "Lijuan Liu",
+      "Yuming Wang",
+      "Quanhao Zhang",
+      "Jingnan Guo",
+      "Yutian Chi"
+    ],
+    "abstract": "In May 2024, NOAA active region (AR) complex 13664/8 was one of the most productive regions of the current solar cycle, producing 12 X-class flares and over 20 coronal mass ejections (CMEs) and triggering the strongest geomagnetic storm since 2003. We investigate why this AR complex was so CME-productive. **[...]** The CME waiting time distribution exhibits two peaks, suggesting that multiple cPILs enhanced CME productivity by increasing both recurrent CMEs from the same source and disturbance-triggered CMEs from nearby sources. These results indicate that, in addition to sufficient nonpotentiality and rapid background-field decay, high magnetic complexity accompanied by dynamical collisional shearing at multiple cPILs was crucial for the extreme CME productivity of AR 13664/8.",
+    "published": "Thu, 16 Jul 2026, from: Liu Lijuan",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.14636"
+  },
+  {
+    "id": "2607.14492",
+    "title": "Searching for long-lived ALPs with a laser-assisted optical dump",
+    "authors": [
+      "Tong Li",
+      "Haolong Wang",
+      "Man Yuan"
+    ],
+    "abstract": "The feeble interactions of light axion-like particles (ALPs) render them long-lived. Probing long-lived ALPs therefore demands facilities with a macroscopic decay volume to match their potentially long decay lengths, such as high-intensity beam dump experiments. **[...]** The scope of optical dump searches is extended to both the ALP-photon coupling induced Primakoff process and the Compton-like scattering via the ALP-electron coupling. We also investigate the correlation between Primakoff process and Compton scattering, and exhibit the interplay of two ALP couplings in light of optical dump experiment.",
+    "published": "Thu, 16 Jul 2026, from: Tong Li",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.14492"
+  },
+  {
+    "id": "2607.14377",
+    "title": "Re-evaluating solar irradiance reconstructions: No evidence for large secular trends",
+    "authors": [
+      "Theodosios Chatzistergos",
+      "Natalie A. Krivova",
+      "Mathew J. Owens",
+      "Tatiana A. Egorova"
+    ],
+    "abstract": "Most current irradiance reconstructions suggest only a modest secular increase in TSI between the 1700 and 1986 activity minima ($<1$ Wm$^{-2}$). However, 2 models, the CHRONOS and Penza et al. **[...]** Our analysis indicates that the previously inferred large secular trends arose primarily from improper linking cosmogenic isotope and neutron monitor records, together with issues in the adopted smoothing approach. The updated reconstructions presented here point toward a relatively modest secular increase in TSI since the Maunder Minimum, likely below 1 Wm$^{-2}$, consistent with the majority of current irradiance models.",
+    "published": "Wed, 15 Jul 2026, from: Theodosios Chatzistergos",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.14377"
+  },
+  {
+    "id": "2607.14253",
+    "title": "Constraining the Coexistence of Primordial Black Holes and Particle Dark Matter with Neutrino Observations",
+    "authors": [
+      "Prolay Chanda",
+      "Sagnik Mukherjee",
+      "James Unwin"
+    ],
+    "abstract": "Primordial black holes (PBH) with a uniform mass scale could contribute up to 1\\% of the gravitationally inferred dark matter relic abundance and remain consistent with observational limits over a large range of masses. In this case, the vast majority of the dark matter relic abundance is comprised of dark matter particles, such as WIMPs or FIMPs. **[...]** We present idealized IceCube event-based sensitivities together with conservative limits obtained by requiring that the predicted extragalactic neutrino intensity not exceed the upper envelope of the measured diffuse flux. We explore the constraints in terms of an idealized model with 100\\% branching to neutrinos, we also discuss these results within the context fo a motivated gauged U(1)${}_{L_\\mu-L_\\tau}$ mediator model, emphasizing that a consistent particle-physics completion generally predicts correlated charged-lepton and neutrino final states.",
+    "published": "Wed, 15 Jul 2026, from: James Unwin",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.14253"
+  },
+  {
+    "id": "2607.14210",
+    "title": "Dark matter in composite Higgs models with a scotogenic EFT",
+    "authors": [
+      "Yu Chen",
+      "Werner Porod"
+    ],
+    "abstract": "We discuss a class of Composite Higgs models with a fermionic UV completion that can explain the dark matter relic density. The resulting low-energy theory resembles so-called scotogenic models. **[...]** In particular, we find that spin-1 resonances play an important role in a substantial part of the parameter space. Finally, we comment on possible LHC signatures of this model class.",
+    "published": "Wed, 15 Jul 2026, from: Yu Chen",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.14210"
+  },
+  {
+    "id": "2607.14207",
+    "title": "Measuring satellite galaxy subhalo masses in redMaPPer clusters with UNIONS weak lensing data",
+    "authors": [
+      "Roman Akhmetshyn",
+      "Jack Elvin-Poole",
+      "Michael J. Hudson",
+      "Isaac Cheng",
+      "Thomas de Boer",
+      "S\u00e9bastien Fabbro",
+      "Sam Farrens",
+      "Sacha Guerrini",
+      "Axel Guinot",
+      "Stephen Gwyn",
+      "Hendrik Hildebrandt",
+      "Martin Kilbinger",
+      "Charlie T. Mpetha",
+      "Calum Murray",
+      "Ludovic Van Waerbeke",
+      "Anna Wittje"
+    ],
+    "abstract": "In this work, we present the observed galaxy-galaxy lensing signal of satellite galaxies in rich clusters obtained from the Ultraviolet Near-Infrared Optical Northern Survey (UNIONS). Such observations are crucial for understanding dark matter halo physics and interaction dynamics in the cluster environment. **[...]** We measure the subhalo-to-stellar mass ratio as a function of cluster-centric radius and find a strong positive trend. These results confirm tidal stripping or other environmental processes that impact the relative masses of a satellite galaxy's stellar component and its dark matter halo.",
+    "published": "Wed, 15 Jul 2026, from: Roman Akhmetshyn",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.14207"
+  },
+  {
+    "id": "2607.14156",
+    "title": "New approach to the estimation of the lowest boundary of an axion mass",
+    "authors": [
+      "Sevinj O. Huseynova",
+      "Vali A. Huseynov",
+      "Nigar E. Musazade",
+      "Sevinj Y. Rzayeva"
+    ],
+    "abstract": "In this work, we have performed the theoretical estimation of the lowest boundary of an axion mass. We have analyzed the energy spectrum of the electron in a constant homogeneous magnetic field, taking into account its anomalous magnetic moment. **[...]** We have determined that the minimum value of the magnetic field strength at which the axion emission by the electron in a magnetic field starts to be realized is determined by the axion mass. This result enables us to estimate the expected value of the lowest boundary for the axion mass (of the order of 10 microelectron-Volt), assuming that some part of the solar axions is emitted by the electrons located in sunspots.",
+    "published": "Tue, 14 Jul 2026, from: Vali Huseynov",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.14156"
+  },
+  {
+    "id": "2607.8904",
+    "title": "Revisiting bounds on neutrino dark matter interaction at spikes",
+    "authors": [
+      "Yasaman Farzan"
+    ],
+    "abstract": "Interactions between high energy neutrinos produced in active galactic nuclei (AGNs) and the dark matter (DM) particles in the dense spike around the supermassive black holes may lead to attenuation of the flux. This consideration along with the observation of a sizeable flux from at least four AGNs have been used to derive bounds on the neutrino dark matter scattering cross section \\cite{Cline:2023tkp,Cline:2022qld,Dixit:2026zkv}. We show that the attenuation strongly depends on the details of the microphysics parameters. In particular if the mediator is a vector boson with a mass much smaller than the center of mass energy of the neutrino and dark matter, the energy loss of the neutrino and therefore the flux attenuation will be negligible, relaxing the bounds.",
+    "published": "Thu, 9 Jul 2026, from: Yasaman Farzan",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.8904"
+  },
+  {
+    "id": "2607.14014",
+    "title": "phoptic -- a Python package for reducing astronomical images",
+    "authors": [
+      "Zackery A. Irving",
+      "Noel Castro Segura",
+      "Diego Altamirano",
+      "Federico Vincentelli",
+      "Angel Castro",
+      "Romina P. Petrucci",
+      "Raul Michel",
+      "Adam B. Hill",
+      "Juan V. Hernandez Santisteban"
+    ],
+    "abstract": "Publicly-available photometry pipelines make astronomical data reduction accessible to non-experts, reduce the margin for human error, and enable reproducible reduction. In many cases, bespoke reduction software is written on a per-instrument basis; this results in rigid pipelines that cannot be straightforwardly applied to data from other instruments. **[...]** We describe phoptic's functionality, discuss its default behaviour, and demonstrate its flexible interface by reducing data from the HiPERCAM, MEXMAN, OPTICAM, and ULTRACAM instruments. We also review the performance of phoptic, and show that it is highly scalable on multi-core CPUs.",
+    "published": "Wed, 15 Jul 2026, from: Zackery Irving",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.14014"
+  },
+  {
+    "id": "2607.13992",
+    "title": "DARK-HIDE: Dark matter versus hidden dimensions in black hole images",
+    "authors": [
+      "Mohsen Fathi"
+    ],
+    "abstract": "Dark matter near a black hole and effective extra-dimensional corrections can change the same horizon-scale observables. This creates a simple but important question: if an image differs from Kerr, what caused the difference? We study this problem with DARK-HIDE. **[...]** Local escape cones retain a small, smooth, and well-resolved difference between the matched branches. Thus, present shadow size alone cannot break the DARK-HIDE degeneracy, while local photon transport keeps additional strong-field information.",
+    "published": "Wed, 15 Jul 2026, from: Mohsen Fathi",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.13992"
+  },
+  {
+    "id": "2607.13910",
+    "title": "Testing string theory with combined cosmological probes: a case study for dark matter gravitons",
+    "authors": [
+      "Alkistis Pourtsidou"
+    ],
+    "abstract": "The string theory Swampland programme has resulted in distinct scenarios for the particle nature of dark matter. In this research note, I use combined cosmological probes to constrain the Dark Dimension scenario, which predicts that dark matter consists of decaying massive gravitons characterised by a time-dependent kick velocity. **[...]** I then produce forecasts for a Stage-IV tomographic survey, and outline strategies for predicting the model's behaviour on nonlinear scales. The results demonstrate the potential of surveys like Euclid and LSST to confirm or rule out string theory models of the dark sector.",
+    "published": "Wed, 15 Jul 2026, from: Alkistis Pourtsidou",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.13910"
+  },
+  {
+    "id": "2607.13913",
+    "title": "Long-Baseline VLF Observations of Solar Flares from Antarctica",
+    "authors": [
+      "Kamen Kozarev",
+      "Peter Petkov",
+      "Ivaylo Nachev",
+      "Veselka Radeva",
+      "Momchil Dechev",
+      "Galin Borisov",
+      "Anton Atanasov"
+    ],
+    "abstract": "We present long-baseline Very Low Frequency (VLF) observations of solar flare-induced ionospheric disturbances obtained at the Bulgarian Polar Astronomical Observatory (St. Kliment Ohridski Base) on Livingston island, Antarctica. **[...]** These delays, including cases of near-zero or negative lag for stronger events, highlight the role of flare spectral characteristics and D-region recombination processes. Our results demonstrate the scientific value of long-baseline Antarctic VLF observations for detecting and timing GOES-class flares, while also highlighting key limitations, such as background variability and path-dependent propagation effects, which must be quantified for reliable VLF-based flare monitoring.",
+    "published": "Wed, 15 Jul 2026, from: Kamen Kozarev",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.13913"
+  },
+  {
+    "id": "2607.8833",
+    "title": "Flavorful Interactions of AGN Neutrinos with Dark Matter Spike",
+    "authors": [
+      "S. Abbaslu",
+      "Y. Farzan",
+      "A. Maleki"
+    ],
+    "abstract": "IceCube-Gen2 is going to make the dream of precise flavor ratio measurement for high energy cosmic neutrinos a reality. Motivated by this prospect, we build a model for the interaction of neutrinos with the dark matter and study the impact of the neutrino interaction with the dark matter spike around active galactic nuclei on the neutrino flavor ratio measurement. We show that the flavor measurement by IceCube-Gen2 can discriminate between this model and the standard expectation, $(\\nu_e^\\oplus:\\nu_\\mu^\\oplus:\\nu_\\tau^\\oplus)\\simeq (1/3:1/3:1/3)$, as well as the prediction for a damped muon source. We discuss how we can derive information about the spike as well as about the characteristics of the dark matter particles composing it by combining the flavor ratio measurements with the results of the terrestrial experiments determining the neutrino mass ordering and a potential deviation from the standard model predictions in the measurements of the tau decay modes.",
+    "published": "Thu, 9 Jul 2026, from: Saeed Abbaslu",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.8833"
+  },
+  {
+    "id": "2607.13708",
+    "title": "Multi-height Diagnosis of MHD Wave Periods and their Propagation in Solar Plages Using IRIS Observations",
+    "authors": [
+      "Gayathri Hegde",
+      "Pradeep Kayshap"
+    ],
+    "abstract": "This work aims to investigate magnetohydrodynamic (MHD) waves in solar plages at five distinct heights, spanning from photosphere to the upper chromosphere, using spectroscopic observations provided by Interface Region Imaging Spectrograph (IRIS). The dominant period is found to not change within the plages, while, in pores, the dominant period decreases linearly from 4.20 to 3.20 minutes from the photosphere to the upper chromosphere. **[...]** Interestingly, in the quiet-Sun (QS), the formation heights of Mn i and Fe i are nearly the same, and also the formation height of Mg ii k3 is similar to the formation height of Mg ii k2r. In conclusion, some important findings are reported in this work, namely, (1) dominant periods at five different heights between the photosphere and chromosphere, (2) estimation of cutoff periods in the photosphere, middle chromosphere, and the upper chromosphere in the plages, and (3) variations in the formation heights of these spectral lines in pore, plage, and QS.",
+    "published": "Wed, 15 Jul 2026, from: Pradeep Kumar Kayshap Dr.",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.13708"
+  },
+  {
+    "id": "2607.13755",
+    "title": "High-Energy Neutrinos from Black Hole Evaporation in Neutron Stars",
+    "authors": [
+      "Ioannis Dalianis"
+    ],
+    "abstract": "We investigate the production of high-energy neutrinos from microscopic black holes formed through the gravitational collapse of asymmetric dark matter accumulated inside neutron stars. When Hawking evaporation dominates over accretion, long-lived, feebly interacting particles beyond the Standard Model escape the neutron star and subsequently decay into high-energy neutrinos. **[...]** Although the predicted event rates are generally small, the resulting signal may contribute at the percent level to the observed Galactic high-energy neutrino flux under favorable microscopic and astrophysical conditions. The proposed mechanism provides a new observational window on Hawking evaporation through microscopic black holes continuously produced inside neutron stars, linking dark matter, compact objects, black hole thermodynamics and high-energy neutrino astronomy.",
+    "published": "Wed, 15 Jul 2026, from: Ioannis Dalianis",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.13755"
+  },
+  {
+    "id": "2607.13687",
+    "title": "Towards a joint X-ray and gamma-ray analysis of Pulsar Wind Nebulae with Gammapy",
+    "authors": [
+      "Katharina Egg",
+      "Alison M. W. Mitchell"
+    ],
+    "abstract": "For detailed studies of Pulsar Wind Nebulae (PWNe), objects that show photon emission across the entire electromagnetic spectrum, multiwavelength analyses are crucial. The comparison of especially X-ray and gamma-ray emission and their angular sizes can help us to constrain the properties of PWNe, such as their particle transport mechanism or their potential for the acceleration of hadronic particles. **[...]** In this contribution we present the first eROSITA maps of the PWN MSH 15-52 in Gammapy, compared to the associated H.E.S.S. emission.",
+    "published": "Wed, 15 Jul 2026, from: Katharina Egg",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.13687"
+  },
+  {
+    "id": "2607.13637",
+    "title": "Assessing the sensitivity to Axion-Like-Particle Dark Matter with very-high-energy gamma-ray observations of selected AGN and galaxy cluster pairs",
+    "authors": [
+      "Cervane Grimaud",
+      "Denys Malyshev",
+      "Emmanuel Moulin"
+    ],
+    "abstract": "Axion-Like-Particles (ALPs) are pseudo-scalar particles actively searched as light dark matter candidates. ALPs can couple to photons which give rise to the possibility of oscillations with photons in an external magnetic field. **[...]** Using simulated data for selected hard-spectrum Fermi/LAT AGNs that can be observed by Imaging Atmospheric Cherenkov Telescopes such as H.E.S.S., we evaluate the performance of this method. The combination of mock IACT observations with our stacking approach enable exploration of the previously uncharted ALP dark matter parameter space in the neV mass range.",
+    "published": "Wed, 15 Jul 2026, from: Cervane Grimaud",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.13637"
+  },
+  {
+    "id": "2607.13534",
+    "title": "Ion-Scale Current Sheets Embedded in Reconnection Jet Shear Layer of the Near-Sun Heliospheric Current Sheet",
+    "authors": [
+      "Dae-Young Lee",
+      "Dooyoung Choi",
+      "Kyung-Eun Choi",
+      "Sung Jun Noh"
+    ],
+    "abstract": "Context. Magnetic reconnection in the heliospheric current sheet (HCS) plays an important role in restructuring the solar wind magnetic topology and generating plasma jets and magnetic islands. **[...]** The reconnection jet shear layer in the HCS may serve as an active site that hosts a chain of ion-scale CSs. This provides new insight into the multiscale structure of HCS reconnection and suggests that flow shear layers may play an important role in generating secondary kinetic-scale structures.",
+    "published": "Wed, 15 Jul 2026, from: Dooyoung Choi",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.13534"
+  },
+  {
+    "id": "2607.13533",
+    "title": "Scientific-Intention Driven Embodied Intelligent Solar Telescope: Conceptual Design",
+    "authors": [
+      "Lin Jiaben",
+      "Tong Liyue",
+      "Wang Hui",
+      "Shao Mingfu",
+      "Yang Chen"
+    ],
+    "abstract": "Artificial Intelligence (AI) is profoundly transforming the paradigms of scientific research. Cutting-edge technologies such as Large Language Models (LLMs) and embodied intelligence are continuously pushing the boundaries of scientific instrumentation. **[...]** This prototype successfully implemented all key steps of intention-driven automated research, demonstrating the feasibility of the technical pathways for the three types of intelligent research closed loops. SIDEST redefines telescopes through cutting-edge AI methods.",
+    "published": "Wed, 15 Jul 2026, from: Mingfu Shao",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.13533"
+  },
+  {
+    "id": "2607.13141",
+    "title": "S-matrix bootstrap bounds on self-interacting dark matter",
+    "authors": [
+      "Qing Chen",
+      "Zhuo-Hui Wang",
+      "Shuang-Yong Zhou"
+    ],
+    "abstract": "Self-interacting dark matter turns the structure of galactic halos into a direct requirement on a low-energy scattering amplitude. We show that, for weakly coupled scalar dark matter, this requirement implies a much stronger mass bound on the dark matter particle than partial-wave unitarity alone. **[...]** For the benchmark self-interaction cross section $\\sigma_{\\rm self}=10^{-24}(M/\\mathrm{GeV})\\mathrm{cm}^2$, the mass of a generic weakly coupled scalar satisfies $M\\lesssim 0.3\\,\\mathrm{GeV}$ in the controlled EFT regime. If dark matter is a derivative-dominated pseudo-Nambu-Goldstone boson, the mass bound is lowered to the MeV scale or below, depending on the hierarchy $M/\\Lambda$.",
+    "published": "Tue, 14 Jul 2026, from: Zhuo-Hui Wang",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.13141"
+  },
+  {
+    "id": "2607.13143",
+    "title": "The soft volume of ultra-high energy neutrinos experiments",
+    "authors": [
+      "Stefano Palmisano",
+      "Diego Redigolo",
+      "Michele Tammaro",
+      "Andrea Tesi"
+    ],
+    "abstract": "We develop a semi-analytical framework to map ultra-high-energy neutrino fluxes onto event rates at neutrino telescopes. The formulation is based on the Boltzmann equation for the distribution of secondary muons produced by neutrino interactions in matter, and naturally accounts for the effective target volume relevant for through-going tracks. **[...]** We also revisit the interpretation of the ultra-high-energy track event reported by KM3NeT, assessing its consistency with IceCube non-observation in the same energy range. Our results provide a first-principles bridge between neutrino-flux models and track-event observables, with direct applications to precision neutrino astronomy and searches for physics beyond the Standard Model.",
+    "published": "Tue, 14 Jul 2026, from: Michele Tammaro",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.13143"
+  },
+  {
+    "id": "2607.8838",
+    "title": "Dark Phoenix: dark matter relic from its own decay",
+    "authors": [
+      "Debasish Borah",
+      "Satyabrata Mahapatra",
+      "Indrajit Saha",
+      "Narendra Sahu",
+      "Vicky Singh Thounaojam"
+    ],
+    "abstract": "We propose a novel mechanism for generating correct relic of dark matter (DM) which otherwise gets thermally overproduced from the conventional freeze-out mechanism. The mechanism, dubbed as {\\it Dark Phoenix}, relies on a transient decay window for DM after its freeze-out which brings its relic within observed limits. **[...]** While direct-detection rates of DM remains suppressed due to small couplings, the charged scalar $\\phi$ can have interesting signatures like long-lived charged track at colliders. The associated FOPT can also lead to observable gravitational waves at future experiments like LISA.",
+    "published": "Thu, 9 Jul 2026, from: Vicky Singh Thounaojam Mr.",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.8838"
+  },
+  {
+    "id": "2607.13141",
+    "title": "S-matrix bootstrap bounds on self-interacting dark matter",
+    "authors": [
+      "Qing Chen",
+      "Zhuo-Hui Wang",
+      "Shuang-Yong Zhou"
+    ],
+    "abstract": "Self-interacting dark matter turns the structure of galactic halos into a direct requirement on a low-energy scattering amplitude. We show that, for weakly coupled scalar dark matter, this requirement implies a much stronger mass bound on the dark matter particle than partial-wave unitarity alone. **[...]** For the benchmark self-interaction cross section $\\sigma_{\\rm self}=10^{-24}(M/\\mathrm{GeV})\\mathrm{cm}^2$, the mass of a generic weakly coupled scalar satisfies $M\\lesssim 0.3\\,\\mathrm{GeV}$ in the controlled EFT regime. If dark matter is a derivative-dominated pseudo-Nambu-Goldstone boson, the mass bound is lowered to the MeV scale or below, depending on the hierarchy $M/\\Lambda$.",
+    "published": "Tue, 14 Jul 2026, from: Zhuo-Hui Wang",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.13141"
+  },
+  {
+    "id": "2607.13128",
+    "title": "Dark Energy and Neutrino Flavor from the Weak Axion",
+    "authors": [
+      "Pedro Bittar",
+      "Carlos E. M. Wagner"
+    ],
+    "abstract": "Dynamical dark energy offers an alternative to a cosmological constant with distinct observational signatures. However, the small energy density scale, Hubble-sized mass, and Planckian excursions make simple models fine-tuned and unnatural. **[...]** The dominant uncertainty comes from $\\delta_{\\rm CP}$ and $\\theta_{23}$, so experiments like Hyper-K and DUNE can directly test the model in the future. Cosmologically, the field behaves as thawing quintessence for $f$ close to $M_{pl}$, stays frozen by Hubble friction until late times and never enters the adiabatic regime.",
+    "published": "Tue, 14 Jul 2026, from: Pedro Bittar",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.13128"
+  },
+  {
+    "id": "2607.13063",
+    "title": "Remembering George Smoot",
+    "authors": [
+      "John Berliner",
+      "Tom Broadhurst",
+      "Martin Bucher",
+      "Robert Cahn",
+      "Jorge Cervantes-Cota",
+      "Steven Chu",
+      "N\u00f3ra Csisz\u00e1r",
+      "Razieh Emami",
+      "Leo Fung",
+      "Ken Ganga",
+      "Alison Goldwyn",
+      "Bill Green",
+      "Paula Keeney",
+      "Dhiraj Kumar Hazra",
+      "Albert Wai Kit Lau",
+      "Sean",
+      "Eric Linder",
+      "Charley Lineweaver",
+      "Tao Liu",
+      "Omar L\u00f3pez-Cruz",
+      "Philip Lubin",
+      "Kam-Biu Luk",
+      "John Mather",
+      "Saul Perlmutter",
+      "Federico Piazza",
+      "Graciela Tiburcio Pintos",
+      "Barbara Rittner",
+      "Uro\u0161 Seljak",
+      "Mehdi Shafiee",
+      "Tony Spadafora",
+      "Henry Tye",
+      "Ann Whetstone",
+      "Alex Zhavoronkov"
+    ],
+    "abstract": "George Smoot (1945-2025) was a major figure in observational cosmology, particularly through his role in the precision measurement of the CMB dipole and the discovery of the primordial CMB temperature anisotropy as part of the COBE team. This collection of 33 essays from collaborators, colleagues, students, and friends offers varied insights into the work, career, and life of George Smoot.",
+    "published": "Wed, 8 Jul 2026, from: Martin Bucher",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.13063"
+  },
+  {
+    "id": "2607.12956",
+    "title": "Naturally quality-safe GeV axion with charm coupling",
+    "authors": [
+      "Bo-Qiang Lu"
+    ],
+    "abstract": "The GeV-scale QCD axion -- where Peccei-Quinn (PQ) symmetry is broken by the QCD condensate at $f_a\\sim\\mathcal{O}(1)$~GeV -- faces a structural isospin problem: the PQ spurion coupling to light quarks ($u,d,s$) breaks $\\mathrm{SU}(2)$ isospin, generating an unacceptable $\\sim 15\\%$ $\\pi^0$--$\\pi^\\pm$ mass splitting. We show that coupling the PQ scalar to the charm quark instead eliminates this violation entirely, and lowering $m_\\phi\\sim 3$--$4$~MeV makes the charm Yukawa $\\kappa_c\\propto m_\\phi$ perturbative ($\\kappa_c<1$). **[...]** The $B\\to K\\sigma$ penguin predicts $\\mathrm{BR}\\sim 2\\times 10^{-5}$, consistent with the Belle~II evidence for $B^+\\to K^+\\nu\\bar{\\nu}$ at $(2.3\\pm0.7)\\times 10^{-5}$~\\cite{BelleII:2024knv}. All ten classes of experimental, astrophysical, and cosmological constraints are satisfied in the viable window $m_\\phi\\sim 3$--$4$~MeV, with the $B_s$ mixing constraint pending a dedicated lattice calculation.",
+    "published": "Tue, 14 Jul 2026, from: BoQiang Lu",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.12956"
+  },
+  {
+    "id": "2607.12950",
+    "title": "Structure and Dynamics of the Inner Corona Measured from the DEB Initiative 2024 Eclipse Image Sequence",
+    "authors": [
+      "Matthew J Penn",
+      "Robert Baer",
+      "Chris Mandrell",
+      "Corinne Brevik",
+      "Castor Fu",
+      "Mike Conley",
+      "Richard Danley",
+      "Harvey Henson",
+      "David Iadevaia",
+      "Jonathan Mangin",
+      "Chris Midden",
+      "Brodye Miller",
+      "Claude Plymate",
+      "Teresa Plymate",
+      "Zack Stockbridge",
+      "Kevin Rasso",
+      "Autumn Awalt",
+      "Avery Awalt",
+      "Gracie Awalt",
+      "Josh Awalt",
+      "Lauree Rasso",
+      "Mike Chartrand",
+      "Noah Lambert",
+      "Zoee Rasso",
+      "Kevin Cobble",
+      "Amelia Menezes",
+      "Andrew Yu",
+      "Felix Mei",
+      "Hanson Du",
+      "Ramesh Pattar",
+      "Vishrut Kumaran",
+      "Robert Auburger",
+      "Brian J. Drake",
+      "Seth Antozzi",
+      "Chloe Rectanus",
+      "Grayson Garner",
+      "Michael Weiss",
+      "Bill Kloepping",
+      "Deborah Grubis",
+      "Maryanne Angliongto",
+      "Ashvik Chilakala",
+      "Carl Buz McCullough",
+      "Mark Bremer",
+      "Christina Adair",
+      "Amber Huffman",
+      "Charon Adair",
+      "Gabbie Graham",
+      "Nick Tillerson",
+      "Fred Isberner",
+      "Candy Isberner",
+      "Harry Treece",
+      "Lisa Sikorski",
+      "Sage Julian-Fralish",
+      "Heidi Schran",
+      "Addison Greene",
+      "Bibodh Baral",
+      "Crow Ely",
+      "Nolan Hodgson",
+      "Olive Blackmar Rice",
+      "Olivia Andrews",
+      "Olivia Freeman",
+      "Quinn Donnelly",
+      "Serenity Prince Kirk",
+      "Carmen Tran",
+      "Brianna Blanchard",
+      "Kyan West",
+      "Landon Bevier",
+      "Murali Saravanan",
+      "Jeremy Wright"
+    ],
+    "abstract": "The Dynamic Eclipse Broadcast (DEB) Initiative citizen science program observed coronal visible continuum brightness during the 2024 April 8 total eclipse from locations across North America. We present results from 11 DEB sites spanning 2700 km of distance and showing 49 minutes of evolution. **[...]** The fastest observed outflow has a radial speed of 105 km s-1 and is likely associated with a transient event not predicted by the model. Future DEB Initiative eclipse experiments can more tightly constrain models of the inner corona by using both coronal intensity and radial velocity measurements.",
+    "published": "Tue, 14 Jul 2026, from: Matthew Penn",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.12950"
+  },
+  {
+    "id": "2607.12846",
+    "title": "Inferring 3D Coronal Magnetic Fields Through Seismology Assisted Inversions of $IQU$-only Spectropolarimetric Observations",
+    "authors": [
+      "Alin R\u0103zvan Paraschiv"
+    ],
+    "abstract": "The routine measurements of the Stokes $IQUV$ signals of emission lines in the solar corona is still a challenging endeavor, particularly for observations using small-aperture instruments. Therefore, recent studies have explored the use of coronal seismology and propagating Alfv\u00e9nic waves as alternative diagnostics of the coronal magnetic field. **[...]** Using this framework, we perform a comprehensive statistical analysis demonstrating that this combination of diagnostics allows us to infer both magnetic field orientation and strength with an accuracy comparable to that of Stokes $IQUV$ spectropolarimetry. This type of diagnostics is particularly suited for the Fe XIII 1074.7 nm and 1079.8 nm line pair routinely observed by new-generation instruments such as DKIST Cryo-NIRSP, DL-NIRSP, MLSO CoMP/UCoMP, and targeted by the future COSMO and CORSAIR efforts.",
+    "published": "Tue, 14 Jul 2026, from: Alin Razvan Paraschiv",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.12846"
+  },
+  {
+    "id": "2607.12485",
+    "title": "Neutrino superradiance constraint on asteroid-mass PBH Dark Matter and beyond",
+    "authors": [
+      "Yi-Xuan Lin",
+      "Priyanka Sarmah",
+      "Martin Spinrath"
+    ],
+    "abstract": "Primordial Black Holes (PBHs) are an attractive candidate for Dark Matter (DM) and there has been extensive experimental efforts to look for them. The asteroid-mass window, $M_{\\text{PBH}} \\sim 10^{17} - 10^{23}$ g, is particularly interesting, since PBHs in this range may still constitute all of DM. **[...]** These constraints can be significantly stronger than existing microlensing limits in the same mass range. Our results provide a complementary neutrino probe of PBH DM, distinct from previous neutrino constraints based mainly on Hawking evaporation from lighter PBHs.",
+    "published": "Tue, 14 Jul 2026, from: Martin Spinrath",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.12485"
+  },
+  {
+    "id": "2607.12446",
+    "title": "Measuring Ultralight-Axion Coherence with Galaxy Polarization Correlations",
+    "authors": [
+      "Yasuo Doi"
+    ],
+    "abstract": "Ultralight axion-like particles coupled to photons rotate the linear polarization of distant sources. We propose using the three-dimensional two-point correlation of galaxy polarization-rotation angles to measure not only the amplitude of this birefringence field but also its spatial coherence scale. **[...]** For a fiducial survey with $10^6$ polarized galaxies over a quarter of the sky to $z=2$ and effective per-galaxy scatter $\\sigma_{\\rm tot}=10^\\circ$, we find $5\\sigma$ sensitivity to sub-degree correlated rotations over $m_a(10^{-3}c/v_a)\\sim10^{-29}$--$10^{-27}\\,{\\rm eV}$, with $\\sigma[\\log_{10}(m_a v_a)]\\lesssim0.1$ for detected signals across much of this range. This provides a geometric late-time probe complementary to CMB birefringence and structure-formation constraints.",
+    "published": "Tue, 14 Jul 2026, from: Yasuo Doi",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.12446"
+  },
+  {
+    "id": "2607.12164",
+    "title": "Axion like particles multi-parameter sensing",
+    "authors": [
+      "Hassan Manshouri",
+      "Moslem Zarei",
+      "Mehdi Abdi"
+    ],
+    "abstract": "The search for the axion like particles (APLs)-one of the deepest puzzles in modern cosmology-may hold the key to understanding dark matter and dark energy. In this work, we introduce a setup taking advantage of the quantum metrology techniques to constrain the hypothetical mass and coupling constants of APLs by employing exotic pseudoscalar spin-spin interactions between fermions mediated by ALPs. **[...]** Through this strategy, we circumvent the singularity of the quantum Fisher information matrix as an ultimate upper bound on the sensitivity of any probe. For the axion masses in the range of $m_a {\\le} 10^{-3} \\text{eV}$, this setup can exclude values of axion coupling constants $g^e_pg^n_p$ down to $10^{-7}$.",
+    "published": "Mon, 13 Jul 2026, from: Hassan Manshouri",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.12164"
+  },
+  {
+    "id": "2607.12144",
+    "title": "Solar System Probes for Scalar Field Dark Matter",
+    "authors": [
+      "Edmund Ghampson",
+      "Oem Trivedi",
+      "Robert J. Scherrer",
+      "Alfredo Gurrola"
+    ],
+    "abstract": "Scalar field dark matter provides us with a well motivated alternative to conventional particle dark matter, especially when ultralight fields form coherent oscillations or compact self gravitating clumps. Here we develop three complementary Solar System and local Galactic level probes of such models. **[...]** We derive simple sensitivity estimates and null detection bounds on the scalar clump fraction, clock couplings and compact lens abundance. Our results show that Gaia-like astrometry can probe compact scalar clumps at the percent level near $M_s\\gtrsim10^{-2}M_\\odot$, while future astrometric and clock experiments can extend the reach to lower masses and weaker couplings.",
+    "published": "Mon, 13 Jul 2026, from: Edmund Ghampson",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.12144"
+  },
+  {
+    "id": "2607.12036",
+    "title": "The Role of Symmetries in Dark Matter Detector Design",
+    "authors": [
+      "Benjamin Lillard",
+      "Jack D. Shergold",
+      "Juri Smirnov"
+    ],
+    "abstract": "Anisotropic materials have emerged as promising candidates for the next generation of sub-GeV dark matter direct detection experiments, because their intrinsic directionality gives rise to a daily modulation signal as the detector rotates with respect to a dark matter wind. Predicting the shape of the modulation signal requires knowledge of the electronic excited states: however, we show that the amplitude of the modulation can be estimated using only the symmetries of the material. **[...]** Finally, we demonstrate that these estimates are linearly proportional to the absolute magnitude of the modulation signal, allowing us to rank molecular crystals without the need for expensive electronic structure calculations. Together, these results provide a fast and interpretable route to large-scale screening of anisotropic materials for directional dark matter detection.",
+    "published": "Mon, 13 Jul 2026, from: Jack Shergold",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.12036"
+  },
+  {
+    "id": "2607.12004",
+    "title": "Bounds on axion-like particles from fully merged photons at the LHC",
+    "authors": [
+      "Simon Knapen"
+    ],
+    "abstract": "I show that, in the mass range $0.1\\,\\text{GeV} < m_a < 6\\,\\text{GeV}$, the strongest current bound on axion-like particles (ALPs) coupled to photons comes from very high energy $a\\gamma$ production at the LHC. In this regime, the two photons from the ALP decay are collimated and reconstructed as a single photon.",
+    "published": "Mon, 13 Jul 2026, from: Simon Knapen",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.12004"
+  },
+  {
+    "id": "2607.12008",
+    "title": "A Universal Distribution of Dark Matter in Milky Way-like galaxies and How to Infer It",
+    "authors": [
+      "Sam Cheng-Tse Huang",
+      "Matthew R. Buckley",
+      "Justin I. Read",
+      "David Shih"
+    ],
+    "abstract": "The phase-space density of dark matter within the Milky Way is a key quantity that encodes information about the nature of the dark sector. The local phase-space density is also required to properly interpret the results of dark matter direct detection experiments. **[...]** Finally, we construct a model of this universal phase-space distribution using a normalizing flow, trained on the standardized phase-space across simulations. We will apply our method to survey data from Gaia and SDSS in a forthcoming work.",
+    "published": "Mon, 13 Jul 2026, from: Sam Cheng-Tse Huang",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.12008"
+  },
+  {
+    "id": "2607.11887",
+    "title": "Signatures of $10-10^4\\,{\\rm M}_{\\odot}$ Dark Matter halos in LISA via Stochastic Diffraction",
+    "authors": [
+      "Han Gil Choi",
+      "Juan Urrutia",
+      "Miguel Zumalac\u00e1rregui"
+    ],
+    "abstract": "Cold Dark Matter predicts a population of low-mass halos which are sensitive to its fundamental nature and the primordial power spectrum, yet remain undetected. Although elusive, their discovery may be possible thanks to wave-optics lensing of gravitational waves (GWs) by the superposition of many halos along the line of sight. **[...]** The per-event signal is only $O(10^{-3})$ in cold dark matter, demanding major advances in waveform accuracy and data analysis. Even short of that reach, stochastic diffraction places stringent bounds on models that enhance small-scale structure, such as axion miniclusters and primordial black holes.",
+    "published": "Mon, 13 Jul 2026, from: Juan Urrutia",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.11887"
+  },
+  {
+    "id": "2607.11880",
+    "title": "Direct Measurement of Diffusion Coefficients: Evidence for Diffusive Stochastic Heating in Collisionless Plasmas",
+    "authors": [
+      "Tamar Ervin",
+      "Trevor A. Bowen",
+      "Alfred Mallet",
+      "Philip A. Isenberg",
+      "Kristopher G. Klein",
+      "Stuart D. Bale",
+      "Benjamin D. G. Chandran",
+      "Roberto Livi",
+      "Ali Rahmati",
+      "Davin E. Larson"
+    ],
+    "abstract": "Open questions in collisionless plasma dissipation can be addressed using space-based observations in different astrophysical environments, with implications for both astrophysical and laboratory plasma systems. We study a low-$\\beta$, highly imbalanced, sub-Alfv\u00e9nic stream observed by Parker Solar Probe (PSP) to identify and distinguish between signatures of stochastic heating (SH) and resonant heating (RH) by parallel ion cyclotron waves (ICWs). **[...]** In contrast, the derived heating rates for SH that accounts for the effects of the helicity barrier, and heating rates for RH via $\\parallel$-ICWs do not peak in the same region of velocity-space as the empirical measurements, nor reach the required magnitude. Our approach provides novel methodology to uniquely identify and constrain heating processes in collisionless plasmas, and shows evidence of a Fokker-Planck like diffusive process in the near-Sun solar wind.",
+    "published": "Mon, 13 Jul 2026, from: Tamar Ervin",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.11880"
+  },
+  {
+    "id": "2607.11876",
+    "title": "Constraints on Ultra-Light Axions from the DESI DR1 Full Shape, Planck and ACT",
+    "authors": [
+      "Francesco Verdiani",
+      "Emanuele Castorina",
+      "Ennio Salvioni",
+      "Emiliano Sefusatti",
+      "Matteo Viel"
+    ],
+    "abstract": "We present updated bounds on ultra-light axions (ULAs) as a subcomponent of dark matter, derived from the full-shape analysis of the DESI Data Release 1 galaxy power spectra combined with Cosmic Microwave Background (CMB) data from ACT and Planck. We focus on the mass window $10^{-32}\\,\\mathrm{eV}\\leq m_a \\leq 10^{-24}\\,\\mathrm{eV}$, employing state-of-the-art analysis methods rooted in the Effective Field Theory of Large Scale Structure. **[...]** The DESI Luminous Red Galaxy sample shows a mild preference for an ULA subcomponent with $m_a \\approx 10^{-26}\\,\\mathrm{eV}$, mirroring previous hints from BOSS, but this preference vanishes upon combination with CMB data. Probing the largest masses, $m_a\\gtrsim10^{-25}\\,\\mathrm{eV}$, in future studies will benefit from extending the data analysis to smaller scales, both for galaxy clustering and CMB lensing, but will also require concurrent improvements in the theoretical modeling.",
+    "published": "Mon, 13 Jul 2026, from: Francesco Verdiani",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.11876"
+  },
+  {
+    "id": "2607.11876",
+    "title": "Constraints on Ultra-Light Axions from the DESI DR1 Full Shape, Planck and ACT",
+    "authors": [
+      "Francesco Verdiani",
+      "Emanuele Castorina",
+      "Ennio Salvioni",
+      "Emiliano Sefusatti",
+      "Matteo Viel"
+    ],
+    "abstract": "We present updated bounds on ultra-light axions (ULAs) as a subcomponent of dark matter, derived from the full-shape analysis of the DESI Data Release 1 galaxy power spectra combined with Cosmic Microwave Background (CMB) data from ACT and Planck. We focus on the mass window $10^{-32}\\,\\mathrm{eV}\\leq m_a \\leq 10^{-24}\\,\\mathrm{eV}$, employing state-of-the-art analysis methods rooted in the Effective Field Theory of Large Scale Structure. **[...]** The DESI Luminous Red Galaxy sample shows a mild preference for an ULA subcomponent with $m_a \\approx 10^{-26}\\,\\mathrm{eV}$, mirroring previous hints from BOSS, but this preference vanishes upon combination with CMB data. Probing the largest masses, $m_a\\gtrsim10^{-25}\\,\\mathrm{eV}$, in future studies will benefit from extending the data analysis to smaller scales, both for galaxy clustering and CMB lensing, but will also require concurrent improvements in the theoretical modeling.",
+    "published": "Mon, 13 Jul 2026, from: Francesco Verdiani",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.11876"
+  },
+  {
+    "id": "2607.11716",
+    "title": "Stellar flares cannot explain the Galactic 511 keV emission",
+    "authors": [
+      "Saurabh Mittal",
+      "Thomas Siegert",
+      "Francesca Calore",
+      "Fiona H. Panther",
+      "Pasquale D. Serpico",
+      "Hiroki Yoneda",
+      "Niklas C. Bauer",
+      "Tristan Bouchet",
+      "Laura Eisenberger",
+      "Mika A. Gelowicz",
+      "Tomohiko Oka",
+      "Rudi Reinhardt",
+      "Manuel R. H. W. Skalka",
+      "Dimitris Tsatsis",
+      "Manja L. Zimmerer"
+    ],
+    "abstract": "The origin of the 511 keV line signal in the Milky Way remains unresolved despite decades of observations. The measured flux of $\\sim 3 \\times 10^{-3}\\,\\mathrm{ph\\,cm^{-2}\\,s^{-1}}$ suggests a steady-state positron injection rate of $\\sim 10^{43}$-$10^{44}\\,\\mathrm{e^+\\,s^{-1}}$. **[...]** Stellar flares cannot be the dominant source of Galactic positrons. Although previous studies have shown that the measured 511 keV morphology is broadly consistent with old stellar populations, our results exclude normal stellar flaring activity as the underlying source for this emission.",
+    "published": "Mon, 13 Jul 2026, from: Saurabh Mittal",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.11716"
+  },
+  {
+    "id": "2607.11660",
+    "title": "Mapping Oscillatory Flows in a Giant Chromospheric Spiral",
+    "authors": [
+      "Yash.B.Saneshwar",
+      "Eamon Scullion",
+      "Gert J. J. Botha"
+    ],
+    "abstract": "The solar chromosphere is permeated by complex magnetic fields that guide plasma flows and energy into the corona. This work presents a detailed analysis of a unique, high-resolution observation of a giant chromospheric spiral structure that emerges due to a large magnetic pore, captured by the Swedish 1-m Solar Telescope (SST). **[...]** Finally, the emission signature confirms that oscillating threads represent localised channels of brightness that lie within cooler, absorbing loop material. This study provides the first statistical analysis of oscillatory flows in a large-scale spiral, probing energy flow through the chromosphere through curved magnetic structure.",
+    "published": "Mon, 13 Jul 2026, from: Yash Bapurao Saneshwar",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.11660"
+  },
+  {
+    "id": "2607.11447",
+    "title": "Pre-flare and active region plasma flows and structure seen by the short wavelength camera on SOLAR-C/EUVST",
+    "authors": [
+      "James McKevitt",
+      "Sarah Matthews",
+      "David H. Brooks",
+      "Toshifumi Shimizu",
+      "Akiko Tei",
+      "Ignacio Ugarte-Urra",
+      "Shinsuke Imada",
+      "Shin Toriumi",
+      "Charles M. Brown",
+      "Ryohko Ishikawa",
+      "Yukio Katsukawa",
+      "Hirohisa Hara",
+      "Duncan Rust",
+      "David Walton",
+      "Berend Winter",
+      "Deborah Baker",
+      "Hamish Reid",
+      "Peter Young",
+      "Tiago M. D. Pereira",
+      "Louisa Bradley",
+      "Alexey Shitvov",
+      "Louise Harra",
+      "International SOLAR-C team"
+    ],
+    "abstract": "The mechanisms triggering solar flares and driving coronal heating occur across wide temperature ranges on small spatial scales and short timescales, making them difficult to observe with current instrumentation. The upcoming SOLAR-C mission, launching in the late 2020s, will provide unprecedented plasma diagnostic capability with its high-throughput extreme-ultraviolet (EUV) spectroscopic telescope (EUVST), capable of ~0.2 arcsec/pix spatial sampling (~0.4 arcsec resolution), continuous temperature coverage from 0.02-15 MK, and exposure times down to 0.5 seconds. **[...]** Doppler velocity measurement accuracy will reach better than 1 km/s in active regions. We show that this next-generation spectrograph can be expected to directly observe processes potentially related to flare triggering, such as plasma flows from low-altitude reconnection linked to emerging flux, and determine whether active region loops consist of a small number of strands or the hundreds predicted by magnetic reconnection-induced nanoflare heating models.",
+    "published": "Mon, 13 Jul 2026, from: James McKevitt",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.11447"
+  },
+  {
+    "id": "2607.11485",
+    "title": "Superdiffusion of cosmic rays in the vicinity of their accelerators and the resulting $\u03b3$-ray emission",
+    "authors": [
+      "Zhaodong Shi",
+      "Guangwei Wang",
+      "Rui-zhi Yang"
+    ],
+    "abstract": "We study the distribution of cosmic rays (CRs) in the vicinity of their accelerators, assuming that the transport of CRs in the interstellar medium surrounding the accelerators is described by the superdiffusion, beyond the normal diffusion. We find that the superdiffusivity, which is characterized by the superdiffusion parameter $\\alpha$, impacts significantly the distribution of CRs. **[...]** We also compute the $\\gamma$-ray emission, produced by the interactions of CRs with ambient gas and radiation fields, within 100 pc regions around the accelerators. We find that by investigating the $\\gamma$-ray morphology, we can distinguish the superdiffusion from the normal diffusion with present and next-generation imaging air Cherenkov telescopes.",
+    "published": "Mon, 13 Jul 2026, from: Zhaodong Shi",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.11485"
+  },
+  {
+    "id": "2607.11431",
+    "title": "Potential Solar Precursors to Magnetic Switchbacks",
+    "authors": [
+      "Durgesh Tripathi",
+      "Maria S. Madjarska",
+      "Judy Karpen",
+      "Marco Velli",
+      "Clara Froment",
+      "Etienne Pariat",
+      "Spiros Patsourakos",
+      "Nour E. Raouafi",
+      "Alexis P. Rouillard",
+      "Alphonse C. Sterling",
+      "Kostas Tziotziou",
+      "Peter F. Wyper"
+    ],
+    "abstract": "The origin of magnetic switchbacks-large-amplitude, spherically polarized magnetic-field fluctuations with local polarity inversions shown to be nearly ubiquitous in the inner heliosphere by Parker Solar Probe-is presently one of the most outstanding open questions in solar and heliospheric science. The occurrence of these structures in the young solar wind is a topic of active research, focusing not only on their characteristics and evolution but also on unraveling the puzzle of their origin. **[...]** Finally, we discuss some recent studies attempting to connect in situ observations of SBs and SB patches with remote-sensing observations, and the related challenges in identifying solar wind source regions precisely and linking in situ observations to transient solar phenomena. We also clarify the terminology used by the solar community to describe small-scale solar phenomena.",
+    "published": "Mon, 13 Jul 2026, from: Maria Madjarska",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.11431"
+  },
+  {
+    "id": "2607.11336",
+    "title": "Low-Noise SiPM Light Readout and ASIC-Based Charge Readout of a Liquid Argon Time Projection Chamber for MeV Gamma-Ray Measurements",
+    "authors": [
+      "Satoshi Takashima",
+      "Hirokazu Odaka",
+      "Shota Arai",
+      "Kentaro Shirahama",
+      "Ryutaro Tatsumi",
+      "Hodaka Kawamura",
+      "Masashi Tanaka",
+      "Shintaro Arai",
+      "Tsuguo Aramaki",
+      "Aya Bamba",
+      "Lorenzo Fabris",
+      "Georgia Karagiorgi",
+      "Haruki Kuramoto",
+      "Jonathan LeyVa",
+      "John W. Mitchell",
+      "Aiko Miyamoto",
+      "Reshmi Mukherjee",
+      "Kaito Murakami",
+      "Azuki Nagao",
+      "Arathi Suraj",
+      "Sayana Takatsuka",
+      "Chihiro Watanabe",
+      "Shin Watanabe",
+      "Yutaro Yano",
+      "Kazushi Yawata",
+      "Hiroki Yoneda",
+      "Kohei Yorita",
+      "Jiancheng Zeng"
+    ],
+    "abstract": "We have developed a compact liquid argon time projection chamber (LArTPC), NanoGRAMS, as a technology demonstrator for the Gamma-Ray and AntiMatter Survey (GRAMS). LArTPCs have the potential to enable Compton cameras with unprecedented effective area in the MeV gamma-ray band. **[...]** For 2-hit events, the sequence of interactions was identified, and the reconstructed back-projection image agrees with the source position. These results demonstrate the feasibility of NanoGRAMS as a Compton camera for MeV gamma-ray imaging spectroscopy.",
+    "published": "Mon, 13 Jul 2026, from: Satoshi Takashima",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.11336"
+  },
+  {
+    "id": "2607.11147",
+    "title": "Conversion-Driven Baryogenesis in Flavored Dark Matter Models",
+    "authors": [
+      "Benedetta Belfatto",
+      "Monika Blanke",
+      "Jan Heisig",
+      "Lena Rathmann",
+      "Felix Wilsch"
+    ],
+    "abstract": "The dark matter and baryon asymmetry problems remain two of the most pressing questions in fundamental physics. Considering lepton-flavored dark matter, it has recently been shown that the cogenesis of dark matter and the baryon asymmetry can be economically achieved via conversion-driven freeze-out. **[...]** We furthermore assess the impact of thermal effects by comparing a minimal treatment with a setup that approximately accounts for thermal masses and their kinematic consequences. The resulting scenario predicts striking long-lived particle signatures with soft displaced decay products that remain only partially explored at the LHC and motivate dedicated searches at the HL-LHC.",
+    "published": "Mon, 13 Jul 2026, from: Monika Blanke",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.11147"
+  },
+  {
+    "id": "2607.11134",
+    "title": "Spinoptics in the presence of axion-like particles in curved spacetime",
+    "authors": [
+      "Tomoki Takeuchi",
+      "Tsutomu Kobayashi"
+    ],
+    "abstract": "We study the propagation of high-frequency electromagnetic waves coupled to an axionic scalar field in curved spacetime. By applying the effective action approach, we go beyond the standard geometric optics limit and derive spinoptics equations for the axion--Maxwell theory that are valid for arbitrary curved spacetimes and arbitrary axion profiles. These equations allow us to analyze helicity-dependent corrections to photon trajectories arising from the photon's interactions with both the axion field and spacetime curvature. We present representative examples to demonstrate how light trajectories deviate from null geodesics due to spinoptics effects in the presence of an axion field.",
+    "published": "Mon, 13 Jul 2026, from: Tomoki Takeuchi",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.11134"
+  },
+  {
+    "id": "2607.10980",
+    "title": "Magnetic field configuration favoring X-class solar flares: violation of Joy's and Hale's laws",
+    "authors": [
+      "S. Liu",
+      "J.T. Su",
+      "M. Zhang",
+      "J.X. Wang"
+    ],
+    "abstract": "We investigate the statistical relationship between magnetic tilt angle and X-class flare productivity using 39 flare-productive active regions that produced 64 X-class flares. By classifying global magnetic tilt properties into four quadrants based on compliance with Hale's and Joy's laws, we identify their distinctive flare productivity characteristics. **[...]** Furthermore, examination of globally normal (Green quadrant) regions reveals that localized tilt anomalies are universally present and also contribute to X-class flare production. These results establish that abnormal magnetic tilt configurations - whether occurring at the global or local scale - are key indicators of major flare activity.",
+    "published": "Mon, 13 Jul 2026, from: Suo Liu",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.10980"
+  },
+  {
+    "id": "2607.10977",
+    "title": "What Causes the Asymmetry of Conjugate Hard X-Ray Footpoints in Solar Flares?",
+    "authors": [
+      "Mirabbos Mirkamalov",
+      "Rui Liu",
+      "Runbin Luo",
+      "Arun Kumar Awasthi"
+    ],
+    "abstract": "Hard X-ray (HXR) emission in solar flares critically diagnoses nonthermal electron acceleration, transport, and precipitation. Observations commonly show asymmetric HXR photon fluxes between paired footpoints, whose physical origin remains debated, as the conventional magnetic mirroring mechanism often fails to explain the observed asymmetry. **[...]** PVEC at HXR footpoints most likely maps the footprints of coronal current layers where flaring reconnections occur. This tight linkage suggests that the electric-current-associated physical processes, including reconnection-induced electric fields and current-driven micro-turbulence, are at work to modulate the production and precipitation of nonthermal electrons.",
+    "published": "Mon, 13 Jul 2026, from: Mirabbos Mirkamalov Miralievich",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.10977"
+  },
+  {
+    "id": "2607.10974",
+    "title": "Constraints on Annihilating Dark Matter from Gamma-Ray Background-Galaxy Shape Correlations: Model-independent Null Results and Moderate Template-based Signals",
+    "authors": [
+      "Masato Shirasaki",
+      "Deheng Song",
+      "Oscar Macias",
+      "Shunsaku Horiuchi",
+      "Naoki Yoshida"
+    ],
+    "abstract": "We revisit the cross-correlation between the unresolved $\\gamma$-ray background and galaxy shapes to constrain the annihilation cross section of particle dark matter. Our analysis uses $\\gamma$-ray photons from 14 years of observations with the Fermi Large Area Telescope (LAT), together with galaxy shape catalogs from the Dark Energy Survey Year 3 (DES Y3) and the Dark Energy Camera All Data Everywhere (DECADE) project, enabling us to probe cosmological large-scale signals over a common sky area of $\\sim 12{,}000\\,\\mathrm{deg}^2$ shared by the $\\gamma$-ray and galaxy data sets. **[...]** The template-based analysis favors a power-law $\\gamma$-ray energy dependence of the cross-correlation, but also indicates deviations from that expected based on the mean intensity of the unresolved $\\gamma$-ray background around 100 GeV. We further consider decaying dark matter scenarios and derive $2\\sigma$ lower limits on the particle lifetime of $\\sim 10^{26}-10^{27}\\,\\mathrm{s}$, depending on the decay channel.",
+    "published": "Mon, 13 Jul 2026, from: Masato Shirasaki",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.10974"
+  },
+  {
+    "id": "2607.10760",
+    "title": "The KM3NeT 220 PeV event: a neutrino messenger from the grand unification scale?",
+    "authors": [
+      "Vernon Barger"
+    ],
+    "abstract": "The 220~PeV neutrino KM3-230213A, in tension with IceCube and Auger unless narrow, admits a two-body reading: relic decay $X \\to \\nu\\bar\\nu$ with $m_X \\approx 4.4\\times10^{8}$~GeV. Consistency with neutrino and $\\gamma$-ray bounds sets $\\tau/f \\approx 10^{29}$--$10^{30}$~s, lifetime over relic fraction. For a flavored $^1S_0$ onium, the operator scale lands in the Majorana-mass range of unified models: one Higgs insertion gives a singlet mediator, $M/|C_7|^{1/3} \\approx 10^{14}$--$10^{16}$~GeV across the allowed relic fraction; two give the seesaw window; Dirac or Majorana neutrinos select the branch. We give the construction and its decisive tests.",
+    "published": "Sun, 12 Jul 2026, from: Vernon Barger",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.10760"
+  },
+  {
+    "id": "2607.10716",
+    "title": "Migdal ionization as a probe of light dark matter from Nuclear Transition",
+    "authors": [
+      "Yuanchao Lou",
+      "Liangliang Su",
+      "Lei Wu"
+    ],
+    "abstract": "Nuclear reactors serve as a key artificial source of light dark matter. Direct detection of reactor-produced dark matter faces substantial obstacles, since quenching effects suppress conventional elastic scattering signals below detector thresholds. We present a new search strategy utilizing the Migdal effect in germanium detectors to probe light dark matter produced via nuclear de-excitation from reactors. Using ON-OFF residual spectra from the TEXONO experiment, we set a new stringent limit on the dark matter and nucleus interaction over the mass range $0.01\\,\\text{MeV}\\le m_\\chi \\lesssim 2.6\\,\\text{MeV}$, which provides a complementary bound to existing cosmological and astrophysical limits.",
+    "published": "Sun, 12 Jul 2026, from: Yuanchao Lou",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.10716"
+  },
+  {
+    "id": "2607.10672",
+    "title": "Do primordial quark pellets solve the dark matter puzzle?",
+    "authors": [
+      "Domenec Espriu"
+    ],
+    "abstract": "We show that primordial quark pellets (PQP), ultra dense quark matter mini-stars formed at around 1 TeV, naturally arise in a radiation dominated universe if rare baryon overdensities are produced by collapsing Peccei-Quinn domain walls or similar superhorizon structures. Solving the Tolman-Oppenheimer-Volkoff equation with a hot quark equation of state, we find stable solutions with a maximum mass of $10^{-2}$ solar masses and radii of approximately 100 meters, although the formation mechanism favours much smaller objects. **[...]** PQPs completely evade microlensing constraints if their mass is below $10^{-7}$ solar masses, a range that could easily accommodate most of the dark matter. PQPs thus potentially constitute a conservative, Standard-Model based, and observationally testable solution to the dark matter puzzle.",
+    "published": "Sun, 12 Jul 2026, from: Domenec Espriu",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.10672"
+  },
+  {
+    "id": "2607.10607",
+    "title": "Conformal dark matter and MHz gravitational waves",
+    "authors": [
+      "Imtiaz Khan",
+      "Niamat Ullah",
+      "Salvatore Capozziello",
+      "G. Mustafa",
+      "Farruh Atamurotov"
+    ],
+    "abstract": "A localized enhancement of the primordial curvature spectrum can leave two distinct relics: gravitationally produced conformal-fermion dark matter and a scalar-induced stochastic gravitational-wave background. We show that the dark-matter abundance fixes the scalar normalization through the cubic moment of the curvature spectrum, while the induced tensor signal probes its quadratic convolution. **[...]** In this construction, a null high-frequency search becomes a lower bound on the conformal-fermion mass, while a detection has to reproduce the relic abundance, peak frequency, amplitude, and width from one primordial feature. The result is a testable link between small-scale inflationary structure, superheavy dark matter, and laboratory MHz gravitational-wave searches",
+    "published": "Sun, 12 Jul 2026, from: Ghulam Mustafa",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.10607"
+  },
+  {
+    "id": "2607.10607",
+    "title": "Conformal dark matter and MHz gravitational waves",
+    "authors": [
+      "Imtiaz Khan",
+      "Niamat Ullah",
+      "Salvatore Capozziello",
+      "G. Mustafa",
+      "Farruh Atamurotov"
+    ],
+    "abstract": "A localized enhancement of the primordial curvature spectrum can leave two distinct relics: gravitationally produced conformal-fermion dark matter and a scalar-induced stochastic gravitational-wave background. We show that the dark-matter abundance fixes the scalar normalization through the cubic moment of the curvature spectrum, while the induced tensor signal probes its quadratic convolution. **[...]** In this construction, a null high-frequency search becomes a lower bound on the conformal-fermion mass, while a detection has to reproduce the relic abundance, peak frequency, amplitude, and width from one primordial feature. The result is a testable link between small-scale inflationary structure, superheavy dark matter, and laboratory MHz gravitational-wave searches",
+    "published": "Sun, 12 Jul 2026, from: Ghulam Mustafa",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.10607"
+  },
+  {
+    "id": "2607.10521",
+    "title": "Quantum corrections as a Bound for Detecting Self-Interacting Ultralight Dark Matter",
+    "authors": [
+      "Jae-Weon Lee",
+      "Chueng-Ryong Ji"
+    ],
+    "abstract": "We investigate the implications of the interactions between ultralight dark matter (ULDM) and the Standard model particles for the effective self-interaction coupling constants of ULDM. Our analysis shows that one-loop quantum corrections can result in a substantial increase in the effective coupling constant, which is tightly constrained by cosmological observations. Our findings highlight the importance of considering quantum corrections in the detection of ULDM.",
+    "published": "Sun, 12 Jul 2026, from: Jae-Weon Lee Prof.",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.10521"
+  },
+  {
+    "id": "2607.10516",
+    "title": "Radial Evolution of Near-Sun Magnetic Switchbacks Alfvenicity, Occurrence Rate, and Size",
+    "authors": [
+      "Xiaolei Li",
+      "Chen Shi",
+      "Yuliang Ding"
+    ],
+    "abstract": "Magnetic switchbacks, characterized by reversals of magnetic field direction, are widely observed in the inner heliosphere by Parker Solar Probe (PSP). With PSP reaching perihelia near 10Rs, observations from the first 24 encounters enable studies of near-Sun switchback evolution at r > 10Rs. **[...]** Solar activity influences switchback evolution through changes in background solar wind properties, with a larger fraction of higher-MA switchbacks during solar minimum. We further identify anisotropy relative to the background magnetic field direction: the local occurrence rate and spatial size are approximately 1.5 times as large in the perpendicular direction as in the parallel direction, indicating distinct magnetic topology of switchback patches",
+    "published": "Sun, 12 Jul 2026, from: Xiaolei Li",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.10516"
+  },
+  {
+    "id": "2607.10404",
+    "title": "Lorentz-Violating Photon Decay into Neutrinos and Constraints from PeV Photon Stability",
+    "authors": [
+      "Zurab Kepuladze"
+    ],
+    "abstract": "We study the vacuum decay of a Lorentz-violating photon into a neutrino-antineutrino pair. Lorentz-violating corrections to the photon dispersion relation are parametrized through an effective invariant mass $m_{\\mathrm{eff}}^{2}=k_{\\alpha}k^{\\alpha}$. **[...]** Above the threshold, $\\gamma\\to e^{+}e^{-}$ dominates unless the relative photon-electron LIV parameter closes this channel. In that case, the neutrino decay gives an independent constraint on photon-neutrino relative LIV parameters.",
+    "published": "Sat, 11 Jul 2026, from: Zurab Kepuladze",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.10404"
+  },
+  {
+    "id": "2607.10419",
+    "title": "Diffhalos: A Generative Model of Cosmological Lightcones of Dark Matter Halos",
+    "authors": [
+      "Georgios Zacharegkas",
+      "Andrew P. Hearin",
+      "Alan Pearl",
+      "Matthew R. Becker",
+      "Florian K\u00e9ruzor\u00e9",
+      "Sara Ortega-Martinez"
+    ],
+    "abstract": "We present a generative model of cosmological lightcones of dark matter halos, Diffhalos. In our model, we draw Monte Carlo samples of the halo mass function in a lightcone with a JAX-based implementation of the halo model, Halox, and we generate samples of subhalos by drawing from a model for the conditional subhalo mass function. **[...]** As an example application, we use Diffhalos to calculate gradients of the halo and subhalo mass functions with respect to cosmological parameters. We conclude with a discussion of ongoing work using Diffhalos together with models of the galaxy--halo connection to make theoretical predictions for cosmological populations of galaxies, and to generate mock galaxy catalogs.",
+    "published": "Sat, 11 Jul 2026, from: Georgios Zacharegkas",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.10419"
+  },
+  {
+    "id": "2607.10403",
+    "title": "The muon Moonshot: Moon subsurface tomography with upward-going muons",
+    "authors": [
+      "Zimo Hu",
+      "Leyun Gao",
+      "Zhengyun You",
+      "Qite Li",
+      "Qiang Li",
+      "Yuhong Yu",
+      "Liangwen Chen",
+      "Xueheng Zhang",
+      "Zhiyu Sun"
+    ],
+    "abstract": "We propose a novel muon Moonshot concept for lunar subsurface tomography based on upward-going muons originated from the lunar regolith. Unlike the Earth, the Moon lacks an atmosphere, leaving a dense regolith below and a near-vacuum environment above. **[...]** The results indicate that the lunar muon flux is sensitive to detector altitude under a flat-terrain assumption, demonstrating its potential as a novel non-invasive probe of shallow subsurface voids. We also present case studies on detecting underground cavities and water resources, with cavity-induced flux variations observable in less than a minute and weaker water signals distinguishable after about ten minutes of data collection, and discuss potential implementations in future lunar missions.",
+    "published": "Sat, 11 Jul 2026, from: Leyun Gao",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.10403"
+  },
+  {
+    "id": "2607.10048",
+    "title": "Electron Acceleration and Plasma Heating in an Impulsive Confined C-class Solar Flare",
+    "authors": [
+      "I.N. Sharykin",
+      "I.V. Zimovets",
+      "G.V. Koynash",
+      "E.F. Ivanov",
+      "V.V. Fedenev",
+      "S.A. Anfinogentov"
+    ],
+    "abstract": "A detailed analysis of the impulsive C2.8 solar flare SOL2023-03-19T02:12 is presented, focusing on the microwave (MW) and X-ray domains. The flare was selected because of its impulsive nature, the relatively simple magnetic morphology of its parent active region (AR) NOAA 13256, its confined evolution, its moderate intensity, pronounced non-stationary temporal behaviour, and the availability of a unique multi-wavelength dataset. **[...]** Given the confined nature of the event and the reconstructed magnetic configuration, we infer that magnetic reconnection most likely occurred within current sheets possessing a substantial guide-field component. The observed non-stationary QPPs in the non-thermal emission, with periods decreasing from approximately 15 to 9 s, are interpreted as signatures of a sequence of magnetic reconnection episodes occurring in different magnetic structures and triggered quasi-periodically by a process that remains uncertain, but which may involve propagating slow magnetoacoustic waves.",
+    "published": "Sat, 11 Jul 2026, from: Ivan Sharykin",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.10048"
+  },
+  {
+    "id": "2607.09112",
+    "title": "Physics and Astrophysics of Black Holes with eXTP",
+    "authors": [
+      "Cosimo Bambi"
+    ],
+    "abstract": "The enhanced X-ray Timing and Polarimetry (eXTP) mission will combine spectral, timing, and polarimetric techniques to study accreting black holes, measure their masses and spins, and test Einstein's theory of General Relativity in the strong-field regime. In this contribution, I review the capabilities of eXTP to advance our current understanding of black hole physics and astrophysics.",
+    "published": "Fri, 10 Jul 2026, from: Cosimo Bambi",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.09112"
+  },
+  {
+    "id": "2607.08818",
+    "title": "Dark matter density profiles of the Milky Way satellite population: reconciling simulations and observations",
+    "authors": [
+      "Jorge Sarrato-Al\u00f3s",
+      "Jos\u00e9 Mar\u00eda Arroyo-Polonio"
+    ],
+    "abstract": "The cusp-core problem remains a key challenge for the $\\Lambda$CDM model. Historically, comparing inner dark matter halo slopes ($d\\log\\rho/d\\log r$) from simulations and observations has suffered from a methodological mismatch: evaluating slopes at different radii creates apparent tensions due to inconsistent definitions rather than genuine physical differences. **[...]** Furthermore, differing observational models present scatter for a given system comparable to the simulation-to-observation offset. Evaluating dark matter density slopes at fixed physical radii significantly improves agreement between hydrodynamical simulations and dynamical models, revealing no clear tension when comparing profiles at fixed stellar mass, but Willman\\,1 remains an unresolved outlier.",
+    "published": "Thu, 9 Jul 2026, from: Jorge Sarrato-Al\u00f3s",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.08818"
+  },
+  {
+    "id": "2607.09852",
+    "title": "Darkly Charged ALPs",
+    "authors": [
+      "Nicol\u00e1s M. Arenaza",
+      "Enrique Fern\u00e1ndez-Mart\u00ednez",
+      "Bel\u00e9n Gavela",
+      "Elizabeth E. Jenkins",
+      "Aneesh V. Manohar",
+      "Pablo Qu\u00edlez",
+      "Thomas Steingasser"
+    ],
+    "abstract": "The established $d=5$ ALP effective Lagrangian describes the interaction of scalars with approximate shift-symmetry which carry no Standard Model (SM) charges with SM fields. It implicitly assumes that ALPs are not charged under any symmetries of the dark sector. **[...]** The darkly-charged ALP scenario can be generalized by including dark gauge interactions. In this paper, we have considered only the case with no such interactions.",
+    "published": "Fri, 10 Jul 2026, from: Nicol\u00e1s Alberto Mart\u00ednez De Arenaza",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.09852"
+  },
+  {
+    "id": "2607.09845",
+    "title": "Searching for heavy charged relics in the Earth",
+    "authors": [
+      "Reza Ebadi",
+      "Peter W. Graham",
+      "Surjeet Rajendran",
+      "Erwin H. Tanin",
+      "Samuel S. Y. Wong"
+    ],
+    "abstract": "We propose a method for detecting an ambient density of heavy, electrically-charged particles. Such particles would impact the Earth, lose energy in terrestrial matter, and become trapped. **[...]** This method enables the discovery of charged relics with masses $1-10^{12}\\,{\\rm TeV}$ comprising a tiny fraction of the local dark matter density, reaching down to $f_X\\sim 10^{-20}$ at the lowest masses. A pathfinder experiment using only a liter of water and one centrifuge (or $\\sim \\text{m}^3$ and no centrifuge) operating for a month can already reach $f_X\\sim 10^{-10}$ and probe new parameter space.",
+    "published": "Fri, 10 Jul 2026, from: Erwin Tanin",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.09845"
+  },
+  {
+    "id": "2607.09918",
+    "title": "Do Primordial Black Hole Clusters Survive the Galaxy? Collisional Disruption and Microlensing Implications",
+    "authors": [
+      "M.V. Tkachev",
+      "S.V. Pilipenko"
+    ],
+    "abstract": "We study the collisional disruption of primordial black hole (PBH) clusters in the Milky Way halo. Encounters between clusters strip PBHs into a diffuse component, and the fraction of PBH mass in this smooth component along a sightline determines how microlensing constraints divide between isolated compact objects and extended cluster lenses. **[...]** The surviving mass fraction at the Solar circle is $S\\simeq0.50$ ($10^6\\,M_\\odot$) and $0.04$ ($10^7\\,M_\\odot$), and the DM-mass-weighted smooth fraction toward the LMC and SMC is $0.49$ and $0.92$, respectively. Cluster-cluster disruption is thus substantial over the Galaxy's lifetime, and reanalyses of microlensing surveys must account for the radially varying smooth fraction $f_{\\rm sm}(r)$ derived here.",
+    "published": "Fri, 10 Jul 2026, from: Maxim Tkachev V.",
+    "year": 2026,
+    "month": 7,
+    "link": "https://arxiv.org/abs/2607.09918"
   }
 ]
